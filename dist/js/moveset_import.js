@@ -99,7 +99,7 @@ function statToLegacyStat(stat) {
 	case 'def':
 		return "df";
 	case 'spa':
-		return "sa";
+		return (gen > 1) ? "sa" : "sl";
 	case 'spd':
 		return "sd";
 	case 'spe':

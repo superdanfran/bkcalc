@@ -1,2 +1,15460 @@
-/* AUTOMATICALLY GENERATED FROM @smogon/sets, DO NOT EDIT! */
-var SETDEX_RBY = {"Abra":{"NU Special Attacker":{"level":100,"moves":["Psychic","Thunder Wave","Seismic Toss","Reflect"]}},"Aerodactyl":{"UU Speed Utility":{"level":100,"moves":["Double-Edge","Hyper Beam","Fire Blast","Toxic"]}},"Alakazam":{"OU Standard":{"level":100,"moves":["Psychic","Seismic Toss","Thunder Wave","Recover"]},"Uber Standard":{"level":100,"moves":["Thunder Wave","Seismic Toss","Psychic","Recover"]}},"Arbok":{"OU Wrapper":{"level":100,"moves":["Glare","Wrap","Earthquake","Hyper Beam"]},"UU Glare + Wrap":{"level":100,"moves":["Glare","Wrap","Earthquake","Hyper Beam"]},"NU Glare + Wrap":{"level":100,"moves":["Glare","Wrap","Earthquake","Body Slam"]}},"Arcanine":{"UU Agility Sweeper":{"level":100,"moves":["Agility","Body Slam","Hyper Beam","Fire Blast"]},"NU Bulky Mixed Attacker":{"level":100,"moves":["Fire Blast","Body Slam","Hyper Beam","Rest"]}},"Articuno":{"OU Standard":{"level":100,"moves":["Blizzard","Agility","Double-Edge","Hyper Beam"]},"UU Agility Sweeper":{"level":100,"moves":["Blizzard","Double-Edge","Hyper Beam","Agility"]},"Uber Bulky Attacker":{"level":100,"moves":["Blizzard","Hyper Beam","Rest","Agility"]}},"Beedrill":{"UU Showdown Usage":{"level":100,"moves":["Hyper Beam","Agility","Swords Dance","Substitute"]},"NU Double Dance":{"level":100,"moves":["Agility","Swords Dance","Twineedle","Hyper Beam"]}},"Blastoise":{"UU Bulky Attacker":{"level":100,"moves":["Surf","Blizzard","Earthquake","Rest"]},"NU Bulky Attacker":{"level":100,"moves":["Surf","Ice Beam","Body Slam","Rest"]}},"Butterfree":{"UU Showdown Usage":{"level":100,"moves":["Psychic","Stun Spore","Flash","Substitute"]},"NU Double Powder":{"level":100,"moves":["Sleep Powder","Stun Spore","Psychic","Psywave"]}},"Caterpie":{"UU Showdown Usage":{"level":100,"moves":["Tackle","String Shot"]}},"Chansey":{"OU Reflect":{"level":100,"moves":["Reflect","Seismic Toss","Soft-Boiled","Thunder Wave"]},"OU BoltBeam":{"level":100,"moves":["Thunderbolt","Ice Beam","Soft-Boiled","Thunder Wave"]},"OU Sing":{"level":100,"moves":["Sing","Ice Beam","Soft-Boiled","Thunder Wave"]},"Uber Light Screen":{"level":100,"moves":["Light Screen","Seismic Toss","Soft-Boiled","Thunder Wave"]},"Uber Sing":{"level":100,"moves":["Sing","Seismic Toss","Soft-Boiled","Thunder Wave"]}},"Charizard":{"OU Swords Dance":{"level":100,"moves":["Swords Dance","Hyper Beam","Earthquake","Slash"]},"UU Swords Dance Wallbreaker":{"level":100,"moves":["Swords Dance","Fire Blast","Earthquake","Body Slam"]},"NU Fire Spin Pivot":{"level":100,"moves":["Fire Spin","Fire Blast","Earthquake","Slash"]},"NU Swords Dance Sweeper":{"level":100,"moves":["Swords Dance","Earthquake","Hyper Beam","Fire Spin"]}},"Clefable":{"OU Status Spreader":{"level":100,"moves":["Mega Kick","Hyper Beam","Blizzard","Thunder Wave"]},"OU Offensive":{"level":100,"moves":["Blizzard","Body Slam","Hyper Beam","Thunderbolt"]},"OU Status Inducer":{"level":100,"moves":["Blizzard","Thunder Wave","Sing","Thunderbolt"]},"UU Offensive Utility":{"level":100,"moves":["Thunder Wave","Body Slam","Hyper Beam","Thunderbolt"]},"NU Bulky Support":{"level":100,"moves":["Body Slam","Blizzard","Thunderbolt","Thunder Wave"]}},"Cloyster":{"OU Standard":{"level":100,"moves":["Clamp","Blizzard","Rest","Explosion"]},"Uber Clamp":{"level":100,"moves":["Clamp","Blizzard","Explosion","Rest"]}},"Dewgong":{"UU Defensive":{"level":100,"moves":["Blizzard","Surf","Body Slam","Rest"]}},"Ditto":{"NU Transformer":{"level":100,"moves":["Transform"]}},"Dodrio":{"OU Agility Sweeper":{"level":100,"moves":["Body Slam","Drill Peck","Hyper Beam","Agility"]},"UU Physical Sweeper":{"level":100,"moves":["Body Slam","Drill Peck","Hyper Beam","Agility"]}},"Dragonair":{"NU Agility + Wrap":{"level":100,"moves":["Wrap","Thunder Wave","Hyper Beam","Agility"]},"PU AgiliWrap":{"level":100,"moves":["Agility","Wrap","Blizzard","Thunder Wave"]}},"Dragonite":{"OU Wrap":{"level":100,"moves":["Wrap","Hyper Beam","Blizzard","Thunder Wave"]},"OU AgiliWrap":{"level":100,"moves":["Agility","Wrap","Hyper Beam","Surf"]},"UU Wrap Pivot":{"level":100,"moves":["Wrap","Thunder Wave","Blizzard","Body Slam"]},"UU PhysNite (Offensive)":{"level":100,"moves":["Blizzard","Body Slam","Thunderbolt","Hyper Beam"]},"UU Agility Sweeper":{"level":100,"moves":["Blizzard","Thunderbolt","Hyper Beam","Agility"]},"Uber Agility + Wrap":{"level":100,"moves":["Agility","Wrap","Surf","Hyper Beam"]}},"Drowzee":{"NU Standard":{"level":100,"moves":["Psychic","Seismic Toss","Thunder Wave","Rest"]},"PU Bulky Support":{"level":100,"moves":["Hypnosis","Psychic","Seismic Toss","Thunder Wave"]}},"Dugtrio":{"UU Physical Attacker":{"level":100,"moves":["Earthquake","Rock Slide","Slash","Toxic"]}},"Electabuzz":{"UU Offensive":{"level":100,"moves":["Thunder Wave","Thunderbolt","Body Slam","Psychic"]}},"Electrode":{"UU Fast Attacker":{"level":100,"moves":["Thunderbolt","Thunder Wave","Explosion","Screech"]},"NU Fast Attacker":{"level":100,"moves":["Thunder Wave","Thunderbolt","Explosion","Screech"]},"Uber Explosion":{"level":100,"moves":["Thunder Wave","Thunderbolt","Screech","Explosion"]}},"Exeggcute":{"NU Support":{"level":100,"moves":["Sleep Powder","Stun Spore","Psychic","Rest"]}},"Exeggutor":{"OU Sleeper":{"level":100,"moves":["Sleep Powder","Psychic","Explosion","Double-Edge"]},"Uber Bulky Sleeper":{"level":100,"moves":["Sleep Powder","Stun Spore","Psychic","Explosion"]}},"Farfetch’d":{"NU Double Dance":{"level":100,"moves":["Body Slam","Slash","Swords Dance","Agility"]}},"Fearow":{"UU Physical Sweeper":{"level":100,"moves":["Double-Edge","Hyper Beam","Drill Peck","Agility"]},"NU Physical Attacker":{"level":100,"moves":["Drill Peck","Double-Edge","Hyper Beam","Mirror Move"]}},"Flareon":{"OU Mixed Attacker":{"level":100,"moves":["Fire Blast","Body Slam","Hyper Beam","Fire Spin"]},"NU Mixed Fire Spin":{"level":100,"moves":["Fire Spin","Fire Blast","Body Slam","Hyper Beam"]}},"Gastly":{"NU Hypnosis":{"level":100,"moves":["Hypnosis","Thunderbolt","Mega Drain","Night Shade"]}},"Gengar":{"OU Sleep Inducer":{"level":100,"moves":["Hypnosis","Night Shade","Thunderbolt","Explosion"]},"Uber Sleeper":{"level":100,"moves":["Hypnosis","Night Shade","Thunderbolt","Explosion"]}},"Golbat":{"NU Utility Screech":{"level":100,"moves":["Screech","Double-Edge","Confuse Ray","Mega Drain"]}},"Golduck":{"UU Amnesia":{"level":100,"moves":["Amnesia","Hydro Pump","Blizzard","Rest"]}},"Golem":{"OU Tank":{"level":100,"moves":["Earthquake","Rock Slide","Explosion","Body Slam"]},"UU Standard":{"level":100,"moves":["Earthquake","Rock Slide","Substitute","Explosion"]},"NU Explosion":{"level":100,"moves":["Explosion","Earthquake","Rock Slide","Substitute"]},"Uber Explosion":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Explosion"]}},"Gyarados":{"OU Wallbreaker":{"level":100,"moves":["Hydro Pump","Thunderbolt","Body Slam","Hyper Beam"]},"UU All-out Attacker":{"level":100,"moves":["Body Slam","Blizzard","Hyper Beam","Thunderbolt"]}},"Haunter":{"UU Showdown Usage":{"level":100,"moves":["Thunderbolt","Explosion","Psychic","Confuse Ray"]}},"Hitmonchan":{"NU Physical Attacker":{"level":100,"moves":["Submission","Body Slam","Agility","Counter"]}},"Hitmonlee":{"NU Meditate Attacker":{"level":100,"moves":["Meditate","High Jump Kick","Body Slam","Counter"]}},"Hypno":{"OU Double Status":{"level":100,"moves":["Hypnosis","Thunder Wave","Psychic","Seismic Toss"]},"UU Standard":{"level":100,"moves":["Psychic","Seismic Toss","Thunder Wave","Rest"]},"Uber Sleeper":{"level":100,"moves":["Hypnosis","Thunder Wave","Psychic","Seismic Toss"]}},"Jolteon":{"OU Offensive":{"level":100,"moves":["Thunder Wave","Thunderbolt","Double Kick","Rest"]},"Uber Paralysis Lead":{"level":100,"moves":["Thunder Wave","Thunderbolt","Pin Missile","Double Kick"]}},"Jynx":{"OU Lead Sleeper":{"level":100,"moves":["Lovely Kiss","Blizzard","Psychic","Rest"]},"Uber Sleep Lead":{"level":100,"moves":["Lovely Kiss","Blizzard","Psychic","Counter"]}},"Kabutops":{"UU Mixed Sweeper":{"level":100,"moves":["Hyper Beam","Slash","Blizzard","Swords Dance"]},"NU Swords Dance":{"level":100,"moves":["Swords Dance","Hyper Beam","Body Slam","Surf"]},"NU Rest":{"level":100,"moves":["Rest","Slash","Body Slam","Surf"]}},"Kadabra":{"UU Standard":{"level":100,"moves":["Psychic","Thunder Wave","Seismic Toss","Recover"]}},"Kangaskhan":{"OU Wallbreaker":{"level":100,"moves":["Body Slam","Hyper Beam","Earthquake","Surf"]},"UU Wallbreaker":{"level":100,"moves":["Body Slam","Hyper Beam","Earthquake","Rock Slide"]}},"Kingler":{"OU Swords Dance":{"level":100,"moves":["Swords Dance","Hyper Beam","Body Slam","Crabhammer"]},"UU Showdown Usage":{"level":100,"moves":["Crabhammer","Swords Dance","Hyper Beam","Blizzard"]},"NU The Cringe Crab (Swords Dance)":{"level":100,"moves":["Swords Dance","Body Slam","Hyper Beam","Crabhammer"]}},"Lapras":{"OU Standard":{"level":100,"moves":["Blizzard","Thunderbolt","Hyper Beam","Sing"]},"UU UU Standard":{"level":100,"moves":["Blizzard","Thunderbolt","Body Slam","Rest"]},"Uber Special Attacker":{"level":100,"moves":["Sing","Blizzard","Thunderbolt","Body Slam"]}},"Lickitung":{"UU Showdown Usage":{"level":100,"moves":["Earthquake","Swords Dance","Body Slam","Wrap"]},"NU Swords Dance":{"level":100,"moves":["Swords Dance","Body Slam","Earthquake","Wrap"]}},"Machamp":{"OU Wallbreaker":{"level":100,"moves":["Low Kick","Body Slam","Hyper Beam","Earthquake"]},"UU Showdown Usage":{"level":100,"moves":["Earthquake","Body Slam","Rock Slide","Submission"]},"NU All-Out Attacker":{"level":100,"moves":["Submission","Earthquake","Body Slam","Rock Slide"]}},"Magmar":{"NU Mixed Attacker":{"level":100,"moves":["Fire Blast","Seismic Toss","Submission","Psychic"]}},"Magneton":{"UU Bulky Special Attacker":{"level":100,"moves":["Thunderbolt","Thunder Wave","Double-Edge","Rest"]},"NU Offensive":{"level":100,"moves":["Thunder Wave","Thunder","Double-Edge","Rest"]}},"Marowak":{"NU Counter":{"level":100,"moves":["Earthquake","Body Slam","Blizzard","Counter"]}},"Mew":{"Uber Traditional Sweeper":{"level":100,"moves":["Swords Dance","Earthquake","Body Slam","Soft-Boiled"]},"Uber GGMew (Reflect Sweeper)":{"level":100,"moves":["Reflect","Swords Dance","Body Slam","Soft-Boiled"]},"Uber Explosive Lure":{"level":100,"moves":["Thunder Wave","Swords Dance","Body Slam","Explosion"]},"Uber Lutrew / PaRaSiTe Mew (Transform)":{"level":100,"moves":["Transform","Thunder Wave","Soft-Boiled","Reflect"]}},"Mewtwo":{"Uber Standard":{"level":100,"moves":["Amnesia","Psychic","Thunderbolt","Recover"]},"Uber BooM2 (Self-Destruct)":{"level":100,"moves":["Amnesia","Recover","Thunderbolt","Self-Destruct"]},"Uber Staller":{"level":100,"ivs":{"sa":26},"evs":{"hp":252,"at":252,"df":252,"sa":8,"sd":252,"sp":252},"moves":["Amnesia","Thunderbolt","Flash","Recover"]}},"Moltres":{"OU Standard":{"level":100,"moves":["Fire Blast","Hyper Beam","Agility","Fire Spin"]},"UU Showdown Usage":{"level":100,"moves":["Fire Blast","Hyper Beam","Double-Edge","Agility"]},"NU Rest":{"level":100,"moves":["Fire Spin","Fire Blast","Toxic","Rest"]},"NU Agility":{"level":100,"moves":["Fire Spin","Fire Blast","Hyper Beam","Agility"]}},"Mr. Mime":{"UU Showdown Usage":{"level":100,"moves":["Thunder Wave","Psychic","Thunderbolt","Counter"]},"NU Offensive Utility":{"level":100,"moves":["Psychic","Thunderbolt","Thunder Wave","Seismic Toss"]}},"Muk":{"NU Physical Attacker":{"level":100,"moves":["Sludge","Thunderbolt","Mega Drain","Explosion"]}},"Nidoking":{"UU Mixed Attacker":{"level":100,"moves":["Thunderbolt","Blizzard","Earthquake","Body Slam"]},"NU Mixed Attacker":{"level":100,"moves":["Earthquake","Thunderbolt","Blizzard","Rock Slide"]}},"Nidoqueen":{"UU Mixed Attacker":{"level":100,"moves":["Earthquake","Blizzard","Thunderbolt","Body Slam"]},"NU Mixed Attacker":{"level":100,"moves":["Earthquake","Thunderbolt","Blizzard","Rock Slide"]},"PU Mixed Attacker":{"level":100,"moves":["Earthquake","Thunderbolt","Blizzard","Rock Slide"]}},"Ninetales":{"UU Fire Spin Pivot":{"level":100,"moves":["Fire Blast","Fire Spin","Body Slam","Confuse Ray"]},"NU Fire Spin":{"level":100,"moves":["Fire Spin","Fire Blast","Toxic","Rest"]}},"Omastar":{"OU Tank":{"level":100,"moves":["Hydro Pump","Ice Beam","Body Slam","Rest"]},"UU Defensive":{"level":100,"moves":["Surf","Blizzard","Body Slam","Rest"]}},"Onix":{"NU Bind Pivot":{"level":100,"moves":["Bind","Rock Slide","Earthquake","Explosion"]}},"Parasect":{"UU Showdown Usage":{"level":100,"moves":["Swords Dance","Stun Spore","Hyper Beam","Substitute"]},"NU Setup Sleeper":{"level":100,"moves":["Spore","Stun Spore","Swords Dance","Hyper Beam"]}},"Persian":{"OU Slash":{"level":100,"moves":["Slash","Hyper Beam","Bubble Beam","Thunderbolt"]},"UU Revenge Killer":{"level":100,"moves":["Slash","Hyper Beam","Thunderbolt","Toxic"]},"Uber Slash":{"level":100,"moves":["Slash","Hyper Beam","Thunderbolt","Bubble Beam"]}},"Pidgeot":{"NU Agility Sweeper":{"level":100,"moves":["Double-Edge","Hyper Beam","Mirror Move","Agility"]}},"Pinsir":{"OU Swords Dance":{"level":100,"moves":["Swords Dance","Hyper Beam","Slash","Submission"]},"UU Swords Dance Sweeper":{"level":100,"moves":["Swords Dance","Hyper Beam","Slash","Bind"]},"NU Swords Dance + Bind":{"level":100,"moves":["Swords Dance","Hyper Beam","Slash","Bind"]}},"Poliwhirl":{"NU Amnesia Sleeper":{"level":100,"moves":["Hypnosis","Amnesia","Psychic","Blizzard"]}},"Poliwrath":{"OU Amnesia":{"level":100,"moves":["Hypnosis","Amnesia","Surf","Submission"]},"UU Amnesia":{"level":100,"moves":["Amnesia","Surf","Blizzard","Rest"]}},"Porygon":{"OU Wall":{"level":100,"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]},"UU Staller":{"level":100,"moves":["Thunderbolt","Ice Beam","Thunder Wave","Recover"]},"NU Standard":{"level":100,"moves":["Thunderbolt","Psychic","Thunder Wave","Recover"]},"NU Conversion":{"level":100,"moves":["Conversion","Ice Beam","Thunder Wave","Recover"]}},"Primeape":{"NU All-out Attacker":{"level":100,"moves":["Submission","Body Slam","Rock Slide","Hyper Beam"]}},"Raichu":{"OU Offensive":{"level":100,"moves":["Thunderbolt","Surf","Thunder Wave","Submission"]},"UU Agility Sweeper":{"level":100,"moves":["Thunderbolt","Surf","Thunder Wave","Agility"]}},"Rapidash":{"UU Fire Spin Breaker":{"level":100,"moves":["Fire Blast","Fire Spin","Hyper Beam","Body Slam"]},"NU Fire Spin Pivot":{"level":100,"moves":["Fire Spin","Fire Blast","Toxic","Hyper Beam"]},"PU Fire Spin Pivot":{"level":100,"moves":["Fire Spin","Fire Blast","Toxic","Hyper Beam"]}},"Raticate":{"OU Biggie Cheese (Super Fang)":{"level":100,"moves":["Super Fang","Hyper Beam","Body Slam","Bubble Beam"]},"UU Super Fang":{"level":100,"moves":["Super Fang","Hyper Beam","Body Slam","Blizzard"]},"NU Super Fang":{"level":100,"moves":["Super Fang","Hyper Beam","Body Slam","Thunderbolt"]}},"Rhydon":{"OU Standard":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]},"Uber Standard":{"level":100,"moves":["Earthquake","Rock Slide","Body Slam","Substitute"]}},"Sandslash":{"OU Swords Dance":{"level":100,"moves":["Earthquake","Swords Dance","Hyper Beam","Substitute"]},"NU Swords Dance":{"level":100,"moves":["Swords Dance","Earthquake","Rock Slide","Body Slam"]},"PU Swords Dance":{"level":100,"moves":["Swords Dance","Earthquake","Rock Slide","Body Slam"]}},"Scyther":{"UU Setup Sweeper":{"level":100,"moves":["Slash","Swords Dance","Hyper Beam","Agility"]},"NU Double Dance":{"level":100,"moves":["Swords Dance","Slash","Hyper Beam","Agility"]}},"Seadra":{"NU Agility Sweeper":{"level":100,"moves":["Surf","Blizzard","Rest","Agility"]}},"Seaking":{"UU Agility Mixed Attacker":{"level":100,"moves":["Double-Edge","Blizzard","Hyper Beam","Agility"]},"NU Agility + 3 Attacks":{"level":100,"moves":["Agility","Double-Edge","Hyper Beam","Surf"]},"NU Agility + Rest":{"level":100,"moves":["Agility","Rest","Double-Edge","Surf"]},"PU Offensive Agility":{"level":100,"moves":["Agility","Surf","Blizzard","Hyper Beam"]}},"Slowbro":{"OU TobyBro (Amnesia)":{"level":100,"moves":["Amnesia","Surf","Thunder Wave","Rest"]},"Uber TobyBro (Amnesia)":{"level":100,"moves":["Surf","Amnesia","Rest","Thunder Wave"]}},"Slowpoke":{"NU Amnesia":{"level":100,"moves":["Amnesia","Surf","Thunder Wave","Rest"]}},"Snorlax":{"OU Reflect":{"level":100,"moves":["Body Slam","Reflect","Rest","Ice Beam"]},"OU Physical Attacker":{"level":100,"moves":["Body Slam","Hyper Beam","Self-Destruct","Earthquake"]},"OU Mixed Attacker":{"level":100,"moves":["Body Slam","Blizzard","Amnesia","Rest"]},"Uber Physical Attacker":{"level":100,"moves":["Body Slam","Hyper Beam","Self-Destruct","Earthquake"]},"Uber Reflect":{"level":100,"moves":["Reflect","Body Slam","Earthquake","Rest"]}},"Starmie":{"OU Special Attacker":{"level":100,"moves":["Recover","Thunder Wave","Blizzard","Psychic"]},"Uber Special Attacker":{"level":100,"moves":["Thunder Wave","Recover","Surf","Blizzard"]}},"Tangela":{"UU Showdown Usage":{"level":100,"moves":["Mega Drain","Growth","Stun Spore","Body Slam"]}},"Tauros":{"OU The Bull":{"level":100,"moves":["Body Slam","Hyper Beam","Blizzard","Earthquake"]},"Uber Standard":{"level":100,"moves":["Body Slam","Hyper Beam","Earthquake","Blizzard"]}},"Tentacruel":{"UU Wrap Pivot":{"level":100,"moves":["Wrap","Surf","Blizzard","Rest"]},"UU Swords Dance":{"level":100,"moves":["Swords Dance","Surf","Wrap","Hyper Beam"]}},"Vaporeon":{"UU Bulky Special Attacker":{"level":100,"moves":["Surf","Blizzard","Body Slam","Rest"]}},"Venomoth":{"UU Showdown Usage":{"level":100,"moves":["Stun Spore","Psychic","Toxic","Solar Beam"]},"NU Double Powder":{"level":100,"moves":["Sleep Powder","Stun Spore","Psychic","Mega Drain"]}},"Venusaur":{"OU Swords Dance":{"level":100,"moves":["Sleep Powder","Razor Leaf","Swords Dance","Hyper Beam"]},"UU Showdown Usage":{"level":100,"moves":["Razor Leaf","Body Slam","Hyper Beam","Leech Seed"]}},"Victreebel":{"OU Wrapper":{"level":100,"moves":["Sleep Powder","Wrap","Razor Leaf","Stun Spore"]},"UU Showdown Usage":{"level":100,"moves":["Razor Leaf","Stun Spore","Wrap","Hyper Beam"]},"Uber Wrap":{"level":100,"moves":["Wrap","Razor Leaf","Sleep Powder","Stun Spore"]}},"Vileplume":{"NU Double Powder":{"level":100,"moves":["Sleep Powder","Stun Spore","Mega Drain","Body Slam"]},"NU Swords Dance":{"level":100,"moves":["Swords Dance","Sleep Powder","Mega Drain","Body Slam"]}},"Weezing":{"NU Explosion":{"level":100,"moves":["Explosion","Fire Blast","Thunderbolt","Hyper Beam"]}},"Wigglytuff":{"NU Counter":{"level":100,"moves":["Thunder Wave","Body Slam","Thunderbolt","Counter"]}},"Zapdos":{"OU Mixed Attacker":{"level":100,"moves":["Thunderbolt","Drill Peck","Thunder Wave","Agility"]},"Uber Agility":{"level":100,"moves":["Thunderbolt","Drill Peck","Thunder Wave","Agility"]},"Uber Reflect":{"level":100,"moves":["Thunderbolt","Drill Peck","Reflect","Rest"]}}};
+var SETDEX_RBY = {
+    "Abra": {
+        "Rocket (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confusion",
+                "Kinesis"
+            ]
+        }
+    },
+    "Aerodactyl": {
+        "Brock (Pewter Gym)": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Scientist 1 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Scientist 6 (Silph Co.)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fly",
+                "Razor Wind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sky Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Razor Wind"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sky Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Razor Wind"
+            ]
+        }
+    },
+    "Alakazam": {
+        "Rocket 4 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Scientist 4 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Scientist 7 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Psychic 1 (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Recover"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "CoolTrainer M (Viridian Gym)": {
+            "level": 82,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Recover"
+            ]
+        }
+    },
+    "Arbok": {
+        "Rocket (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare"
+            ]
+        },
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        },
+        "Gambler 1 (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        },
+        "Tamer (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare",
+                "Fissure"
+            ]
+        }
+    },
+    "Arcanine": {
+        "Gentleman (6th room from left)": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Biker (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Burglar 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 78,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Dig"
+            ]
+        }
+    },
+    "Articuno": {
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Sky Attack"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Sky Attack"
+            ]
+        }
+    },
+    "Beedrill": {
+        "Bug Catcher (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Twineedle"
+            ]
+        },
+        "Bug Catcher 1 (Route 3 (E of Pewter))": {
+            "level": 13,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Twineedle"
+            ]
+        },
+        "Bug Catcher 2 (Route 3 (E of Pewter))": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Twineedle"
+            ]
+        },
+        "Bug Catcher (Mt. Moon)": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Twineedle"
+            ]
+        },
+        "Bug Catcher (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Twineedle"
+            ]
+        }
+    },
+    "Bellsprout": {
+        "Lass (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Mega Drain",
+                "Sleep Powder",
+                "Body Slam"
+            ]
+        }
+    },
+    "Blastoise": {
+        "Beauty (Celadon Gym)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake"
+            ]
+        },
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake"
+            ]
+        },
+        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake"
+            ]
+        },
+        "Swimmer (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Earthquake",
+                "Body Slam"
+            ]
+        }
+    },
+    "Bulbasaur": {
+        "Youngster (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Headbutt",
+                "PoisonPowder",
+                "Razor Leaf",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Butterfree": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 10,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Bug Catcher (Route 3 (E of Pewter))": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Bug Catcher 1 (Mt. Moon)": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Bug Catcher (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        }
+    },
+    "Caterpie": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 6,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Tackle",
+                "String Shot"
+            ]
+        }
+    },
+    "Chameleon": {
+        "Lass (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Flamethrower",
+                "Slash"
+            ]
+        }
+    },
+    "Chansey": {
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Softboiled",
+                "Thunderbolt",
+                "Ice Beam"
+            ]
+        },
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Softboiled",
+                "Thunderbolt",
+                "Ice Beam"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Softboiled",
+                "Thunderbolt",
+                "Ice Beam"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Softboiled",
+                "Ice Beam",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Softboiled",
+                "Ice Beam",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Charizard": {
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Flamethrower",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Flamethrower",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Flamethrower",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Flamethrower",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 78,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Slash",
+                "Body Slam",
+                "Earthquake",
+                "Fire Blast"
+            ]
+        },
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Earthquake",
+                "Slash",
+                "Body Slam"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Earthquake",
+                "Slash",
+                "Body Slam"
+            ]
+        }
+    },
+    "Charmander": {
+        "Youngster (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Scratch",
+                "Bite",
+                "Headbutt",
+                "Fire Punch"
+            ]
+        }
+    },
+    "Charmeleon": {
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 36,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Flamethrower",
+                "Slash"
+            ]
+        }
+    },
+    "Clefable": {
+        "Fisherman (6th room from left)": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "CoolTrainer F (Celadon Gym)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Psychic",
+                "Body Slam"
+            ]
+        },
+        "Beauty (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Beauty (Route 15 (E of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Blizzard",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Clefairy": {
+        "Lass (Mt. Moon)": {
+            "level": 17,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sing",
+                "Metronome"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sing",
+                "Metronome",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Cloyster": {
+        "Fisherman (2nd room from left (Nugget))": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Super Nerd 2 (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Super Nerd (Cinnabar Gym)": {
+            "level": 76,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Super Nerd 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Blizzard",
+                "Clamp"
+            ]
+        },
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Explosion",
+                "Clamp"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Explosion",
+                "Clamp"
+            ]
+        }
+    },
+    "Cubone": {
+        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Headbutt",
+                "Double-Edge",
+                "Rock Slide",
+                "Bonemerang"
+            ]
+        },
+        "Jr. Trainer M (Route 25 (Bill's House))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Headbutt",
+                "Double-Edge",
+                "Rock Slide",
+                "Bonemerang"
+            ]
+        }
+    },
+    "Dewgong": {
+        "Misty (Cerulean Gym)": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Ice Beam",
+                "Body Slam",
+                "Waterfall"
+            ]
+        },
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Waterfall",
+                "Body Slam",
+                "Horn Drill"
+            ]
+        },
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 28,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Waterfall",
+                "Body Slam",
+                "Horn Drill"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Waterfall",
+                "Body Slam",
+                "Horn Drill"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Waterfall",
+                "Body Slam",
+                "Horn Drill"
+            ]
+        },
+        "Gambler 1 (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Waterfall",
+                "Body Slam",
+                "Horn Drill"
+            ]
+        },
+        "Beauty (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Horn Drill",
+                "Hydro Pump",
+                "Rest"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Horn Drill",
+                "Hydro Pump",
+                "Rest"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Horn Drill",
+                "Hydro Pump",
+                "Rest"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Horn Drill",
+                "Hydro Pump",
+                "Rest"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Horn Drill",
+                "Hydro Pump",
+                "Rest"
+            ]
+        }
+    },
+    "Diglett": {
+        "Jr. Trainer M (Pewter Gym)": {
+            "level": 11,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Slash"
+            ]
+        },
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 37,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Slash",
+                "Dig"
+            ]
+        }
+    },
+    "Ditto": {
+        "Youngster (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Scientist 5 (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Transform"
+            ]
+        }
+    },
+    "Dodrio": {
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Body Slam"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Drill Peck"
+            ]
+        }
+    },
+    "Doduo": {
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 37,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Take Down",
+                "Double Kick",
+                "Drill Peck",
+                "Tri Attack"
+            ]
+        }
+    },
+    "Dragonair": {
+        "Blue 3 (Cerulean City)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman (6th room from left)": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman (2nd room from left (Nugget))": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Gentleman (4th room from left (Rare Candy))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Pok\u00e9Maniac (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave",
+                "Blizzard"
+            ]
+        },
+        "Rocket 3 (Rocket Hideout)": {
+            "level": 48,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave",
+                "Blizzard"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman 1 (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman 2 (Route 12 (Silence Bridge))": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave",
+                "Blizzard"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Wrap",
+                "Thunder Wave",
+                "Blizzard"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Thunder Wave",
+                "Blizzard",
+                "Hyper Beam"
+            ]
+        }
+    },
+    "Dragonite": {
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "CoolTrainer M (Viridian Gym)": {
+            "level": 82,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Blizzard",
+                "Thunder Wave"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Wrap",
+                "Thunderbolt"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Wrap",
+                "Thunderbolt"
+            ]
+        }
+    },
+    "Dratini": {
+        "Rocket (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Thunder Wave",
+                "Dragon Rage"
+            ]
+        },
+        "Blue 3 (Cerulean City)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Thunder Wave",
+                "Dragon Rage"
+            ]
+        },
+        "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Headbutt",
+                "Double-Edge",
+                "Hyper Beam"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Headbutt",
+                "Double-Edge",
+                "Hyper Beam"
+            ]
+        }
+    },
+    "Drowzee": {
+        "Rocket (Mt. Moon)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confusion",
+                "Hypnosis",
+                "Thunder Wave",
+                "Toxic"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Thunder Wave",
+                "Toxic",
+                "Psychic"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Thunder Wave",
+                "Toxic",
+                "Psychic"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Thunder Wave",
+                "Toxic",
+                "Psychic"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Thunder Wave",
+                "Toxic",
+                "Psychic"
+            ]
+        }
+    },
+    "Dugtrio": {
+        "Rocket (Cerulean City)": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Sand Attack",
+                "Body Slam",
+                "Fissure"
+            ]
+        },
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Sand Attack",
+                "Body Slam",
+                "Fissure"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Hiker (Route 10 South (N of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Gambler 1 (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Rocket 1 (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Fissure",
+                "Slash",
+                "Body Slam"
+            ]
+        },
+        "Beauty (Route 15 (E of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Tamer (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fissure",
+                "Earthquake",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Fissure",
+                "Slash",
+                "Earthquake"
+            ]
+        }
+    },
+    "Eevee": {
+        "Blue 2 (Route 22 (W of Viridian))": {
+            "level": 9,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Quick Attack",
+                "Sand Attack"
+            ],
+            "index": 2
+        },
+        "Lass (2nd room from left (Body Slam TM))": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Quick Attack",
+                "Sand Attack",
+                "Double-Edge"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Quick Attack",
+                "Sand Attack",
+                "Double-Edge"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Quick Attack",
+                "Sand Attack",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Ekans": {
+        "Youngster (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Glare"
+            ]
+        }
+    },
+    "Electabuzz": {
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Jr. Trainer F (Route 10 South (N of Lavender))": {
+            "level": 40,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunderbolt",
+                "Ice Punch",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunderbolt",
+                "Ice Punch",
+                "Thunder Wave"
+            ]
+        },
+        "Rocker (Route 12 (Silence Bridge))": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Ice Punch",
+                "Psychic",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Electrode": {
+        "Engineer (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Rocker (Vermilion Gym)": {
+            "level": 34,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Explosion",
+                "Thunderbolt"
+            ]
+        },
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Super Nerd 1 (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Super Nerd 2 (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Juggler (Fuchsia Gym)": {
+            "level": 61,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist 5 (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist 7 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Super Nerd (Cinnabar Gym)": {
+            "level": 76,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Super Nerd 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Exeggcute": {
+        "Super Nerd (Mt. Moon)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psybeam",
+                "Explosion",
+                "Stun Spore"
+            ]
+        },
+        "Hiker (Route 10 South (N of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Beauty (Celadon Gym)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        }
+    },
+    "Exeggutor": {
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Rocket 2 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Rocket 7 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Super Nerd (Cinnabar Gym)": {
+            "level": 76,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Super Nerd 2 (Cinnabar Gym)": {
+            "level": 79,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer M 2 (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Psychic"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        }
+    },
+    "Farfetch\u2019d": {
+        "Youngster (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash"
+            ]
+        },
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash"
+            ]
+        },
+        "Youngster (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash"
+            ]
+        },
+        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash",
+                "Agility"
+            ]
+        },
+        "Bird Keeper 2 (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Sand Attack",
+                "Slash",
+                "Agility"
+            ]
+        }
+    },
+    "Fearow": {
+        "Youngster 1 (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        },
+        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        },
+        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Drill Peck",
+                "Hyper Beam",
+                "Razor Wind"
+            ]
+        }
+    },
+    "Flareon": {
+        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Blue 4 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Hyper Beam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 1 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Hyper Beam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 2 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Hyper Beam",
+                "Sand Attack"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast"
+            ]
+        },
+        "Burglar (Pok\u00e9mon Mansion)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast",
+                "Solar Beam"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast",
+                "Solar Beam"
+            ]
+        },
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Solar Beam",
+                "Sand Attack"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Sand Attack",
+                "Fire Blast",
+                "Solar Beam"
+            ]
+        }
+    },
+    "Gastly": {
+        "Rocket (Mt. Moon)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Channeler 1 (Pok\u00e9mon Tower)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        }
+    },
+    "Gengar": {
+        "Rocket 5 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 48,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Night Shade",
+                "Explosion"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Rocket 4 (Silph Co.)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Explosion",
+                "Night Shade"
+            ]
+        },
+        "Channeler (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 73,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Night Shade",
+                "Explosion"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Hypnosis",
+                "Psychic",
+                "Night Shade"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Seismic Toss",
+                "Night Shade"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Seismic Toss",
+                "Night Shade"
+            ]
+        }
+    },
+    "Geodude": {
+        "Super Nerd (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct"
+            ]
+        }
+    },
+    "Gloom": {
+        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Petal Dance",
+                "Sleep Powder",
+                "Stun Spore"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Petal Dance",
+                "Sleep Powder",
+                "Stun Spore"
+            ]
+        },
+        "Beauty (Celadon Gym)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Petal Dance",
+                "Sleep Powder",
+                "Stun Spore"
+            ]
+        }
+    },
+    "Golbat": {
+        "Rocket (Mt. Moon)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        },
+        "Youngster (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        },
+        "Tamer (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Razor Wind",
+                "Mega Drain",
+                "Hypnosis"
+            ]
+        }
+    },
+    "Goldeen": {
+        "Lass (Mt. Moon)": {
+            "level": 17,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Peck",
+                "Waterfall",
+                "Supersonic"
+            ]
+        }
+    },
+    "Golduck": {
+        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Psychic",
+                "Body Slam",
+                "Hypnosis"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Psychic",
+                "Body Slam",
+                "Hypnosis"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Body Slam",
+                "Hypnosis",
+                "Hydro Pump"
+            ]
+        }
+    },
+    "Golem": {
+        "Brock (Pewter Gym)": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Super Nerd 2 (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Super Nerd 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "Explosion"
+            ]
+        }
+    },
+    "Graveler": {
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Self-Destruct",
+                "Rock Slide",
+                "Explosion"
+            ]
+        },
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Self-Destruct",
+                "Rock Slide",
+                "Explosion"
+            ]
+        }
+    },
+    "Grimer": {
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Sludge",
+                "Explosion"
+            ]
+        }
+    },
+    "Growlithe": {
+        "Youngster (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ember",
+                "Swift",
+                "Double-Edge",
+                "Flamethrower"
+            ]
+        }
+    },
+    "Gyarados": {
+        "Gentleman (2nd room from left (Nugget))": {
+            "level": 33,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Gentleman (Vermilion Gym)": {
+            "level": 33,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Lass (Celadon Gym)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 48,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Fisherman 2 (Route 12 (Silence Bridge))": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Cue Ball (Route 16 (W of Celadon))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Blizzard",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Blizzard",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Blizzard",
+                "Body Slam"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        }
+    },
+    "Haunter": {
+        "Rocket (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Hiker 1 (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Hiker (Route 10 South (N of Lavender))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Rocket 4 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Channeler 2 (Pok\u00e9mon Tower)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade",
+                "Psychic"
+            ]
+        },
+        "Juggler 1 (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade",
+                "Psychic"
+            ]
+        },
+        "Channeler (Saffron Gym)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Night Shade",
+                "Psychic"
+            ]
+        }
+    },
+    "Hitmonchan": {
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Submission",
+                "Body Slam",
+                "Seismic Toss"
+            ]
+        },
+        "Blackbelt (Fighting Dojo)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Submission",
+                "Body Slam",
+                "Seismic Toss"
+            ]
+        }
+    },
+    "Hitmonlee": {
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "High Jump Kick",
+                "Body Slam",
+                "Seismic Toss"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "High Jump Kick",
+                "Body Slam",
+                "Seismic Toss"
+            ]
+        },
+        "Blackbelt (Fighting Dojo)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "High Jump Kick",
+                "Body Slam",
+                "Seismic Toss"
+            ]
+        }
+    },
+    "Horsea": {
+        "Lass (Mt. Moon)": {
+            "level": 17,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Bubble Beam",
+                "SmokeScreen"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Bubble Beam",
+                "SmokeScreen"
+            ]
+        }
+    },
+    "Hypno": {
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Rocket 5 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Juggler (Fuchsia Gym)": {
+            "level": 61,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Juggler 1 (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Juggler (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Rocket 6 (Silph Co.)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Channeler (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Hypnosis"
+            ]
+        },
+        "Burglar (Pok\u00e9mon Mansion)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Hypnosis"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 78,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Hypnosis"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Psychic"
+            ]
+        }
+    },
+    "Ivysaur": {
+        "Lass (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf"
+            ]
+        },
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 37,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf"
+            ]
+        },
+        "Jr. Trainer F (Celadon Gym)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf"
+            ]
+        }
+    },
+    "Jigglypuff": {
+        "Lass (Route 3 (E of Pewter))": {
+            "level": 17,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sing",
+                "Double-Edge",
+                "Rest"
+            ]
+        }
+    },
+    "Jolteon": {
+        "Blue 4 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 1 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 2 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Rocker (Route 12 (Silence Bridge))": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Rocket 3 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Burglar 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "CoolTrainer M 2 (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Thunder Wave",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        }
+    },
+    "Jynx": {
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Lovely Kiss",
+                "Psychic"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Lovely Kiss",
+                "Psychic"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Blizzard",
+                "Psychic"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Blizzard",
+                "Psychic"
+            ]
+        }
+    },
+    "Kabuto": {
+        "Brock (Pewter Gym)": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Waterfall",
+                "Slash"
+            ]
+        },
+        "Lass (2nd room from left (Body Slam TM))": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Slash"
+            ]
+        }
+    },
+    "Kabutops": {
+        "Jr. Trainer F (Celadon Gym)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Slash",
+                "Dig"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Slash",
+                "Dig"
+            ]
+        },
+        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Slash",
+                "Dig"
+            ]
+        }
+    },
+    "Kadabra": {
+        "Rocket (Mt. Moon)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Kinesis",
+                "Psybeam",
+                "Thunder Wave"
+            ]
+        },
+        "Blue 3 (Cerulean City)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Kinesis",
+                "Psybeam",
+                "Thunder Wave"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Thunder Wave",
+                "Recover",
+                "Psychic"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Rocket 5 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Juggler (Fuchsia Gym)": {
+            "level": 61,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Juggler 1 (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Scientist 4 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Channeler (Saffron Gym)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Recover",
+                "Psychic",
+                "Seismic Toss"
+            ]
+        }
+    },
+    "Kakuna": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 9,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Harden",
+                "Poison Sting"
+            ]
+        },
+        "Bug Catcher (Route 9 (E of Cerulean))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Harden",
+                "Poison Sting"
+            ]
+        }
+    },
+    "Kangaskhan": {
+        "Gentleman (4th room from left (Rare Candy))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        }
+    },
+    "Kingler": {
+        "Swimmer (Cerulean Gym)": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Gambler 1 (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Biker (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "Body Slam",
+                "Guillotine"
+            ]
+        }
+    },
+    "Koffing": {
+        "Super Nerd (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "SmokeScreen",
+                "Sludge",
+                "Explosion",
+                "Toxic"
+            ]
+        }
+    },
+    "Krabby": {
+        "Youngster (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Crabhammer",
+                "ViceGrip",
+                "Body Slam"
+            ]
+        }
+    },
+    "Lapras": {
+        "CoolTrainer F (Celadon Gym)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Scientist 4 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Rocket 7 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Channeler (South room)": {
+            "level": 73,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 73,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Thunderbolt",
+                "Blizzard",
+                "Surf"
+            ]
+        },
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Surf",
+                "Body Slam"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Surf",
+                "Body Slam"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Thunderbolt",
+                "Body Slam"
+            ]
+        }
+    },
+    "Lickitung": {
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lick",
+                "Wrap",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Youngster (S.S. Anne)": {
+            "level": 28,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lick",
+                "Wrap",
+                "Body Slam"
+            ]
+        },
+        "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket (Celadon Game Corner)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        }
+    },
+    "Machamp": {
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 28,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Submission",
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        },
+        "Rocket 4 (Rocket Hideout)": {
+            "level": 50,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Submission",
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Cue Ball 1 (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Rock Slide",
+                "Earthquake",
+                "High Jump Kick"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "High Jump Kick",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "High Jump Kick",
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        }
+    },
+    "Machoke": {
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Karate Chop",
+                "Low Kick",
+                "Submission"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Karate Chop",
+                "Low Kick",
+                "Submission",
+                "Seismic Toss"
+            ]
+        }
+    },
+    "Machop": {
+        "Hiker (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Karate Chop",
+                "Low Kick"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Karate Chop",
+                "Low Kick"
+            ]
+        }
+    },
+    "Magikarp": {
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Splash",
+                "Bubble",
+                "Tackle"
+            ]
+        }
+    },
+    "Magmar": {
+        "Jr. Trainer F (Route 10 South (N of Lavender))": {
+            "level": 40,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confuse Ray",
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast"
+            ]
+        },
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Body Slam",
+                "Solar Beam",
+                "Thunderbolt"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Fire Blast",
+                "Solar Beam"
+            ]
+        }
+    },
+    "Magnemite": {
+        "Engineer (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "SonicBoom",
+                "Thunder Wave",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Magneton": {
+        "Engineer 1 (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Rocker (Vermilion Gym)": {
+            "level": 34,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 78,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Double Team",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Mankey": {
+        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Seismic Toss",
+                "Thrash",
+                "Submission",
+                "Double-Edge"
+            ]
+        },
+        "Jr. Trainer M (Route 25 (Bill's House))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Seismic Toss",
+                "Thrash",
+                "Submission",
+                "Double-Edge"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Seismic Toss",
+                "Thrash",
+                "Submission",
+                "Double-Edge"
+            ]
+        }
+    },
+    "Marowak": {
+        "Pok\u00e9Maniac (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bonemerang",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        }
+    },
+    "Meowth": {
+        "Youngster (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bite",
+                "Pay Day",
+                "Slash"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bite",
+                "Pay Day",
+                "Slash"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bite",
+                "Pay Day",
+                "Slash"
+            ]
+        }
+    },
+    "Metapod": {
+        "Bug Catcher 1 (Route 3 (E of Pewter))": {
+            "level": 13,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Harden",
+                "Tackle"
+            ]
+        },
+        "Bug Catcher (Route 9 (E of Cerulean))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Harden",
+                "Tackle"
+            ]
+        }
+    },
+    "Mew": {
+        "Blue 1 (Professor Oak's Laboratory)": {
+            "level": 3,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Pound",
+                "Thunder Wave"
+            ],
+            "index": 1
+        },
+        "Blue 2 (Route 22 (W of Viridian))": {
+            "level": 8,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Pound",
+                "Thunder Wave",
+                "Softboiled"
+            ],
+            "index": 3
+        },
+        "Blue 3 (Cerulean City)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Softboiled",
+                "Body Slam",
+                "Psychic"
+            ]
+        },
+        "Blue 4 (4th room from left)": {
+            "level": 31,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 4 1 (4th room from left)": {
+            "level": 31,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 4 2 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Softboiled",
+                "Body Slam"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Softboiled",
+                "Thunder Wave",
+                "Body Slam"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Softboiled",
+                "Thunder Wave",
+                "Body Slam"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Softboiled",
+                "Thunder Wave",
+                "Body Slam"
+            ]
+        }
+    },
+    "Mewtwo": {
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Body Slam",
+                "Recover"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Recover",
+                "Thunder Wave",
+                "Body Slam"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Recover",
+                "Thunder Wave",
+                "Body Slam"
+            ]
+        }
+    },
+    "Moltres": {
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Blast",
+                "Sky Attack",
+                "Solar Beam"
+            ]
+        }
+    },
+    "Mr. Mime": {
+        "Rocket (Cerulean City)": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Thunder Wave",
+                "Hypnosis"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Rocket 2 (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Juggler (Fuchsia Gym)": {
+            "level": 61,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Juggler 1 (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Hypnosis",
+                "Psychic"
+            ]
+        },
+        "Juggler (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Channeler (Saffron Gym)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Psychic 2 (South room)": {
+            "level": 73,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Hypnosis",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        }
+    },
+    "Muk": {
+        "Super Nerd (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Biker (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Juggler (Fuchsia Gym)": {
+            "level": 61,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sludge",
+                "Explosion",
+                "Toxic",
+                "Body Slam"
+            ]
+        }
+    },
+    "Nidoking": {
+        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Gentleman (6th room from left)": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Pok\u00e9Maniac (Rock Tunnel)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Thunderbolt"
+            ]
+        },
+        "Jr. Trainer M (Route 12 (Silence Bridge))": {
+            "level": 52,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Cue Ball 1 (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Lovely Kiss",
+                "Earthquake"
+            ]
+        }
+    },
+    "Nidoqueen": {
+        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Youngster (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Pok\u00e9Maniac (Rock Tunnel)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Thunderbolt"
+            ]
+        },
+        "Jr. Trainer M (Route 12 (Silence Bridge))": {
+            "level": 52,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Tamer (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Blizzard",
+                "Thunderbolt"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Earthquake",
+                "Thunderbolt",
+                "Blizzard"
+            ]
+        },
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Blizzard",
+                "Lovely Kiss",
+                "Thunderbolt"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Blizzard",
+                "Lovely Kiss",
+                "Thunderbolt"
+            ]
+        }
+    },
+    "Nidoran F": {
+        "Lass (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Bite",
+                "Toxic"
+            ]
+        }
+    },
+    "Nidoran M": {
+        "Lass (Route 3 (E of Pewter))": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Horn Attack",
+                "Toxic",
+                "Dig"
+            ]
+        }
+    },
+    "Nidorina": {
+        "Lass (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Bite",
+                "Toxic",
+                "Dig"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Bite",
+                "Toxic",
+                "Dig"
+            ]
+        }
+    },
+    "Nidorino": {
+        "Lass (Route 24 (N of Cerulean))": {
+            "level": 21,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Toxic",
+                "Horn Attack",
+                "Dig"
+            ]
+        }
+    },
+    "Ninetales": {
+        "Youngster 1 (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Gentleman (2nd room from left (Body Slam TM))": {
+            "level": 28,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Burglar (Pok\u00e9mon Mansion)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Fire Spin"
+            ]
+        }
+    },
+    "Oddish": {
+        "Lass (Route 24 (N of Cerulean))": {
+            "level": 21,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Mega Drain",
+                "Sleep Powder",
+                "Razor Leaf"
+            ]
+        }
+    },
+    "Omanyte": {
+        "Brock (Pewter Gym)": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Waterfall"
+            ]
+        },
+        "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Horn Attack",
+                "Leer"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Horn Attack",
+                "Leer"
+            ]
+        }
+    },
+    "Omastar": {
+        "Beauty (Celadon Gym)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Scientist 5 (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 78,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        }
+    },
+    "Onix": {
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bind",
+                "Earthquake",
+                "Rock Slide"
+            ]
+        }
+    },
+    "Paras": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 9,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Leech Life",
+                "Toxic",
+                "Mega Drain",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Leech Life",
+                "Toxic",
+                "Mega Drain",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher 1 (Route 3 (E of Pewter))": {
+            "level": 13,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Leech Life",
+                "Toxic",
+                "Mega Drain",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher (Mt. Moon)": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Leech Life",
+                "Toxic",
+                "Mega Drain",
+                "Stun Spore"
+            ]
+        },
+        "Lass (Route 4 East (W of Cerulean))": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Leech Life",
+                "Toxic",
+                "Mega Drain",
+                "Stun Spore"
+            ]
+        }
+    },
+    "Parasect": {
+        "Lass (Route 4 East (W of Cerulean))": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Mega Drain",
+                "Body Slam",
+                "Spore"
+            ]
+        },
+        "Bug Catcher (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Mega Drain",
+                "Body Slam",
+                "Spore"
+            ]
+        },
+        "Lass (Celadon Gym)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Mega Drain",
+                "Body Slam",
+                "Spore"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Mega Drain",
+                "Body Slam",
+                "Spore"
+            ]
+        }
+    },
+    "Persian": {
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Rocket 7 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Tamer (Viridian Gym)": {
+            "level": 81,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Slash"
+            ]
+        }
+    },
+    "Pidgeot": {
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Hyper Beam",
+                "Sand Attack",
+                "Quick Attack"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Hyper Beam",
+                "Sand Attack",
+                "Quick Attack"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Hyper Beam",
+                "Sand Attack",
+                "Quick Attack"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper 1 (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Wind",
+                "Sand Attack",
+                "Quick Attack",
+                "Hyper Beam"
+            ]
+        }
+    },
+    "Pidgeotto": {
+        "Youngster (Route 3 (E of Pewter))": {
+            "level": 15,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wing Attack",
+                "Sand Attack",
+                "Quick Attack"
+            ]
+        },
+        "Youngster (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wing Attack",
+                "Sand Attack",
+                "Quick Attack"
+            ]
+        }
+    },
+    "Pidgey": {
+        "Lass (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wing Attack",
+                "Sand Attack",
+                "Quick Attack",
+                "Swift"
+            ]
+        }
+    },
+    "Pikachu": {
+        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Headbutt",
+                "ThunderPunch",
+                "Thunderbolt"
+            ]
+        },
+        "Lass (4th room from left)": {
+            "level": 31,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Headbutt",
+                "ThunderPunch",
+                "Thunderbolt"
+            ]
+        },
+        "Sailor (Vermilion Gym)": {
+            "level": 36,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Headbutt",
+                "ThunderPunch",
+                "Thunderbolt"
+            ]
+        }
+    },
+    "Pinsir": {
+        "Bug Catcher (Route 24 (N of Cerulean))": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam"
+            ]
+        },
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam"
+            ]
+        },
+        "Bug Catcher (Route 9 (E of Cerulean))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Guillotine",
+                "Body Slam",
+                "Slash"
+            ]
+        }
+    },
+    "Poliwag": {
+        "Youngster (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Bubble Beam",
+                "Hypnosis",
+                "Body Slam"
+            ]
+        }
+    },
+    "Poliwhirl": {
+        "Sailor (6th room from left)": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Hypnosis",
+                "Seismic Toss",
+                "Body Slam"
+            ]
+        },
+        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hypnosis",
+                "Seismic Toss",
+                "Body Slam",
+                "Hydro Pump"
+            ]
+        }
+    },
+    "Poliwrath": {
+        "Misty (Cerulean Gym)": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Ice Beam",
+                "Earthquake",
+                "Waterfall"
+            ]
+        },
+        "Sailor (Vermilion Gym)": {
+            "level": 36,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard"
+            ]
+        },
+        "Beauty (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Blackbelt (Fighting Dojo)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Lovely Kiss",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        }
+    },
+    "Ponyta": {
+        "Lass (Route 4 East (W of Cerulean))": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Stomp",
+                "Flamethrower",
+                "Double-Edge"
+            ]
+        },
+        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double Kick",
+                "Stomp",
+                "Flamethrower",
+                "Double-Edge"
+            ]
+        },
+        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stomp",
+                "Flamethrower",
+                "Double-Edge",
+                "Hypnosis"
+            ]
+        }
+    },
+    "Porygon": {
+        "Engineer (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Conversion",
+                "Psybeam",
+                "Blizzard",
+                "Recover"
+            ]
+        },
+        "Engineer 1 (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Conversion",
+                "Psybeam",
+                "Blizzard",
+                "Recover"
+            ]
+        },
+        "Gentleman (2nd room from left (Body Slam TM))": {
+            "level": 28,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Blizzard",
+                "Recover",
+                "Thunderbolt"
+            ]
+        },
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist 4 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Scientist 5 (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        },
+        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Recover",
+                "Thunderbolt",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Primeape": {
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Submission",
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide",
+                "High Jump Kick"
+            ]
+        },
+        "Biker (Route 16 (W of Celadon))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide",
+                "High Jump Kick"
+            ]
+        },
+        "Blackbelt (Fighting Dojo)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide",
+                "High Jump Kick"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide",
+                "High Jump Kick"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "Rock Slide",
+                "High Jump Kick"
+            ]
+        }
+    },
+    "Psyduck": {
+        "Hiker (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psybeam",
+                "Waterfall",
+                "Seismic Toss",
+                "Hypnosis"
+            ]
+        }
+    },
+    "Raichu": {
+        "Lt. Surge (Vermilion Gym)": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Surf",
+                "Body Slam"
+            ]
+        },
+        "Jr. Trainer F (Route 10 North (N of Power Plant))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Beauty (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Cue Ball (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Body Slam",
+                "Thunder Wave",
+                "Surf"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Surf",
+                "Body Slam"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Surf",
+                "Body Slam"
+            ]
+        }
+    },
+    "Rapidash": {
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill"
+            ]
+        },
+        "Gambler (Route 8 (W of Lavender))": {
+            "level": 44,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill"
+            ]
+        },
+        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill"
+            ]
+        },
+        "Blaine (Cinnabar Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Hypnosis"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Hypnosis"
+            ]
+        }
+    },
+    "Raticate": {
+        "Rocket (Mt. Moon)": {
+            "level": 20,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Youngster (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Youngster 1 (Route 11 (E of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Biker (Route 14 (NE of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Super Fang",
+                "Dig",
+                "Hyper Beam"
+            ]
+        }
+    },
+    "Rattata": {
+        "Youngster (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Quick Attack",
+                "Hyper Fang"
+            ]
+        }
+    },
+    "Rhydon": {
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "Bruno (Fighting Dojo)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        },
+        "Blackbelt (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Rock Slide",
+                "Body Slam"
+            ]
+        },
+        "CoolTrainer M 2 (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Rock Slide"
+            ]
+        }
+    },
+    "Rhyhorn": {
+        "Hiker (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge"
+            ]
+        },
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 21,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Rock Slide"
+            ]
+        },
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Rock Slide"
+            ]
+        },
+        "Hiker (Route 10 South (N of Lavender))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        },
+        "Bird Keeper (Route 18 (W of Fuchsia))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        }
+    },
+    "Sandshrew": {
+        "Jr. Trainer M (Pewter Gym)": {
+            "level": 11,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Slash",
+                "Sand Attack"
+            ]
+        },
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Slash",
+                "Sand Attack",
+                "Dig"
+            ]
+        },
+        "Youngster (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Slash",
+                "Sand Attack",
+                "Dig"
+            ]
+        }
+    },
+    "Sandslash": {
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Slash",
+                "Sand Attack",
+                "Rock Slide"
+            ]
+        },
+        "Hiker (Rock Tunnel)": {
+            "level": 35,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dig",
+                "Slash",
+                "Sand Attack",
+                "Rock Slide"
+            ]
+        },
+        "Hiker 1 (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Slash",
+                "Sand Attack",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        },
+        "Beauty (Celadon Gym)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Beauty (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Cue Ball (Route 16 (W of Celadon))": {
+            "level": 59,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        },
+        "Blue 6 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 6 1 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 6 2 (Silph Co.)": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Slash",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Tamer (Viridian Gym)": {
+            "level": 81,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Rock Slide",
+                "Earthquake",
+                "Body Slam"
+            ]
+        }
+    },
+    "Scyther": {
+        "Bug Catcher (Route 24 (N of Cerulean))": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Slash",
+                "Quick Attack",
+                "Wing Attack"
+            ]
+        },
+        "Bug Catcher (Route 9 (E of Cerulean))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Slash",
+                "Quick Attack",
+                "Wing Attack"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Substitute",
+                "Slash",
+                "Quick Attack",
+                "Wing Attack"
+            ]
+        }
+    },
+    "Seadra": {
+        "Jr. Trainer F (Cerulean Gym)": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic"
+            ]
+        },
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump",
+                "SmokeScreen"
+            ]
+        },
+        "Bird Keeper (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump",
+                "SmokeScreen"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump",
+                "SmokeScreen"
+            ]
+        },
+        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump",
+                "SmokeScreen"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Dragon Rage",
+                "Toxic",
+                "Hydro Pump",
+                "SmokeScreen"
+            ]
+        }
+    },
+    "Seaking": {
+        "Swimmer (Cerulean Gym)": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam"
+            ]
+        },
+        "Gambler (Route 11 (E of Vermilion))": {
+            "level": 25,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam",
+                "Waterfall"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam",
+                "Waterfall",
+                "Agility"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 60,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam",
+                "Waterfall",
+                "Agility"
+            ]
+        },
+        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Horn Drill",
+                "Bubble Beam",
+                "Waterfall",
+                "Agility"
+            ]
+        }
+    },
+    "Seel": {
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Aurora Beam",
+                "Headbutt",
+                "Bubble Beam",
+                "Rest"
+            ]
+        },
+        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Aurora Beam",
+                "Headbutt",
+                "Bubble Beam",
+                "Rest"
+            ]
+        },
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Aurora Beam",
+                "Headbutt",
+                "Bubble Beam",
+                "Rest"
+            ]
+        }
+    },
+    "Shellder": {
+        "Super Nerd (Mt. Moon)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Clamp",
+                "Aurora Beam",
+                "Supersonic"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Clamp",
+                "Aurora Beam",
+                "Supersonic"
+            ]
+        }
+    },
+    "Slowbro": {
+        "Fisherman (6th room from left)": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Thunder Wave",
+                "Psychic",
+                "Surf"
+            ]
+        },
+        "Pok\u00e9Maniac (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Rocket (Celadon Game Corner)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Beauty (Route 15 (E of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Cue Ball 1 (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Super Nerd (Cinnabar Gym)": {
+            "level": 80,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        },
+        "Juggler (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Psychic",
+                "Surf",
+                "Amnesia"
+            ]
+        }
+    },
+    "Slowpoke": {
+        "Sailor (4th room from left (Fire Stone))": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Confusion",
+                "Bubble Beam",
+                "Headbutt"
+            ]
+        }
+    },
+    "Snorlax": {
+        "Cue Ball 1 (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket 1 (Silph Co.)": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket 2 (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Super Nerd 1 (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Super Nerd (Cinnabar Gym)": {
+            "level": 79,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "CoolTrainer M (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "CoolTrainer F (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam",
+                "Lovely Kiss"
+            ]
+        },
+        "CoolTrainer M 1 (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam",
+                "Lovely Kiss"
+            ]
+        },
+        "Lance (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Lance 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        }
+    },
+    "Spearow": {
+        "Lass (Route 3 (E of Pewter))": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Peck",
+                "Growl",
+                "Leer",
+                "Fury Attack"
+            ]
+        }
+    },
+    "Squirtle": {
+        "Youngster (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Tackle",
+                "Bite",
+                "Headbutt",
+                "Bubble Beam"
+            ]
+        }
+    },
+    "Starmie": {
+        "Misty (Cerulean Gym)": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Scientist (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Scientist 2 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Scientist 3 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Psychic (South room)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Sabrina (Center room)": {
+            "level": 75,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Scientist (Pok\u00e9mon Mansion)": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "CoolTrainer M (Viridian Gym)": {
+            "level": 83,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Pok\u00e9Maniac (Victory Road)": {
+            "level": 87,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "CoolTrainer M 2 (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Blizzard",
+                "Thunderbolt",
+                "Recover"
+            ]
+        }
+    },
+    "Staryu": {
+        "Lass (Route 24 (N of Cerulean))": {
+            "level": 22,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Water Gun",
+                "Light Screen",
+                "Bubble Beam"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Double-Edge",
+                "Water Gun",
+                "Light Screen",
+                "Bubble Beam"
+            ]
+        }
+    },
+    "Tangela": {
+        "Rocker (Vermilion Gym)": {
+            "level": 34,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 40,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        },
+        "Lass (Celadon Gym)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        },
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Wrap"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        },
+        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        },
+        "Tamer (Victory Road)": {
+            "level": 89,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Wrap"
+            ]
+        }
+    },
+    "Tauros": {
+        "Giovanni 1 (Rocket Hideout)": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Rocket 8 (Silph Co.)": {
+            "level": 69,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "CoolTrainer M (Viridian Gym)": {
+            "level": 84,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 7 (Route 22 (W of Viridian))": {
+            "level": 85,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "CoolTrainer M 2 (Victory Road)": {
+            "level": 92,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Hyper Beam"
+            ]
+        },
+        "Blue 8 (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        },
+        "Blue 8 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hyper Beam",
+                "Body Slam",
+                "Earthquake"
+            ]
+        }
+    },
+    "Tentacool": {
+        "Sailor (6th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Supersonic",
+                "Toxic",
+                "Bubble Beam"
+            ]
+        }
+    },
+    "Tentacruel": {
+        "Fisherman (2nd room from left (Nugget))": {
+            "level": 27,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf"
+            ]
+        },
+        "Lass (Celadon Gym)": {
+            "level": 46,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 49,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf"
+            ]
+        },
+        "Rocket (Pok\u00e9mon Tower)": {
+            "level": 51,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Fisherman (Route 12 (Silence Bridge))": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf"
+            ]
+        },
+        "Cue Ball (Route 17 (Cycling Road))": {
+            "level": 57,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Wrap"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 65,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Rocket 5 (Silph Co.)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+            "level": 71,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "CoolTrainer M (Victory Road)": {
+            "level": 88,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wrap",
+                "Surf",
+                "Blizzard"
+            ]
+        },
+        "Agatha (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Wrap"
+            ]
+        },
+        "Agatha 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Wrap"
+            ]
+        }
+    },
+    "Vaporeon": {
+        "Misty (Cerulean Gym)": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ice Beam",
+                "Body Slam",
+                "Sand Attack",
+                "Waterfall"
+            ]
+        },
+        "Blue 4 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 1 (4th room from left)": {
+            "level": 31,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Blue 4 2 (4th room from left)": {
+            "level": 30,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Surf",
+                "Blizzard",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 42,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Rocket 6 (Silph Co.)": {
+            "level": 68,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+            "level": 70,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Burglar (Cinnabar Gym)": {
+            "level": 77,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Blackbelt (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "CoolTrainer F 1 (Victory Road)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard",
+                "Hydro Pump"
+            ]
+        },
+        "Lorelei (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        },
+        "Lorelei 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Body Slam",
+                "Sand Attack"
+            ]
+        }
+    },
+    "Venomoth": {
+        "Bug Catcher (Route 9 (E of Cerulean))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Psychic"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Stun Spore",
+                "Sleep Powder"
+            ]
+        }
+    },
+    "Venonat": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 9,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Psybeam",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher (Route 3 (E of Pewter))": {
+            "level": 14,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Psybeam",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher 1 (Route 3 (E of Pewter))": {
+            "level": 13,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Psybeam",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher (Mt. Moon)": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Psybeam",
+                "Stun Spore"
+            ]
+        },
+        "Bug Catcher 1 (Mt. Moon)": {
+            "level": 16,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Psybeam",
+                "Stun Spore"
+            ]
+        }
+    },
+    "Venusaur": {
+        "Beauty (Celadon Gym)": {
+            "level": 48,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Double Team",
+                "Body Slam"
+            ]
+        },
+        "Channeler (Pok\u00e9mon Tower)": {
+            "level": 47,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Blue 5 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Body Slam",
+                "Double Team"
+            ]
+        },
+        "Blue 5 1 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Body Slam",
+                "Double Team"
+            ]
+        },
+        "Blue 5 2 (Pok\u00e9mon Tower)": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Body Slam",
+                "Double Team"
+            ]
+        },
+        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Tamer (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+            "level": 64,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Body Slam",
+                "Razor Leaf",
+                "Double Team"
+            ]
+        },
+        "Prof. Oak (Indigo Plateau)": {
+            "level": 115,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Body Slam",
+                "Double Team"
+            ]
+        },
+        "Prof. Oak 101 (Indigo Plateau)": {
+            "level": 101,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Razor Leaf",
+                "Body Slam",
+                "Double Team"
+            ]
+        }
+    },
+    "Victreebel": {
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Lovely Kiss",
+                "Stun Spore",
+                "Razor Leaf",
+                "Wrap"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Leaf",
+                "Stun Spore",
+                "Body Slam",
+                "Lovely Kiss"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Leaf",
+                "Stun Spore",
+                "Body Slam",
+                "Lovely Kiss"
+            ]
+        },
+        "Tamer (Fuchsia Gym)": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Leaf",
+                "Stun Spore",
+                "Body Slam",
+                "Lovely Kiss"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Razor Leaf",
+                "Stun Spore",
+                "Body Slam",
+                "Lovely Kiss"
+            ]
+        }
+    },
+    "Vileplume": {
+        "Erika (Celadon Gym)": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Petal Dance"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Petal Dance"
+            ]
+        },
+        "Beauty (Route 15 (E of Fuchsia))": {
+            "level": 55,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Petal Dance"
+            ]
+        },
+        "Beauty (Sea Route 19 (S of Fuchsia))": {
+            "level": 63,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Petal Dance"
+            ]
+        },
+        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Petal Dance"
+            ]
+        }
+    },
+    "Voltorb": {
+        "Super Nerd (Mt. Moon)": {
+            "level": 19,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "SonicBoom",
+                "Self-Destruct",
+                "Explosion",
+                "Thunder Wave"
+            ]
+        },
+        "Engineer (Route 11 (E of Vermilion))": {
+            "level": 26,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "SonicBoom",
+                "Self-Destruct",
+                "Explosion",
+                "Thunder Wave"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Explosion",
+                "Thunder Wave",
+                "Thunderbolt"
+            ]
+        },
+        "Biker 1 (Route 17 (Cycling Road))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Self-Destruct",
+                "Explosion",
+                "Thunder Wave",
+                "Thunderbolt"
+            ]
+        }
+    },
+    "Vulpix": {
+        "Lass (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ember",
+                "Confuse Ray",
+                "Double-Edge",
+                "Flamethrower"
+            ]
+        },
+        "Lass (4th room from left)": {
+            "level": 31,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Ember",
+                "Confuse Ray",
+                "Double-Edge",
+                "Flamethrower"
+            ]
+        }
+    },
+    "Wartortle": {
+        "Lass (Route 25 (Bill's House))": {
+            "level": 23,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Sailor (6th room from left)": {
+            "level": 29,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 40,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Waterfall",
+                "Blizzard",
+                "Body Slam",
+                "Dig"
+            ]
+        },
+        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+            "level": 62,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Blizzard",
+                "Body Slam",
+                "Dig",
+                "Hydro Pump"
+            ]
+        }
+    },
+    "Weedle": {
+        "Bug Catcher (Viridian Forest)": {
+            "level": 6,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Poison Sting",
+                "String Shot"
+            ]
+        },
+        "Bug Catcher (Route 6 (N of Vermilion))": {
+            "level": 100,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Poison Sting",
+                "String Shot"
+            ]
+        }
+    },
+    "Weepinbell": {
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 36,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Sleep Powder",
+                "Stun Spore",
+                "Body Slam",
+                "Mega Drain"
+            ]
+        },
+        "Jr. Trainer F (Rock Tunnel)": {
+            "level": 41,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Body Slam",
+                "Mega Drain",
+                "Razor Leaf"
+            ]
+        },
+        "Beauty (Celadon Gym)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Stun Spore",
+                "Body Slam",
+                "Mega Drain",
+                "Razor Leaf"
+            ]
+        }
+    },
+    "Weezing": {
+        "Super Nerd 2 (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Explosion",
+                "Sludge",
+                "Fire Blast"
+            ]
+        },
+        "Rocket (Rocket Hideout)": {
+            "level": 45,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Toxic",
+                "Explosion",
+                "Sludge",
+                "Fire Blast"
+            ]
+        },
+        "Biker (Route 15 (E of Fuchsia))": {
+            "level": 56,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Sludge",
+                "Fire Blast",
+                "Thunderbolt"
+            ]
+        },
+        "Biker (Route 17 (Cycling Road))": {
+            "level": 58,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Sludge",
+                "Fire Blast",
+                "Thunderbolt"
+            ]
+        },
+        "Koga (Fuchsia Gym)": {
+            "level": 66,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Sludge",
+                "Fire Blast",
+                "Thunderbolt"
+            ]
+        },
+        "Rocket (Silph Co.)": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Explosion",
+                "Sludge",
+                "Fire Blast",
+                "Thunderbolt"
+            ]
+        }
+    },
+    "Wigglytuff": {
+        "Hiker (Route 25 (Bill's House))": {
+            "level": 21,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+            "level": 24,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+            "level": 37,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Hiker (Route 9 (E of Cerulean))": {
+            "level": 38,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Route 10 North (N of Power Plant))": {
+            "level": 39,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Lass (Route 8 (W of Lavender))": {
+            "level": 43,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+            "level": 53,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
+            "level": 54,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        },
+        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+            "level": 67,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Psychic",
+                "Blizzard",
+                "Double-Edge",
+                "Thunder Wave"
+            ]
+        }
+    },
+    "Zapdos": {
+        "Giovanni 2 (Silph Co.)": {
+            "level": 72,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Drill Peck"
+            ]
+        },
+        "Giovanni 3 (Viridian Gym)": {
+            "level": 90,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Drill Peck"
+            ]
+        }
+    },
+    "Zubat": {
+        "Youngster (Mt. Moon)": {
+            "level": 18,
+            "dvs": {
+                "hp": 8,
+                "at": 9,
+                "df": 8,
+                "sl": 8,
+                "sp": 8
+            },
+            "moves": [
+                "Wing Attack",
+                "Toxic",
+                "Confuse Ray",
+                "Hypnosis"
+            ]
+        }
+    }
+}

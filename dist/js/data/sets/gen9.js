@@ -1332,7 +1332,7 @@ var SETDEX_SV = {
       "index": 70
     },
 	"Fisherman Claude": {
-      "level": 70,
+      "level": 69,
       "ability": "Swift Swim",
       "moves": [
         "Rain Dance",
