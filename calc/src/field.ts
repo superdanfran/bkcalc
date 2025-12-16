@@ -86,6 +86,10 @@ export class Side implements State.Side {
   isLightScreen: boolean;
   isProtected: boolean;
   isSeeded: boolean;
+  isBadgeAtk?: boolean;
+  isBadgeDef?: boolean;
+  isBadgeSpeed?: boolean;
+  isBadgeSpec?: boolean;
   isForesight: boolean;
   isTailwind: boolean;
   isHelpingHand: boolean;

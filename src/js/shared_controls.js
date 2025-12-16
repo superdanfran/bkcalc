@@ -584,7 +584,7 @@ $(".set-selector").change(function () {
 				pokeObj.find("." + LEGACY_STATS[gen][i] + " .ivs").val(
 					(set.ivs && set.ivs[LEGACY_STATS[gen][i]] !== undefined) ? set.ivs[LEGACY_STATS[gen][i]] : 31);
 				pokeObj.find("." + LEGACY_STATS[gen][i] + " .dvs").val(
-					(set.dvs && set.dvs[LEGACY_STATS[gen][i]] !== undefined) ? set.dvs[LEGACY_STATS[gen][i]] : 15);
+					(set.dvs !== undefined && set.dvs[LEGACY_STATS[gen][i]] !== undefined) ? set.dvs[LEGACY_STATS[gen][i]] : (set.ivs !== undefined && set.ivs[LEGACY_STATS[gen][i]] !== undefined) ? set.ivs[LEGACY_STATS[gen][i]] : 15);
 			}
 			setSelectValueIfValid(pokeObj.find(".nature"), set.nature, "Hardy");
 			var abilityFallback = (typeof pokemon.abilities !== "undefined") ? pokemon.abilities[0] : "";
@@ -982,6 +982,11 @@ function createField() {
 	var isSeeded = [$("#leechSeedL").prop("checked"), $("#leechSeedR").prop("checked")];
 	var isForesight = [$("#foresightL").prop("checked"), $("#foresightR").prop("checked")];
 	var isHelpingHand = [$("#helpingHandL").prop("checked"), $("#helpingHandR").prop("checked")];
+	var isBadgeAtk = [$("#AtkL").prop("checked"), $("#AtkR").prop("checked")];
+	var isBadgeSpec = [$("#SpecL").prop("checked"), $("#SpecR").prop("checked")];
+	var isBadgeDef = [$("#DefL").prop("checked"), $("#DefR").prop("checked")];
+	var isBadgeSpeed = [$("#SpeL").prop("checked"), $("#SpeR").prop("checked")];
+	var isBadgeBoosted = [$("#badgeL").prop("selectedIndex"), $("#badgeR").prop("selectedIndex")];
 	var isTailwind = [$("#tailwindL").prop("checked"), $("#tailwindR").prop("checked")];
 	var isFlowerGift = [$("#flowerGiftL").prop("checked"), $("#flowerGiftR").prop("checked")];
 	var isFriendGuard = [$("#friendGuardL").prop("checked"), $("#friendGuardR").prop("checked")];
@@ -997,7 +1002,7 @@ function createField() {
 			vinelash: vinelash[i], wildfire: wildfire[i], cannonade: cannonade[i], volcalith: volcalith[i],
 			isReflect: isReflect[i], isLightScreen: isLightScreen[i],
 			isProtected: isProtected[i], isSeeded: isSeeded[i], isForesight: isForesight[i],
-			isTailwind: isTailwind[i], isHelpingHand: isHelpingHand[i], isFlowerGift: isFlowerGift[i], isFriendGuard: isFriendGuard[i],
+			isTailwind: isTailwind[i], isHelpingHand: isHelpingHand[i], isFlowerGift: isFlowerGift[i], isFriendGuard: isFriendGuard[i], isBadgeAtk: isBadgeAtk[i], isBadgeSpec: isBadgeSpec[i], isBadgeDef: isBadgeDef[i], isBadgeSpeed: isBadgeSpeed[i], isBadgeBoosted: isBadgeBoosted[i],
 			isAuroraVeil: isAuroraVeil[i], isBattery: isBattery[i], isPowerSpot: isPowerSpot[i], isSwitching: isSwitchingOut[i] ? 'out' : undefined
 		});
 	};

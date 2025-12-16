@@ -407,7 +407,19 @@ function getEndOfTurn(gen, attacker, defender, move, field) {
             damage -= Math.floor(defender.maxHP() / (gen.num >= 2 ? 8 : 16));
             texts.push('Leech Seed damage');
         }
-    }
+	}
+	if (description.isBadgeAtk) {
+		output += 'Badge Boosted Attack ';
+	}
+	if (description.isBadgeDef) {
+		output += 'Badge Boosted Defense ';
+	}
+	if (description.isBadgeSpeed) {
+		output += 'Badge Boosted Speed ';
+	}
+	if (description.isBadgeSpec) {
+		output += 'Badge Boosted Special ';
+	}
     if (field.attackerSide.isSeeded && !attacker.hasAbility('Magic Guard')) {
         if (attacker.hasAbility('Liquid Ooze')) {
             damage -= Math.floor(attacker.maxHP() / (gen.num >= 2 ? 8 : 16));

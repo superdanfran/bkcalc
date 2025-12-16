@@ -89,13 +89,45 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
     var ignoreMods = move.isCrit &&
         (gen.num === 1 ||
             (gen.num === 2 && attacker.boosts[attackStat] <= defender.boosts[defenseStat]));
-    var lv = attacker.level;
-    if (ignoreMods) {
-        at = attacker.rawStats[attackStat];
-        df = defender.rawStats[defenseStat];
+	 var lv = attacker.level;
+	if (gen.num === 1) {
+		if (field.attackerSide.isBadgeAtk && !move.isCrit) {
+			if ((move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison'))) {
+				at = Math.floor(at * 1.125);
+				desc.isBadgeAtk = true;
+			}
+		}
+		if (field.attackerSide.isBadgeSpec && !move.isCrit) {
+			if ((move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon'))) {
+				at = Math.floor(at * 1.125);
+				desc.isBadgeSpec = true;
+			}
+		}
+		if (field.defenderSide.isBadgeSpec && !isPhysical) {
+			df = Math.floor(df * 1.125);
+		}
+		if (field.defenderSide.isBadgeDef && isPhysical) {
+			df = Math.floor(df * 1.125);
+		}
+	 }
+	 if (gen.num === 2) {
+		if (field.attackerSide.isBadgeBoosted > 0 && isPhysical && !move.isCrit) {
+			at = Math.floor(at * 1.125);
+		}
+		if (field.defenderSide.isBadgeBoosted > 5 && (defender.rawStats['spa'] > 205 && defender.rawStats['spa'] < 433 || defender.rawStats['spa'] > 660) && !isPhysical && !move.isCrit) {
+			df = Math.floor(df * 1.125);
+		}
+		if (field.attackerSide.isBadgeBoosted > 5 && !isPhysical && !move.isCrit) {
+			at = Math.floor(at * 1.125);
+		}
+		if (field.defenderSide.isBadgeBoosted > 6 && isPhysical && !move.isCrit) {
+			df = Math.floor(df * 1.125);
+		}
+	 }
+	if (ignoreMods) {
         if (gen.num === 1) {
             lv *= 2;
-            desc.isCritical = true;
+			  desc.isCritical = true;
         }
     }
     else {

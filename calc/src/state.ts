@@ -65,6 +65,11 @@ export namespace State {
     isLightScreen?: boolean;
     isProtected?: boolean;
     isSeeded?: boolean;
+    isBadgeAtk?: boolean;
+    isBadgeDef?: boolean;
+    isBadgeSpeed?: boolean;
+    isBadgeSpec?: boolean;
+    isBadgeBoosted?: number;
     isForesight?: boolean;
     isTailwind?: boolean;
     isHelpingHand?: boolean;

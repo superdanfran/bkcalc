@@ -40,7 +40,12 @@ function ExportPokemon(pokeInfo) {
 	var IVs_Array = [];
 	for (var stat in pokemon.ivs) {
 		var iv = pokemon.ivs[stat] ? pokemon.ivs[stat] : 0;
-		if (iv < 31) {
+		if (gen > 2) {
+			if (iv < 31) {
+				IVs_Array.push(iv + " " + calc.Stats.displayStat(stat));
+			}
+		}
+		else if (iv < 15) {
 			IVs_Array.push(iv + " " + calc.Stats.displayStat(stat));
 		}
 	}
@@ -294,13 +299,13 @@ function addSets(pokes, name) {
 				}
 				currentPoke.isCustomSet = true;
 				currentPoke.ability = getAbility(rows[i + 1].split(":"));
-				currentPoke.teraType = getTeraType(rows[i + 1].split(":"));
+				//currentPoke.teraType = getTeraType(rows[i + 1].split(":"));
 				currentPoke = getStats(currentPoke, rows, i + 1);
 				currentPoke = getMoves(currentPoke, rows, i);
 				addToDex(currentPoke);
 				addBoxed(currentPoke);
 				addedpokes++;
-				break;
+				//break;
 			}
 		}
 	}
