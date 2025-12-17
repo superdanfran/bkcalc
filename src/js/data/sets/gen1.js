@@ -14230,7 +14230,7 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Body Slam",
                 "Blizzard",
-                "Hydro Pump"
+                "Waterfall"
             ]
         },
         "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
@@ -14772,7 +14772,7 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Stun Spore",
                 "Razor Leaf",
-                "Wrap"
+                "Body Slam"
             ]
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
