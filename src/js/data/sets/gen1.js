@@ -1,6 +1,6 @@
 var SETDEX_RBY = {
     "Abra": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -12,11 +12,12 @@ var SETDEX_RBY = {
             "moves": [
                 "Confusion",
                 "Kinesis"
-            ]
+			 ],
+			 "index": 42
         }
     },
     "Aerodactyl": {
-        "Brock (Pewter Gym)": {
+        "Brock": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -27,7 +28,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fly"
-            ]
+			 ],
+			 "index": 15
         },
         "Scientist (Silph Co.)": {
             "level": 64,
@@ -448,7 +450,7 @@ var SETDEX_RBY = {
         }
     },
     "Arbok": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -460,7 +462,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Glare"
-            ]
+			 ],
+			 "index": 44
         },
         "Gambler (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -709,7 +712,7 @@ var SETDEX_RBY = {
         }
     },
     "Beedrill": {
-        "Bug Catcher (Route 3 (E of Pewter))": {
+        "Bug Catcher 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -720,10 +723,11 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Twineedle"
-            ]
+			 ],
+			 "index": 18
         },
-        "Bug Catcher 1 (Route 3 (E of Pewter))": {
-            "level": 13,
+        "Bug Catcher 2 - Route 3": {
+            "level": 14,
             "dvs": {
                 "hp": 8,
                 "at": 9,
@@ -733,9 +737,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Twineedle"
-            ]
+			  ],
+			  "index": 26
         },
-        "Bug Catcher 2 (Route 3 (E of Pewter))": {
+        "Bug Catcher 3 - Route 3": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -746,9 +751,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Twineedle"
-            ]
+			  ],
+			  "index": 28
         },
-        "Bug Catcher (Mt. Moon)": {
+        "Bug Catcher 1 - Mt. Moon": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -759,7 +765,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Twineedle"
-            ]
+			  ],
+			  "index": 33
         },
         "Bug Catcher (Route 6 (N of Vermilion))": {
             "level": 24,
@@ -776,7 +783,7 @@ var SETDEX_RBY = {
         }
     },
     "Bellsprout": {
-        "Lass (Route 25 (Bill's House))": {
+        "Lass 1 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -790,7 +797,8 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Sleep Powder",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 87
         }
     },
     "Blastoise": {
@@ -956,7 +964,7 @@ var SETDEX_RBY = {
         }
     },
     "Bulbasaur": {
-        "Youngster (Route 24 (N of Cerulean))": {
+        "Youngster 1 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -970,11 +978,12 @@ var SETDEX_RBY = {
                 "PoisonPowder",
                 "Razor Leaf",
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 70
         }
     },
     "Butterfree": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 3 - Viridian Forest": {
             "level": 10,
             "dvs": {
                 "hp": 8,
@@ -987,9 +996,10 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			 ],
+			 "index": 9
         },
-        "Bug Catcher (Route 3 (E of Pewter))": {
+        "Bug Catcher 3 - Route 3": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -1002,9 +1012,10 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			  ],
+			  "index": 27
         },
-        "Bug Catcher 1 (Mt. Moon)": {
+        "Bug Catcher 2 - Mt. Moon": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -1017,7 +1028,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			  ],
+			  "index": 41
         },
         "Bug Catcher (Route 6 (N of Vermilion))": {
             "level": 24,
@@ -1066,7 +1078,7 @@ var SETDEX_RBY = {
         }
     },
     "Caterpie": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 1 - Viridian Forest": {
             "level": 6,
             "dvs": {
                 "hp": 8,
@@ -1078,7 +1090,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Tackle",
                 "String Shot"
-            ]
+			 ],
+			 "index": 5
         }
     },
     "Chameleon": {
@@ -1359,7 +1372,7 @@ var SETDEX_RBY = {
         }
     },
     "Charmander": {
-        "Youngster (Route 24 (N of Cerulean))": {
+        "Youngster 1 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -1373,10 +1386,27 @@ var SETDEX_RBY = {
                 "Bite",
                 "Headbutt",
                 "Fire Punch"
-            ]
+			 ],
+			 "index": 71
         }
     },
-    "Charmeleon": {
+	"Charmeleon": {
+		"Lass 2 - Route 25": {
+			"level": 23,
+			"dvs": {
+				"hp": 8,
+				"at": 9,
+				"df": 8,
+				"sl": 8,
+				"sp": 8
+			},
+			"moves": [
+				"Dragon Rage",
+				"Flamethrower",
+				"Slash"
+			],
+			"index": 97
+		},
         "Jr. Trainer M (Route 9 (E of Cerulean))": {
             "level": 36,
             "dvs": {
@@ -1572,7 +1602,7 @@ var SETDEX_RBY = {
         }
     },
     "Clefairy": {
-        "Lass (Mt. Moon)": {
+        "Lass 1 - Mt. Moon": {
             "level": 17,
             "dvs": {
                 "hp": 8,
@@ -1584,7 +1614,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Sing",
                 "Metronome"
-            ]
+			 ],
+			 "index": 34
         },
         "Lass (Route 8 (W of Lavender))": {
             "level": 43,
@@ -1875,7 +1906,7 @@ var SETDEX_RBY = {
         }
     },
     "Cubone": {
-        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+        "Jr. Trainer M 2 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -1889,9 +1920,10 @@ var SETDEX_RBY = {
                 "Double-Edge",
                 "Rock Slide",
                 "Bonemerang"
-            ]
+			 ],
+			 "index": 79
         },
-        "Jr. Trainer M (Route 25 (Bill's House))": {
+        "Jr. Trainer M 1 - Route 25": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -1905,11 +1937,12 @@ var SETDEX_RBY = {
                 "Double-Edge",
                 "Rock Slide",
                 "Bonemerang"
-            ]
+			  ],
+			  "index": 93
         }
     },
     "Dewgong": {
-        "Misty (Cerulean Gym)": {
+        "Misty": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -1923,7 +1956,8 @@ var SETDEX_RBY = {
                 "Ice Beam",
                 "Body Slam",
                 "Waterfall"
-            ]
+			 ],
+			 "index": 104
         },
         "Gambler (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -2087,7 +2121,7 @@ var SETDEX_RBY = {
         }
     },
     "Diglett": {
-        "Jr. Trainer M (Pewter Gym)": {
+        "Jr. Trainer M - Pewter Gym": {
             "level": 11,
             "dvs": {
                 "hp": 8,
@@ -2099,7 +2133,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Sand Attack",
                 "Slash"
-            ]
+			 ],
+			 "index": 10
         },
         "Jr. Trainer M (Route 9 (E of Cerulean))": {
             "level": 37,
@@ -2118,7 +2153,7 @@ var SETDEX_RBY = {
         }
     },
     "Ditto": {
-        "Youngster (Route 25 (Bill's House))": {
+        "Youngster 2 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -2129,7 +2164,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+			 ],
+			 "index": 85
         },
         "Bird Keeper (Route 14 (NE of Fuchsia))": {
             "level": 56,
@@ -2411,7 +2447,7 @@ var SETDEX_RBY = {
         }
     },
     "Dragonair": {
-        "Blue 3 (Cerulean City)": {
+        "Blue 3 - Cerulean City": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -2424,9 +2460,10 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 64
         },
-        "Rocket (Route 24 (N of Cerulean))": {
+        "Rocket 1 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -2439,7 +2476,8 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 76
         },
         "Fisherman (6th room from left)": {
             "level": 27,
@@ -2767,7 +2805,7 @@ var SETDEX_RBY = {
         }
     },
     "Dratini": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -2780,9 +2818,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Thunder Wave",
                 "Dragon Rage"
-            ]
+			 ],
+			 "index": 43
         },
-        "Blue 3 (Cerulean City)": {
+        "Blue 3 - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -2795,7 +2834,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Thunder Wave",
                 "Dragon Rage"
-            ]
+			  ],
+			  "index": 62
         },
         "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
             "level": 39,
@@ -2831,7 +2871,7 @@ var SETDEX_RBY = {
         }
     },
     "Drowzee": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 2 - Mt. Moon": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -2845,7 +2885,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunder Wave",
                 "Toxic"
-            ]
+			 ],
+			 "index": 45
         },
         "Hiker (Rock Tunnel)": {
             "level": 42,
@@ -3187,7 +3228,7 @@ var SETDEX_RBY = {
         }
     },
     "Eevee": {
-        "Blue 2 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -3249,7 +3290,7 @@ var SETDEX_RBY = {
         }
     },
     "Ekans": {
-        "Youngster (Route 3 (E of Pewter))": {
+        "Youngster 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -3261,7 +3302,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Glare"
-            ]
+			 ],
+			 "index": 19
         }
     },
     "Electabuzz": {
@@ -3729,7 +3771,7 @@ var SETDEX_RBY = {
         }
     },
     "Exeggcute": {
-        "Super Nerd (Mt. Moon)": {
+        "Super Nerd 2 - Mt. Moon": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -3743,7 +3785,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Explosion",
                 "Stun Spore"
-            ]
+			 ],
+			 "index": 58
         },
         "Hiker (Route 10 South (N of Lavender))": {
             "level": 43,
@@ -4158,7 +4201,7 @@ var SETDEX_RBY = {
         }
     },
     "Farfetch\u2019d": {
-        "Youngster (Mt. Moon)": {
+        "Youngster 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -4171,9 +4214,10 @@ var SETDEX_RBY = {
                 "Substitute",
                 "Sand Attack",
                 "Slash"
-            ]
+			 ],
+			 "index": 49
         },
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -4186,7 +4230,8 @@ var SETDEX_RBY = {
                 "Substitute",
                 "Sand Attack",
                 "Slash"
-            ]
+			  ],
+			  "index": 88
         },
         "Youngster (Route 11 (E of Vermilion))": {
             "level": 24,
@@ -4563,7 +4608,7 @@ var SETDEX_RBY = {
         }
     },
     "Gastly": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 4 - Mt. Moon": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -4576,7 +4621,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+			 ],
+			 "index": 54
         },
         "Hiker (Route 9 (E of Cerulean))": {
             "level": 38,
@@ -4915,7 +4961,7 @@ var SETDEX_RBY = {
         }
     },
     "Geodude": {
-        "Super Nerd (Mt. Moon)": {
+        "Super Nerd 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -4926,8 +4972,9 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Self-Destruct"
-            ]
-        }
+			 ],
+			 "index": 37
+		 },
     },
     "Gloom": {
         "Jr. Trainer F (Route 9 (E of Cerulean))": {
@@ -4977,7 +5024,7 @@ var SETDEX_RBY = {
         }
     },
     "Golbat": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 2 - Mt. Moon": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -4991,7 +5038,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+			 ],
+			 "index": 46
         },
         "Youngster (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -5075,7 +5123,7 @@ var SETDEX_RBY = {
         }
     },
     "Goldeen": {
-        "Lass (Mt. Moon)": {
+        "Lass 2 - Mt. Moon": {
             "level": 17,
             "dvs": {
                 "hp": 8,
@@ -5088,11 +5136,12 @@ var SETDEX_RBY = {
                 "Peck",
                 "Waterfall",
                 "Supersonic"
-            ]
-        }
+			 ],
+			 "index": 35
+		 }
     },
     "Golduck": {
-        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+        "Jr. Trainer M 1 - Route 24": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -5106,7 +5155,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Body Slam",
                 "Hypnosis"
-            ]
+			 ],
+			 "index": 75
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -5254,7 +5304,7 @@ var SETDEX_RBY = {
         }
     },
     "Golem": {
-        "Brock (Pewter Gym)": {
+        "Brock": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -5268,7 +5318,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 12
         },
         "Super Nerd 2 (Route 8 (W of Lavender))": {
             "level": 43,
@@ -5563,7 +5614,7 @@ var SETDEX_RBY = {
         }
     },
     "Growlithe": {
-        "Youngster (Route 25 (Bill's House))": {
+        "Youngster 1 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -5577,7 +5628,8 @@ var SETDEX_RBY = {
                 "Swift",
                 "Double-Edge",
                 "Flamethrower"
-            ]
+			 ],
+			 "index": 83
         }
     },
     "Gyarados": {
@@ -5871,7 +5923,7 @@ var SETDEX_RBY = {
         }
     },
     "Haunter": {
-        "Rocket (Route 24 (N of Cerulean))": {
+        "Rocket 1 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -5884,7 +5936,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+			 ],
+			 "index": 77
         },
         "Hiker 1 (Rock Tunnel)": {
             "level": 41,
@@ -6135,7 +6188,7 @@ var SETDEX_RBY = {
         }
     },
     "Horsea": {
-        "Lass (Mt. Moon)": {
+        "Lass 2 - Mt. Moon": {
             "level": 17,
             "dvs": {
                 "hp": 8,
@@ -6148,7 +6201,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Bubble Beam",
                 "SmokeScreen"
-            ]
+			 ],
+			 "index": 36
         },
         "Sailor (6th room from left)": {
             "level": 30,
@@ -6454,7 +6508,7 @@ var SETDEX_RBY = {
         }
     },
     "Ivysaur": {
-        "Lass (Route 25 (Bill's House))": {
+        "Lass 2 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -6467,7 +6521,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Body Slam",
                 "Razor Leaf"
-            ]
+			 ],
+			 "index": 96
         },
         "Jr. Trainer M (Route 9 (E of Cerulean))": {
             "level": 37,
@@ -6501,7 +6556,7 @@ var SETDEX_RBY = {
         }
     },
     "Jigglypuff": {
-        "Lass (Route 3 (E of Pewter))": {
+        "Lass 3 - Route 3": {
             "level": 17,
             "dvs": {
                 "hp": 8,
@@ -6514,8 +6569,9 @@ var SETDEX_RBY = {
                 "Sing",
                 "Double-Edge",
                 "Rest"
-            ]
-        }
+			 ],
+			 "index": 31
+		 }
     },
     "Jolteon": {
         "Blue 4 (4th room from left)": {
@@ -7021,7 +7077,7 @@ var SETDEX_RBY = {
         }
     },
     "Kabuto": {
-        "Brock (Pewter Gym)": {
+        "Brock": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -7034,7 +7090,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Waterfall",
                 "Slash"
-            ]
+			 ],
+			 "index": 13
         },
         "Lass (2nd room from left (Body Slam TM))": {
             "level": 30,
@@ -7103,7 +7160,7 @@ var SETDEX_RBY = {
         }
     },
     "Kadabra": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 4 - Mt. Moon": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -7116,9 +7173,10 @@ var SETDEX_RBY = {
                 "Kinesis",
                 "Psybeam",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 55
         },
-        "Blue 3 (Cerulean City)": {
+        "Blue 3 - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -7131,7 +7189,8 @@ var SETDEX_RBY = {
                 "Kinesis",
                 "Psybeam",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 63
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -7343,7 +7402,7 @@ var SETDEX_RBY = {
         }
     },
     "Kakuna": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 2 - Viridian Forest": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -7355,7 +7414,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Harden",
                 "Poison Sting"
-            ]
+			 ],
+			 "index": 6
         },
         "Bug Catcher (Route 9 (E of Cerulean))": {
             "level": 100,
@@ -7539,7 +7599,7 @@ var SETDEX_RBY = {
         }
     },
     "Kingler": {
-        "Swimmer (Cerulean Gym)": {
+        "Swimmer 1 - Cerulean Gym": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -7552,7 +7612,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+			 ],
+			 "index": 100
         },
         "Gambler 1 (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -7661,7 +7722,7 @@ var SETDEX_RBY = {
         }
     },
     "Koffing": {
-        "Super Nerd (Mt. Moon)": {
+        "Super Nerd 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -7675,11 +7736,12 @@ var SETDEX_RBY = {
                 "Sludge",
                 "Explosion",
                 "Toxic"
-            ]
-        }
+			 ],
+			 "index": 38
+		 },
     },
     "Krabby": {
-        "Youngster (Mt. Moon)": {
+        "Youngster 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -7692,7 +7754,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "ViceGrip",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 48
         }
     },
     "Lapras": {
@@ -7954,7 +8017,7 @@ var SETDEX_RBY = {
         }
     },
     "Lickitung": {
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -7968,7 +8031,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Body Slam",
                 "Earthquake"
-            ]
+			 ],
+			 "index": 90
         },
         "Youngster (S.S. Anne)": {
             "level": 28,
@@ -8310,7 +8374,7 @@ var SETDEX_RBY = {
         }
     },
     "Machop": {
-        "Hiker (Mt. Moon)": {
+        "Hiker 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -8322,7 +8386,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Karate Chop",
                 "Low Kick"
-            ]
+			 ],
+			 "index": 51
         },
         "Sailor (6th room from left)": {
             "level": 29,
@@ -8651,7 +8716,7 @@ var SETDEX_RBY = {
         }
     },
     "Mankey": {
-        "Jr. Trainer M (Route 24 (N of Cerulean))": {
+        "Jr. Trainer M 2 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -8665,9 +8730,10 @@ var SETDEX_RBY = {
                 "Thrash",
                 "Submission",
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 78
         },
-        "Jr. Trainer M (Route 25 (Bill's House))": {
+        "Jr. Trainer M 1 - Route 25": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -8681,7 +8747,8 @@ var SETDEX_RBY = {
                 "Thrash",
                 "Submission",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 92
         },
         "Sailor (6th room from left)": {
             "level": 30,
@@ -8799,7 +8866,7 @@ var SETDEX_RBY = {
         }
     },
     "Meowth": {
-        "Youngster (Route 25 (Bill's House))": {
+        "Youngster 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -8812,7 +8879,8 @@ var SETDEX_RBY = {
                 "Bite",
                 "Pay Day",
                 "Slash"
-            ]
+			 ],
+			 "index": 94
         },
         "Lass (Route 8 (W of Lavender))": {
             "level": 43,
@@ -8846,7 +8914,7 @@ var SETDEX_RBY = {
         }
     },
     "Metapod": {
-        "Bug Catcher 1 (Route 3 (E of Pewter))": {
+        "Bug Catcher 2 - Route 3": {
             "level": 13,
             "dvs": {
                 "hp": 8,
@@ -8858,7 +8926,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Harden",
                 "Tackle"
-            ]
+			 ],
+			 "index": 25
         },
         "Bug Catcher (Route 9 (E of Cerulean))": {
             "level": 100,
@@ -8876,7 +8945,7 @@ var SETDEX_RBY = {
         }
     },
     "Mew": {
-        "Blue 1 (Professor Oak's Laboratory)": {
+        "Blue 1 - Professor Oak's Laboratory": {
             "level": 3,
             "dvs": {
                 "hp": 8,
@@ -8891,7 +8960,7 @@ var SETDEX_RBY = {
             ],
             "index": 1
         },
-        "Blue 2 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 8,
             "dvs": {
                 "hp": 8,
@@ -8907,7 +8976,7 @@ var SETDEX_RBY = {
             ],
             "index": 3
         },
-        "Blue 3 (Cerulean City)": {
+        "Blue 3 - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -8921,7 +8990,8 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Body Slam",
                 "Psychic"
-            ]
+			  ],
+			  "index": 65
         },
         "Blue 4 (4th room from left)": {
             "level": 31,
@@ -9926,8 +9996,8 @@ var SETDEX_RBY = {
             ]
         }
     },
-    "Nidoran F": {
-        "Lass (Route 3 (E of Pewter))": {
+    "Nidoran-F": {
+        "Lass 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -9940,11 +10010,12 @@ var SETDEX_RBY = {
                 "Double Kick",
                 "Bite",
                 "Toxic"
-            ]
+			 ],
+			 "index": 21
         }
     },
-    "Nidoran M": {
-        "Lass (Route 3 (E of Pewter))": {
+    "Nidoran-M": {
+        "Lass 2 - Route 3": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -9958,11 +10029,12 @@ var SETDEX_RBY = {
                 "Horn Attack",
                 "Toxic",
                 "Dig"
-            ]
+			 ],
+			 "index": 29
         }
     },
     "Nidorina": {
-        "Lass (Route 24 (N of Cerulean))": {
+        "Lass 2 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -9976,7 +10048,8 @@ var SETDEX_RBY = {
                 "Bite",
                 "Toxic",
                 "Dig"
-            ]
+			 ],
+			 "index": 74
         },
         "Lass (Route 8 (W of Lavender))": {
             "level": 43,
@@ -9996,7 +10069,7 @@ var SETDEX_RBY = {
         }
     },
     "Nidorino": {
-        "Lass (Route 24 (N of Cerulean))": {
+        "Lass 1 - Route 24": {
             "level": 21,
             "dvs": {
                 "hp": 8,
@@ -10010,7 +10083,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Horn Attack",
                 "Dig"
-            ]
+			 ],
+			 "index": 69
         }
     },
     "Ninetales": {
@@ -10120,7 +10194,7 @@ var SETDEX_RBY = {
         }
     },
     "Oddish": {
-        "Lass (Route 24 (N of Cerulean))": {
+        "Lass 1 - Route 24": {
             "level": 21,
             "dvs": {
                 "hp": 8,
@@ -10134,11 +10208,12 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Sleep Powder",
                 "Razor Leaf"
-            ]
+			 ],
+			 "index": 68
         }
     },
     "Omanyte": {
-        "Brock (Pewter Gym)": {
+        "Brock": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -10150,7 +10225,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Blizzard",
                 "Waterfall"
-            ]
+			 ],
+			 "index": 14
         },
         "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
             "level": 39,
@@ -10284,7 +10360,7 @@ var SETDEX_RBY = {
         }
     },
     "Onix": {
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -10297,7 +10373,8 @@ var SETDEX_RBY = {
                 "Bind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+			 ],
+			 "index": 91
         },
         "Hiker (Route 9 (E of Cerulean))": {
             "level": 38,
@@ -10361,7 +10438,7 @@ var SETDEX_RBY = {
         }
     },
     "Paras": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 2 - Viridian Forest": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -10375,9 +10452,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Mega Drain",
                 "Stun Spore"
-            ]
+			 ],
+			 "index": 8
         },
-        "Bug Catcher (Route 3 (E of Pewter))": {
+        "Bug Catcher 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -10391,10 +10469,11 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Mega Drain",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 17
         },
-        "Bug Catcher 1 (Route 3 (E of Pewter))": {
-            "level": 13,
+        "Bug Catcher 2 - Route 3": {
+            "level": 14,
             "dvs": {
                 "hp": 8,
                 "at": 9,
@@ -10407,9 +10486,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Mega Drain",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 23
         },
-        "Bug Catcher (Mt. Moon)": {
+        "Bug Catcher 2 - Mt. Moon": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -10423,9 +10503,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Mega Drain",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 39
         },
-        "Lass (Route 4 East (W of Cerulean))": {
+        "Lass 1 - Route 4 East": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -10439,11 +10520,12 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Mega Drain",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 59
         }
     },
     "Parasect": {
-        "Lass (Route 4 East (W of Cerulean))": {
+        "Lass 1 - Route 4 East": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -10457,7 +10539,8 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Body Slam",
                 "Spore"
-            ]
+			 ],
+			 "index": 61
         },
         "Bug Catcher (Route 6 (N of Vermilion))": {
             "level": 24,
@@ -10801,7 +10884,7 @@ var SETDEX_RBY = {
         }
     },
     "Pidgeotto": {
-        "Youngster (Route 3 (E of Pewter))": {
+        "Youngster 2 - Route 3": {
             "level": 15,
             "dvs": {
                 "hp": 8,
@@ -10814,9 +10897,10 @@ var SETDEX_RBY = {
                 "Wing Attack",
                 "Sand Attack",
                 "Quick Attack"
-            ]
+			 ],
+			 "index": 22
         },
-        "Youngster (Route 25 (Bill's House))": {
+        "Youngster 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -10829,11 +10913,12 @@ var SETDEX_RBY = {
                 "Wing Attack",
                 "Sand Attack",
                 "Quick Attack"
-            ]
+			  ],
+			  "index": 95
         }
     },
     "Pidgey": {
-        "Lass (Route 3 (E of Pewter))": {
+        "Lass 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -10847,7 +10932,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Swift"
-            ]
+			 ],
+			 "index": 20
         }
     },
     "Pikachu": {
@@ -10901,7 +10987,7 @@ var SETDEX_RBY = {
         }
     },
     "Pinsir": {
-        "Bug Catcher (Route 24 (N of Cerulean))": {
+        "Bug Catcher 1 - Route 24": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -10914,7 +11000,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Guillotine",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 67
         },
         "Gambler (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -11029,7 +11116,7 @@ var SETDEX_RBY = {
         }
     },
     "Poliwag": {
-        "Youngster (Route 25 (Bill's House))": {
+        "Youngster 1 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -11042,7 +11129,8 @@ var SETDEX_RBY = {
                 "Bubble Beam",
                 "Hypnosis",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 82
         }
     },
     "Poliwhirl": {
@@ -11080,7 +11168,7 @@ var SETDEX_RBY = {
         }
     },
     "Poliwrath": {
-        "Misty (Cerulean Gym)": {
+        "Misty": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -11094,7 +11182,8 @@ var SETDEX_RBY = {
                 "Ice Beam",
                 "Earthquake",
                 "Waterfall"
-            ]
+			 ],
+			 "index": 103
         },
         "Sailor (Vermilion Gym)": {
             "level": 36,
@@ -11274,7 +11363,7 @@ var SETDEX_RBY = {
         }
     },
     "Ponyta": {
-        "Lass (Route 4 East (W of Cerulean))": {
+        "Lass 1 - Route 4 East": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -11288,7 +11377,8 @@ var SETDEX_RBY = {
                 "Stomp",
                 "Flamethrower",
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 60
         },
         "Jr. Trainer F (Route 6 (N of Vermilion))": {
             "level": 23,
@@ -11584,7 +11674,7 @@ var SETDEX_RBY = {
         }
     },
     "Psyduck": {
-        "Hiker (Mt. Moon)": {
+        "Hiker 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -11598,7 +11688,8 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Seismic Toss",
                 "Hypnosis"
-            ]
+			 ],
+			 "index": 52
         }
     },
     "Raichu": {
@@ -11910,7 +12001,7 @@ var SETDEX_RBY = {
         }
     },
     "Raticate": {
-        "Rocket (Mt. Moon)": {
+        "Rocket 3 - Mt. Moon": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -11924,7 +12015,8 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+			 ],
+			 "index": 53
         },
         "Jr. Trainer M (Route 6 (N of Vermilion))": {
             "level": 23,
@@ -12040,7 +12132,7 @@ var SETDEX_RBY = {
         }
     },
     "Rattata": {
-        "Youngster (Route 3 (E of Pewter))": {
+        "Youngster 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -12052,7 +12144,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Quick Attack",
                 "Hyper Fang"
-            ]
+			 ],
+			 "index": 19
         }
     },
     "Rhydon": {
@@ -12178,7 +12271,7 @@ var SETDEX_RBY = {
         }
     },
     "Rhyhorn": {
-        "Hiker (Mt. Moon)": {
+        "Hiker 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -12189,9 +12282,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 50
         },
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 1 - Route 25": {
             "level": 21,
             "dvs": {
                 "hp": 8,
@@ -12203,7 +12297,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Double-Edge",
                 "Rock Slide"
-            ]
+			  ],
+			  "index": 81
         },
         "Hiker (Route 9 (E of Cerulean))": {
             "level": 38,
@@ -12251,7 +12346,7 @@ var SETDEX_RBY = {
         }
     },
     "Sandshrew": {
-        "Jr. Trainer M (Pewter Gym)": {
+        "Jr. Trainer M - Pewter Gym": {
             "level": 11,
             "dvs": {
                 "hp": 8,
@@ -12263,9 +12358,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Slash",
                 "Sand Attack"
-            ]
+			 ],
+			 "index": 11
         },
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 3 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -12278,7 +12374,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Sand Attack",
                 "Dig"
-            ]
+			  ],
+			  "index": 89
         },
         "Youngster (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -12459,7 +12556,7 @@ var SETDEX_RBY = {
         }
     },
     "Scyther": {
-        "Bug Catcher (Route 24 (N of Cerulean))": {
+        "Bug Catcher 1 - Route 24": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -12473,7 +12570,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Quick Attack",
                 "Wing Attack"
-            ]
+			 ],
+			 "index": 66
         },
         "Bug Catcher (Route 9 (E of Cerulean))": {
             "level": 39,
@@ -12509,7 +12607,7 @@ var SETDEX_RBY = {
         }
     },
     "Seadra": {
-        "Jr. Trainer F (Cerulean Gym)": {
+        "Jr. Trainer F 1 - Cerulean Gym": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -12521,7 +12619,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Dragon Rage",
                 "Toxic"
-            ]
+			 ],
+			 "index": 101
         },
         "Hiker (Route 9 (E of Cerulean))": {
             "level": 38,
@@ -12620,7 +12719,7 @@ var SETDEX_RBY = {
         }
     },
     "Seaking": {
-        "Swimmer (Cerulean Gym)": {
+        "Swimmer 1 - Cerulean Gym": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -12632,7 +12731,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Horn Drill",
                 "Bubble Beam"
-            ]
+			 ],
+			 "index": 99
         },
         "Gambler (Route 11 (E of Vermilion))": {
             "level": 25,
@@ -12713,7 +12813,7 @@ var SETDEX_RBY = {
         }
     },
     "Seel": {
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 2 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -12727,7 +12827,8 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "Bubble Beam",
                 "Rest"
-            ]
+			 ],
+			 "index": 84
         },
         "Jr. Trainer F (Route 6 (N of Vermilion))": {
             "level": 23,
@@ -12763,7 +12864,7 @@ var SETDEX_RBY = {
         }
     },
     "Shellder": {
-        "Super Nerd (Mt. Moon)": {
+        "Super Nerd 2 - Mt. Moon": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -12777,7 +12878,8 @@ var SETDEX_RBY = {
                 "Clamp",
                 "Aurora Beam",
                 "Supersonic"
-            ]
+			 ],
+			 "index": 57
         },
         "Sailor (6th room from left)": {
             "level": 30,
@@ -13266,7 +13368,7 @@ var SETDEX_RBY = {
         }
     },
     "Spearow": {
-        "Lass (Route 3 (E of Pewter))": {
+        "Lass 2 - Route 3": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -13280,11 +13382,12 @@ var SETDEX_RBY = {
                 "Growl",
                 "Leer",
                 "Fury Attack"
-            ]
+			 ],
+			 "index": 30
         }
     },
     "Squirtle": {
-        "Youngster (Route 24 (N of Cerulean))": {
+        "Youngster 1 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -13298,11 +13401,12 @@ var SETDEX_RBY = {
                 "Bite",
                 "Headbutt",
                 "Bubble Beam"
-            ]
+			 ],
+			 "index": 72
         }
     },
     "Starmie": {
-        "Misty (Cerulean Gym)": {
+        "Misty": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -13316,7 +13420,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+			 ],
+			 "index": 105
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -13560,7 +13665,7 @@ var SETDEX_RBY = {
         }
     },
     "Staryu": {
-        "Lass (Route 24 (N of Cerulean))": {
+        "Lass 2 - Route 24": {
             "level": 22,
             "dvs": {
                 "hp": 8,
@@ -13574,7 +13679,8 @@ var SETDEX_RBY = {
                 "Water Gun",
                 "Light Screen",
                 "Bubble Beam"
-            ]
+			 ],
+			 "index": 73
         },
         "Sailor (6th room from left)": {
             "level": 30,
@@ -14153,7 +14259,7 @@ var SETDEX_RBY = {
         }
     },
     "Vaporeon": {
-        "Misty (Cerulean Gym)": {
+        "Misty": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -14167,7 +14273,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Waterfall"
-            ]
+			 ],
+			 "index": 102
         },
         "Blue 4 (4th room from left)": {
             "level": 30,
@@ -14472,7 +14579,7 @@ var SETDEX_RBY = {
         }
     },
     "Venonat": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 2 - Viridian Forest": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -14485,9 +14592,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Psybeam",
                 "Stun Spore"
-            ]
+			 ],
+			 "index": 7
         },
-        "Bug Catcher (Route 3 (E of Pewter))": {
+        "Bug Catcher 1 - Route 3": {
             "level": 14,
             "dvs": {
                 "hp": 8,
@@ -14500,10 +14608,11 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Psybeam",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 16
         },
-        "Bug Catcher 1 (Route 3 (E of Pewter))": {
-            "level": 13,
+        "Bug Catcher 2 - Route 3": {
+            "level": 14,
             "dvs": {
                 "hp": 8,
                 "at": 9,
@@ -14515,9 +14624,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Psybeam",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 24
         },
-        "Bug Catcher (Mt. Moon)": {
+        "Bug Catcher 1 - Mt. Moon": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -14530,9 +14640,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Psybeam",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 32
         },
-        "Bug Catcher 1 (Mt. Moon)": {
+        "Bug Catcher 2 - Mt. Moon": {
             "level": 16,
             "dvs": {
                 "hp": 8,
@@ -14545,7 +14656,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Psybeam",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 40
         }
     },
     "Venusaur": {
@@ -14918,7 +15030,7 @@ var SETDEX_RBY = {
         }
     },
     "Voltorb": {
-        "Super Nerd (Mt. Moon)": {
+        "Super Nerd 2 - Mt. Moon": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -14932,7 +15044,8 @@ var SETDEX_RBY = {
                 "Self-Destruct",
                 "Explosion",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 56
         },
         "Engineer (Route 11 (E of Vermilion))": {
             "level": 26,
@@ -14984,7 +15097,7 @@ var SETDEX_RBY = {
         }
     },
     "Vulpix": {
-        "Lass (Route 25 (Bill's House))": {
+        "Lass 1 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -14998,7 +15111,8 @@ var SETDEX_RBY = {
                 "Confuse Ray",
                 "Double-Edge",
                 "Flamethrower"
-            ]
+			 ],
+			 "index": 86
         },
         "Lass (4th room from left)": {
             "level": 31,
@@ -15018,7 +15132,7 @@ var SETDEX_RBY = {
         }
     },
     "Wartortle": {
-        "Lass (Route 25 (Bill's House))": {
+        "Lass 2 - Route 25": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -15032,7 +15146,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Dig"
-            ]
+			 ],
+			 "index": 98
         },
         "Sailor (6th room from left)": {
             "level": 29,
@@ -15084,7 +15199,7 @@ var SETDEX_RBY = {
         }
     },
     "Weedle": {
-        "Bug Catcher (Viridian Forest)": {
+        "Bug Catcher 1 - Viridian Forest": {
             "level": 6,
             "dvs": {
                 "hp": 8,
@@ -15096,7 +15211,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Poison Sting",
                 "String Shot"
-            ]
+			 ],
+			 "index": 4
         },
         "Bug Catcher (Route 6 (N of Vermilion))": {
             "level": 100,
@@ -15262,7 +15378,7 @@ var SETDEX_RBY = {
         }
     },
     "Wigglytuff": {
-        "Hiker (Route 25 (Bill's House))": {
+        "Hiker 1 - Route 25": {
             "level": 21,
             "dvs": {
                 "hp": 8,
@@ -15276,7 +15392,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 80
         },
         "Jr. Trainer F (Route 6 (N of Vermilion))": {
             "level": 24,
@@ -15440,7 +15557,7 @@ var SETDEX_RBY = {
         }
     },
     "Zubat": {
-        "Youngster (Mt. Moon)": {
+        "Youngster 1 - Mt. Moon": {
             "level": 18,
             "dvs": {
                 "hp": 8,
@@ -15454,7 +15571,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Confuse Ray",
                 "Hypnosis"
-            ]
+			 ],
+			 "index": 47
         }
     }
 }
