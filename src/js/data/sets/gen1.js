@@ -465,7 +465,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 44
         },
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 2 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -478,9 +478,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+			  ],
+			  "index": 127
         },
-        "Gambler 1 (Route 11 (E of Vermilion))": {
+        "Gambler 4 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -493,7 +494,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+			  ],
+			  "index": 140
         },
         "Gambler (Route 8 (W of Lavender))": {
             "level": 44,
@@ -557,7 +559,7 @@ var SETDEX_RBY = {
         }
     },
     "Arcanine": {
-        "Gentleman (6th room from left)": {
+        "Gentleman 2 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -570,7 +572,8 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Body Slam",
                 "Dig"
-            ]
+			 ],
+			 "index": 147
         },
         "Biker (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -768,7 +771,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 33
         },
-        "Bug Catcher (Route 6 (N of Vermilion))": {
+        "Bug Catcher 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -779,7 +782,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Twineedle"
-            ]
+			  ],
+			  "index": 109
         }
     },
     "Bellsprout": {
@@ -1031,7 +1035,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 41
         },
-        "Bug Catcher (Route 6 (N of Vermilion))": {
+        "Bug Catcher 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -1044,7 +1048,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			  ],
+			  "index": 108
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -1424,7 +1429,7 @@ var SETDEX_RBY = {
         }
     },
     "Clefable": {
-        "Fisherman (6th room from left)": {
+        "Fisherman 1 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -1438,7 +1443,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 151
         },
         "Jr. Trainer F (Route 9 (E of Cerulean))": {
             "level": 38,
@@ -1634,7 +1640,7 @@ var SETDEX_RBY = {
         }
     },
     "Cloyster": {
-        "Fisherman (2nd room from left (Nugget))": {
+        "Fisherman 2 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -1647,7 +1653,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+			 ],
+			 "index": 166
         },
         "Super Nerd (Route 8 (W of Lavender))": {
             "level": 44,
@@ -1959,7 +1966,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 104
         },
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 1 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -1973,9 +1980,10 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Body Slam",
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 125
         },
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 5 - S.S. Anne": {
             "level": 28,
             "dvs": {
                 "hp": 8,
@@ -1989,7 +1997,8 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Body Slam",
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 161
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 41,
@@ -2447,7 +2456,7 @@ var SETDEX_RBY = {
         }
     },
     "Dragonair": {
-        "Blue 3 - Cerulean City": {
+        "Blue - Cerulean City": {
             "level": 19,
             "dvs": {
                 "hp": 8,
@@ -2479,7 +2488,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 76
         },
-        "Fisherman (6th room from left)": {
+        "Fisherman 1 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -2492,9 +2501,10 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 150
         },
-        "Fisherman (2nd room from left (Nugget))": {
+        "Fisherman 2 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -2507,9 +2517,10 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 167
         },
-        "Gentleman (4th room from left (Rare Candy))": {
+        "Gentleman 4 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -2522,7 +2533,8 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 170
         },
         "Pok\u00e9Maniac (Rock Tunnel)": {
             "level": 41,
@@ -2821,7 +2833,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 43
         },
-        "Blue 3 - Cerulean City": {
+        "Blue - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -2954,7 +2966,7 @@ var SETDEX_RBY = {
         }
     },
     "Dugtrio": {
-        "Rocket (Cerulean City)": {
+        "Rocket - Cerulean City": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -2968,9 +2980,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Body Slam",
                 "Fissure"
-            ]
+			 ],
+			 "index": 107
         },
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 3 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -2984,7 +2997,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Body Slam",
                 "Fissure"
-            ]
+			  ],
+			  "index": 133
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -3228,7 +3242,7 @@ var SETDEX_RBY = {
         }
     },
     "Eevee": {
-        "Blue 2 - Route 22": {
+        "Blue - Route 22": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -3243,7 +3257,7 @@ var SETDEX_RBY = {
             ],
             "index": 2
         },
-        "Lass (2nd room from left (Body Slam TM))": {
+        "Lass 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -3256,7 +3270,8 @@ var SETDEX_RBY = {
                 "Quick Attack",
                 "Sand Attack",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 143
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -3307,7 +3322,7 @@ var SETDEX_RBY = {
         }
     },
     "Electabuzz": {
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -3321,7 +3336,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+			 ],
+			 "index": 196
         },
         "Jr. Trainer F (Route 10 South (N of Lavender))": {
             "level": 40,
@@ -3469,7 +3485,7 @@ var SETDEX_RBY = {
         }
     },
     "Electrode": {
-        "Engineer (Route 11 (E of Vermilion))": {
+        "Engineer 1 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -3482,9 +3498,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+			 ],
+			 "index": 135
         },
-        "Rocker (Vermilion Gym)": {
+        "Rocker 1 - Vermilion Gym": {
             "level": 34,
             "dvs": {
                 "hp": 8,
@@ -3497,9 +3514,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 186
         },
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -3512,7 +3530,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Explosion",
                 "Thunderbolt"
-            ]
+			  ],
+			  "index": 192
         },
         "Super Nerd (Route 8 (W of Lavender))": {
             "level": 44,
@@ -4233,7 +4252,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 88
         },
-        "Youngster (Route 11 (E of Vermilion))": {
+        "Youngster 3 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -4246,7 +4265,8 @@ var SETDEX_RBY = {
                 "Substitute",
                 "Sand Attack",
                 "Slash"
-            ]
+			  ],
+			  "index": 123
         },
         "Jr. Trainer F (Route 9 (E of Cerulean))": {
             "level": 35,
@@ -4297,7 +4317,7 @@ var SETDEX_RBY = {
         }
     },
     "Fearow": {
-        "Youngster 1 (Route 11 (E of Vermilion))": {
+        "Youngster 4 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -4310,7 +4330,8 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+			 ],
+			 "index": 130
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 41,
@@ -4389,7 +4410,7 @@ var SETDEX_RBY = {
         }
     },
     "Flareon": {
-        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+        "Jr. Trainer M 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -4402,9 +4423,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+			 ],
+			 "index": 111
         },
-        "Blue 4 (4th room from left)": {
+        "Blue 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -4418,9 +4440,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 176
         },
-        "Blue 4 1 (4th room from left)": {
+        "Blue 2 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -4434,9 +4457,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 179
         },
-        "Blue 4 2 (4th room from left)": {
+        "Blue 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -4450,7 +4474,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 182
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -5041,7 +5066,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 46
         },
-        "Youngster (Route 11 (E of Vermilion))": {
+        "Youngster 2 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -5055,7 +5080,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+			  ],
+			  "index": 122
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -5633,7 +5659,7 @@ var SETDEX_RBY = {
         }
     },
     "Gyarados": {
-        "Gentleman (2nd room from left (Nugget))": {
+        "Gentleman 3 - S.S. Anne": {
             "level": 33,
             "dvs": {
                 "hp": 8,
@@ -5647,9 +5673,10 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 169
         },
-        "Gentleman (Vermilion Gym)": {
+        "Gentleman 1 - Vermilion Gym": {
             "level": 33,
             "dvs": {
                 "hp": 8,
@@ -5663,7 +5690,8 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 191
         },
         "Lass (Route 8 (W of Lavender))": {
             "level": 43,
@@ -6204,7 +6232,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 36
         },
-        "Sailor (6th room from left)": {
+        "Sailor 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -6217,7 +6245,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Bubble Beam",
                 "SmokeScreen"
-            ]
+			  ],
+			  "index": 157
         }
     },
     "Hypno": {
@@ -6574,7 +6603,7 @@ var SETDEX_RBY = {
 		 }
     },
     "Jolteon": {
-        "Blue 4 (4th room from left)": {
+        "Blue 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -6588,9 +6617,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			 ],
+			 "index": 175
         },
-        "Blue 4 1 (4th room from left)": {
+        "Blue 2 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -6604,9 +6634,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 178
         },
-        "Blue 4 2 (4th room from left)": {
+        "Blue 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -6620,9 +6651,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 184
         },
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -6636,7 +6668,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 195
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -7093,7 +7126,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 13
         },
-        "Lass (2nd room from left (Body Slam TM))": {
+        "Lass 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -7106,7 +7139,8 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Blizzard",
                 "Slash"
-            ]
+			  ],
+			  "index": 144
         }
     },
     "Kabutops": {
@@ -7176,7 +7210,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 55
         },
-        "Blue 3 - Cerulean City": {
+        "Blue - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -7433,7 +7467,7 @@ var SETDEX_RBY = {
         }
     },
     "Kangaskhan": {
-        "Gentleman (4th room from left (Rare Candy))": {
+        "Gentleman 4 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -7445,7 +7479,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Body Slam",
                 "Earthquake"
-            ]
+			 ],
+			 "index": 171
         },
         "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
             "level": 42,
@@ -7615,7 +7650,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 100
         },
-        "Gambler 1 (Route 11 (E of Vermilion))": {
+        "Gambler 4 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -7628,7 +7663,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+			  ],
+			  "index": 141
         },
         "Gambler (Route 8 (W of Lavender))": {
             "level": 44,
@@ -8034,7 +8070,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 90
         },
-        "Youngster (S.S. Anne)": {
+        "Youngster 1 - S.S. Anne": {
             "level": 28,
             "dvs": {
                 "hp": 8,
@@ -8047,7 +8083,8 @@ var SETDEX_RBY = {
                 "Lick",
                 "Wrap",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 142
         },
         "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
             "level": 42,
@@ -8115,7 +8152,7 @@ var SETDEX_RBY = {
         }
     },
     "Machamp": {
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 4 - S.S. Anne": {
             "level": 28,
             "dvs": {
                 "hp": 8,
@@ -8129,7 +8166,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Rock Slide",
                 "Earthquake"
-            ]
+			 ],
+			 "index": 160
         },
         "Rocket 4 (Rocket Hideout)": {
             "level": 50,
@@ -8341,7 +8379,7 @@ var SETDEX_RBY = {
         }
     },
     "Machoke": {
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 7 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -8354,7 +8392,8 @@ var SETDEX_RBY = {
                 "Karate Chop",
                 "Low Kick",
                 "Submission"
-            ]
+			 ],
+			 "index": 164
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -8389,7 +8428,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 51
         },
-        "Sailor (6th room from left)": {
+        "Sailor 2 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -8401,7 +8440,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Karate Chop",
                 "Low Kick"
-            ]
+			  ],
+			  "index": 154
         }
     },
     "Magikarp": {
@@ -8568,7 +8608,7 @@ var SETDEX_RBY = {
         }
     },
     "Magnemite": {
-        "Engineer (Route 11 (E of Vermilion))": {
+        "Engineer 1 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -8582,11 +8622,12 @@ var SETDEX_RBY = {
                 "SonicBoom",
                 "Thunder Wave",
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 134
         }
     },
     "Magneton": {
-        "Engineer 1 (Route 11 (E of Vermilion))": {
+        "Engineer 2 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -8600,9 +8641,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+			 ],
+			 "index": 139
         },
-        "Rocker (Vermilion Gym)": {
+        "Rocker 1 - Vermilion Gym": {
             "level": 34,
             "dvs": {
                 "hp": 8,
@@ -8616,9 +8658,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 188
         },
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -8632,7 +8675,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 193
         },
         "Rocket (Rocket Hideout)": {
             "level": 46,
@@ -8750,7 +8794,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 92
         },
-        "Sailor (6th room from left)": {
+        "Sailor 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -8764,7 +8808,8 @@ var SETDEX_RBY = {
                 "Thrash",
                 "Submission",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 159
         }
     },
     "Marowak": {
@@ -8945,7 +8990,7 @@ var SETDEX_RBY = {
         }
     },
     "Mew": {
-        "Blue 1 - Professor Oak's Laboratory": {
+        "Blue - Professor Oak's Laboratory": {
             "level": 3,
             "dvs": {
                 "hp": 8,
@@ -8960,7 +9005,7 @@ var SETDEX_RBY = {
             ],
             "index": 1
         },
-        "Blue 2 - Route 22": {
+        "Blue - Route 22": {
             "level": 8,
             "dvs": {
                 "hp": 8,
@@ -8976,7 +9021,7 @@ var SETDEX_RBY = {
             ],
             "index": 3
         },
-        "Blue 3 - Cerulean City": {
+        "Blue - Cerulean City": {
             "level": 20,
             "dvs": {
                 "hp": 8,
@@ -8993,7 +9038,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 65
         },
-        "Blue 4 (4th room from left)": {
+        "Blue 1 - S.S. Anne": {
             "level": 31,
             "dvs": {
                 "hp": 8,
@@ -9007,9 +9052,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 177
         },
-        "Blue 4 1 (4th room from left)": {
+        "Blue 2 - S.S. Anne": {
             "level": 31,
             "dvs": {
                 "hp": 8,
@@ -9023,9 +9069,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 181
         },
-        "Blue 4 2 (4th room from left)": {
+        "Blue 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -9039,7 +9086,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 185
         },
         "Blue 5 (Pok\u00e9mon Tower)": {
             "level": 53,
@@ -9254,7 +9302,7 @@ var SETDEX_RBY = {
         }
     },
     "Mr. Mime": {
-        "Rocket (Cerulean City)": {
+        "Rocket - Cerulean City": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -9267,7 +9315,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Thunder Wave",
                 "Hypnosis"
-            ]
+			 ],
+			 "index": 106
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -9593,7 +9642,7 @@ var SETDEX_RBY = {
         }
     },
     "Nidoking": {
-        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+        "Jr. Trainer M 2 - Route 6": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -9607,9 +9656,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+			 ],
+			 "index": 119
         },
-        "Gentleman (6th room from left)": {
+        "Gentleman 2 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -9623,7 +9673,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 148
         },
         "Pok\u00e9Maniac (Rock Tunnel)": {
             "level": 39,
@@ -9771,7 +9822,7 @@ var SETDEX_RBY = {
         }
     },
     "Nidoqueen": {
-        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+        "Jr. Trainer F 2 - Route 6": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -9785,9 +9836,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+			 ],
+			 "index": 117
         },
-        "Youngster (Route 11 (E of Vermilion))": {
+        "Youngster 3 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -9801,7 +9853,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 124
         },
         "Pok\u00e9Maniac (Rock Tunnel)": {
             "level": 39,
@@ -10088,7 +10141,7 @@ var SETDEX_RBY = {
         }
     },
     "Ninetales": {
-        "Youngster 1 (Route 11 (E of Vermilion))": {
+        "Youngster 4 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -10099,9 +10152,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+			 ],
+			 "index": 131
         },
-        "Gentleman (2nd room from left (Body Slam TM))": {
+        "Gentleman 1 - S.S. Anne": {
             "level": 28,
             "dvs": {
                 "hp": 8,
@@ -10112,7 +10166,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+			  ],
+			  "index": 146
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -10542,7 +10597,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 61
         },
-        "Bug Catcher (Route 6 (N of Vermilion))": {
+        "Bug Catcher 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -10556,7 +10611,8 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Body Slam",
                 "Spore"
-            ]
+			  ],
+			  "index": 110
         },
         "Lass (Celadon Gym)": {
             "level": 46,
@@ -10937,7 +10993,7 @@ var SETDEX_RBY = {
         }
     },
     "Pikachu": {
-        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+        "Jr. Trainer F 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -10951,9 +11007,10 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "ThunderPunch",
                 "Thunderbolt"
-            ]
+			 ],
+			 "index": 112
         },
-        "Lass (4th room from left)": {
+        "Lass 2 - S.S. Anne": {
             "level": 31,
             "dvs": {
                 "hp": 8,
@@ -10967,9 +11024,10 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "ThunderPunch",
                 "Thunderbolt"
-            ]
+			  ],
+			  "index": 173
         },
-        "Sailor (Vermilion Gym)": {
+        "Sailor 1 - Vermilion Gym": {
             "level": 36,
             "dvs": {
                 "hp": 8,
@@ -10983,7 +11041,8 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "ThunderPunch",
                 "Thunderbolt"
-            ]
+			  ],
+			  "index": 190
         }
     },
     "Pinsir": {
@@ -11003,7 +11062,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 67
         },
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 3 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -11016,7 +11075,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Guillotine",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 132
         },
         "Bug Catcher (Route 9 (E of Cerulean))": {
             "level": 39,
@@ -11134,7 +11194,7 @@ var SETDEX_RBY = {
         }
     },
     "Poliwhirl": {
-        "Sailor (6th room from left)": {
+        "Sailor 2 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -11148,7 +11208,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 155
         },
         "Jr. Trainer F (Route 9 (E of Cerulean))": {
             "level": 35,
@@ -11185,7 +11246,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 103
         },
-        "Sailor (Vermilion Gym)": {
+        "Sailor 1 - Vermilion Gym": {
             "level": 36,
             "dvs": {
                 "hp": 8,
@@ -11199,7 +11260,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 189
         },
         "Beauty (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -11380,7 +11442,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 60
         },
-        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+        "Jr. Trainer F 2 - Route 6": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -11394,7 +11456,8 @@ var SETDEX_RBY = {
                 "Stomp",
                 "Flamethrower",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 116
         },
         "Jr. Trainer F (Route 9 (E of Cerulean))": {
             "level": 35,
@@ -11414,7 +11477,7 @@ var SETDEX_RBY = {
         }
     },
     "Porygon": {
-        "Engineer (Route 11 (E of Vermilion))": {
+        "Engineer 1 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -11428,9 +11491,10 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Blizzard",
                 "Recover"
-            ]
+			 ],
+			 "index": 136
         },
-        "Engineer 1 (Route 11 (E of Vermilion))": {
+        "Engineer 2 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -11444,9 +11508,10 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Blizzard",
                 "Recover"
-            ]
+			  ],
+			  "index": 138
         },
-        "Gentleman (2nd room from left (Body Slam TM))": {
+        "Gentleman 1 - S.S. Anne": {
             "level": 28,
             "dvs": {
                 "hp": 8,
@@ -11460,9 +11525,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Recover",
                 "Thunderbolt"
-            ]
+			  ],
+			  "index": 145
         },
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -11476,7 +11542,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+			  ],
+			  "index": 194
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -11576,7 +11643,7 @@ var SETDEX_RBY = {
         }
     },
     "Primeape": {
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 6 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -11590,7 +11657,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Seismic Toss",
                 "Rock Slide"
-            ]
+			 ],
+			 "index": 162
         },
         "Biker (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -11693,7 +11761,7 @@ var SETDEX_RBY = {
         }
     },
     "Raichu": {
-        "Lt. Surge (Vermilion Gym)": {
+        "Lt. Surge": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -11707,7 +11775,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Surf",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 197
         },
         "Jr. Trainer F (Route 10 North (N of Power Plant))": {
             "level": 39,
@@ -11919,7 +11988,7 @@ var SETDEX_RBY = {
         }
     },
     "Rapidash": {
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 1 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -11930,7 +11999,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Horn Drill"
-            ]
+			 ],
+			 "index": 126
         },
         "Gambler (Route 8 (W of Lavender))": {
             "level": 44,
@@ -12018,7 +12088,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 53
         },
-        "Jr. Trainer M (Route 6 (N of Vermilion))": {
+        "Jr. Trainer M 2 - Route 6": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -12032,9 +12102,10 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 118
         },
-        "Youngster (Route 11 (E of Vermilion))": {
+        "Youngster 1 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -12048,9 +12119,10 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 120
         },
-        "Youngster 1 (Route 11 (E of Vermilion))": {
+        "Youngster 4 - Route 11": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -12064,7 +12136,8 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 129
         },
         "Hiker (Rock Tunnel)": {
             "level": 41,
@@ -12377,7 +12450,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 89
         },
-        "Youngster (Route 11 (E of Vermilion))": {
+        "Youngster 2 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -12390,7 +12463,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Sand Attack",
                 "Dig"
-            ]
+			  ],
+			  "index": 121
         }
     },
     "Sandslash": {
@@ -12734,7 +12808,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 99
         },
-        "Gambler (Route 11 (E of Vermilion))": {
+        "Gambler 2 - Route 11": {
             "level": 25,
             "dvs": {
                 "hp": 8,
@@ -12746,7 +12820,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Horn Drill",
                 "Bubble Beam"
-            ]
+			  ],
+			  "index": 128
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -12830,7 +12905,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 84
         },
-        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+        "Jr. Trainer F 2 - Route 6": {
             "level": 23,
             "dvs": {
                 "hp": 8,
@@ -12844,9 +12919,10 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "Bubble Beam",
                 "Rest"
-            ]
+			  ],
+			  "index": 115
         },
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 7 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -12860,7 +12936,8 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "Bubble Beam",
                 "Rest"
-            ]
+			  ],
+			  "index": 165
         }
     },
     "Shellder": {
@@ -12881,7 +12958,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 57
         },
-        "Sailor (6th room from left)": {
+        "Sailor 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -12895,11 +12972,12 @@ var SETDEX_RBY = {
                 "Clamp",
                 "Aurora Beam",
                 "Supersonic"
-            ]
+			  ],
+			  "index": 152
         }
     },
     "Slowbro": {
-        "Fisherman (6th room from left)": {
+        "Fisherman 1 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -12913,7 +12991,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Surf"
-            ]
+			 ],
+			 "index": 149
         },
         "Pok\u00e9Maniac (Rock Tunnel)": {
             "level": 41,
@@ -13141,7 +13220,7 @@ var SETDEX_RBY = {
         }
     },
     "Slowpoke": {
-        "Sailor (4th room from left (Fire Stone))": {
+        "Sailor 6 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -13154,7 +13233,8 @@ var SETDEX_RBY = {
                 "Confusion",
                 "Bubble Beam",
                 "Headbutt"
-            ]
+			 ],
+			 "index": 163
         }
     },
     "Snorlax": {
@@ -13682,7 +13762,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 73
         },
-        "Sailor (6th room from left)": {
+        "Sailor 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -13696,11 +13776,12 @@ var SETDEX_RBY = {
                 "Water Gun",
                 "Light Screen",
                 "Bubble Beam"
-            ]
+			  ],
+			  "index": 153
         }
     },
     "Tangela": {
-        "Rocker (Vermilion Gym)": {
+        "Rocker 1 - Vermilion Gym": {
             "level": 34,
             "dvs": {
                 "hp": 8,
@@ -13713,7 +13794,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+			 ],
+			 "index": 187
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 40,
@@ -13974,7 +14056,7 @@ var SETDEX_RBY = {
         }
     },
     "Tentacool": {
-        "Sailor (6th room from left)": {
+        "Sailor 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -13988,11 +14070,12 @@ var SETDEX_RBY = {
                 "Supersonic",
                 "Toxic",
                 "Bubble Beam"
-            ]
+			 ],
+			 "index": 158
         }
     },
     "Tentacruel": {
-        "Fisherman (2nd room from left (Nugget))": {
+        "Fisherman 2 - S.S. Anne": {
             "level": 27,
             "dvs": {
                 "hp": 8,
@@ -14004,7 +14087,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Surf"
-            ]
+			 ],
+			 "index": 168
         },
         "Lass (Route 8 (W of Lavender))": {
             "level": 43,
@@ -14276,7 +14360,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 102
         },
-        "Blue 4 (4th room from left)": {
+        "Blue 1 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -14290,9 +14374,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 174
         },
-        "Blue 4 1 (4th room from left)": {
+        "Blue 2 - S.S. Anne": {
             "level": 31,
             "dvs": {
                 "hp": 8,
@@ -14306,9 +14391,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 180
         },
-        "Blue 4 2 (4th room from left)": {
+        "Blue 3 - S.S. Anne": {
             "level": 30,
             "dvs": {
                 "hp": 8,
@@ -14322,7 +14408,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Sand Attack"
-            ]
+			  ],
+			  "index": 183
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 42,
@@ -15047,7 +15134,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 56
         },
-        "Engineer (Route 11 (E of Vermilion))": {
+        "Engineer 2 - Route 11": {
             "level": 26,
             "dvs": {
                 "hp": 8,
@@ -15061,7 +15148,8 @@ var SETDEX_RBY = {
                 "Self-Destruct",
                 "Explosion",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 137
         },
         "Biker (Route 17 (Cycling Road))": {
             "level": 100,
@@ -15114,7 +15202,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 86
         },
-        "Lass (4th room from left)": {
+        "Lass 2 - S.S. Anne": {
             "level": 31,
             "dvs": {
                 "hp": 8,
@@ -15128,7 +15216,8 @@ var SETDEX_RBY = {
                 "Confuse Ray",
                 "Double-Edge",
                 "Flamethrower"
-            ]
+			  ],
+			  "index": 172
         }
     },
     "Wartortle": {
@@ -15149,7 +15238,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 98
         },
-        "Sailor (6th room from left)": {
+        "Sailor 2 - S.S. Anne": {
             "level": 29,
             "dvs": {
                 "hp": 8,
@@ -15163,7 +15252,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Dig"
-            ]
+			  ],
+			  "index": 156
         },
         "Jr. Trainer F (Rock Tunnel)": {
             "level": 40,
@@ -15214,7 +15304,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 4
         },
-        "Bug Catcher (Route 6 (N of Vermilion))": {
+        "Bug Catcher 2 - Route 6": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -15226,7 +15316,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Poison Sting",
                 "String Shot"
-            ]
+			  ],
+			  "index": 114
         }
     },
     "Weepinbell": {
@@ -15395,7 +15486,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 80
         },
-        "Jr. Trainer F (Route 6 (N of Vermilion))": {
+        "Jr. Trainer F 1 - Route 6": {
             "level": 24,
             "dvs": {
                 "hp": 8,
@@ -15409,7 +15500,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 113
         },
         "Jr. Trainer M (Route 9 (E of Cerulean))": {
             "level": 37,
