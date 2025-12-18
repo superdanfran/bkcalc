@@ -497,7 +497,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 140
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -510,7 +510,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+			  ],
+			  "index": 295
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 43,
@@ -806,7 +807,7 @@ var SETDEX_RBY = {
         }
     },
     "Blastoise": {
-        "Beauty (Celadon Gym)": {
+        "Beauty 1 - Celadon Gym": {
             "level": 45,
             "dvs": {
                 "hp": 8,
@@ -820,7 +821,8 @@ var SETDEX_RBY = {
                 "Hydro Pump",
                 "Blizzard",
                 "Earthquake"
-            ]
+			 ],
+			 "index": 300
         },
         "Blue 5 (Pok\u00e9mon Tower)": {
             "level": 53,
@@ -1051,7 +1053,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 108
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 4 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -1064,7 +1066,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			  ],
+			  "index": 254
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -1412,7 +1415,7 @@ var SETDEX_RBY = {
 			],
 			"index": 97
 		},
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 1 - Route 9": {
             "level": 36,
             "dvs": {
                 "hp": 8,
@@ -1425,7 +1428,8 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Flamethrower",
                 "Slash"
-            ]
+			  ],
+			  "index": 205
         }
     },
     "Clefable": {
@@ -1446,7 +1450,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 151
         },
-        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+        "Jr. Trainer F 2 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -1460,9 +1464,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 214
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -1476,9 +1481,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 246
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 1 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -1492,9 +1498,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 267
         },
-        "CoolTrainer F (Celadon Gym)": {
+        "CoolTrainer F 1 - Celadon Gym": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -1508,9 +1515,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 311
         },
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -1524,7 +1532,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 314
         },
         "Beauty (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -1623,7 +1632,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 34
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 1 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -1636,7 +1645,8 @@ var SETDEX_RBY = {
                 "Sing",
                 "Metronome",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 268
         }
     },
     "Cloyster": {
@@ -1656,7 +1666,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 166
         },
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 1 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -1669,9 +1679,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+			  ],
+			  "index": 273
         },
-        "Super Nerd 2 (Route 8 (W of Lavender))": {
+        "Super Nerd 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -1684,7 +1695,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+			  ],
+			  "index": 290
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -2000,7 +2012,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 161
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 2 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -2014,9 +2026,10 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Body Slam",
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 241
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 1 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -2030,9 +2043,10 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Body Slam",
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 269
         },
-        "Gambler 1 (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -2046,7 +2060,8 @@ var SETDEX_RBY = {
                 "Waterfall",
                 "Body Slam",
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 296
         },
         "Beauty (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -2145,7 +2160,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 10
         },
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 2 - Route 9": {
             "level": 37,
             "dvs": {
                 "hp": 8,
@@ -2158,7 +2173,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Slash",
                 "Dig"
-            ]
+			  ],
+			  "index": 209
         }
     },
     "Ditto": {
@@ -2438,7 +2454,7 @@ var SETDEX_RBY = {
         }
     },
     "Doduo": {
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 2 - Route 9": {
             "level": 37,
             "dvs": {
                 "hp": 8,
@@ -2452,7 +2468,8 @@ var SETDEX_RBY = {
                 "Double Kick",
                 "Drill Peck",
                 "Tri Attack"
-            ]
+			 ],
+			 "index": 208
         }
     },
     "Dragonair": {
@@ -2536,7 +2553,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 170
         },
-        "Pok\u00e9Maniac (Rock Tunnel)": {
+        "Pok\u00e9Maniac 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -2549,7 +2566,8 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 229
         },
         "Rocket (Rocket Hideout)": {
             "level": 45,
@@ -2849,7 +2867,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 62
         },
-        "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
+        "Pok\u00e9Maniac 1 - Route 10": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -2863,7 +2881,8 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "Double-Edge",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 222
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -2900,7 +2919,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 45
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 1 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -2914,7 +2933,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Toxic",
                 "Psychic"
-            ]
+			  ],
+			  "index": 230
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 44,
@@ -3000,7 +3020,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 133
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 6 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -3014,9 +3034,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 248
         },
-        "Hiker (Route 10 South (N of Lavender))": {
+        "Hiker 2 - Route 10": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3030,9 +3051,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 264
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 1 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3046,9 +3068,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 270
         },
-        "Gambler 1 (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -3062,7 +3085,8 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 297
         },
         "Rocket (Rocket Hideout)": {
             "level": 45,
@@ -3273,7 +3297,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 143
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 5 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -3286,9 +3310,10 @@ var SETDEX_RBY = {
                 "Quick Attack",
                 "Sand Attack",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 255
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3301,7 +3326,8 @@ var SETDEX_RBY = {
                 "Quick Attack",
                 "Sand Attack",
                 "Double-Edge"
-            ]
+			  ],
+			  "index": 274
         }
     },
     "Ekans": {
@@ -3339,7 +3365,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 196
         },
-        "Jr. Trainer F (Route 10 South (N of Lavender))": {
+        "Jr. Trainer F 2 - Route 10": {
             "level": 40,
             "dvs": {
                 "hp": 8,
@@ -3353,7 +3379,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 259
         },
         "Rocket (Rocket Hideout)": {
             "level": 46,
@@ -3533,7 +3560,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 192
         },
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 1 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -3546,9 +3573,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 272
         },
-        "Super Nerd 1 (Route 8 (W of Lavender))": {
+        "Super Nerd 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3561,9 +3589,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 282
         },
-        "Super Nerd 2 (Route 8 (W of Lavender))": {
+        "Super Nerd 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3576,7 +3605,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 288
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -3807,7 +3837,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 58
         },
-        "Hiker (Route 10 South (N of Lavender))": {
+        "Hiker 2 - Route 10": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3821,9 +3851,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+			  ],
+			  "index": 263
         },
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -3837,9 +3868,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+			  ],
+			  "index": 279
         },
-        "Beauty (Celadon Gym)": {
+        "Beauty 2 - Celadon Gym": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -3853,7 +3885,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+			  ],
+			  "index": 308
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -3873,7 +3906,7 @@ var SETDEX_RBY = {
         }
     },
     "Exeggutor": {
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -3886,7 +3919,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+			 ],
+			 "index": 318
         },
         "Rocket (Silph Co.)": {
             "level": 66,
@@ -4268,7 +4302,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 123
         },
-        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+        "Jr. Trainer F 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -4281,7 +4315,8 @@ var SETDEX_RBY = {
                 "Substitute",
                 "Sand Attack",
                 "Slash"
-            ]
+			  ],
+			  "index": 200
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -4333,7 +4368,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 130
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 2 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -4346,7 +4381,8 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+			  ],
+			  "index": 242
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -4477,7 +4513,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 182
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 5 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -4490,7 +4526,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+			  ],
+			  "index": 256
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -4649,7 +4686,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 54
         },
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 2 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -4662,7 +4699,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+			  ],
+			  "index": 213
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 44,
@@ -5002,7 +5040,7 @@ var SETDEX_RBY = {
 		 },
     },
     "Gloom": {
-        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+        "Jr. Trainer F 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -5015,9 +5053,10 @@ var SETDEX_RBY = {
                 "Petal Dance",
                 "Sleep Powder",
                 "Stun Spore"
-            ]
+			 ],
+			 "index": 198
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 3 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -5030,9 +5069,10 @@ var SETDEX_RBY = {
                 "Petal Dance",
                 "Sleep Powder",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 245
         },
-        "Beauty (Celadon Gym)": {
+        "Beauty 1 - Celadon Gym": {
             "level": 45,
             "dvs": {
                 "hp": 8,
@@ -5045,7 +5085,8 @@ var SETDEX_RBY = {
                 "Petal Dance",
                 "Sleep Powder",
                 "Stun Spore"
-            ]
+			  ],
+			  "index": 301
         }
     },
     "Golbat": {
@@ -5083,7 +5124,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 122
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -5097,7 +5138,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+			  ],
+			  "index": 236
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 43,
@@ -5184,7 +5226,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 75
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 4 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -5198,7 +5240,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Body Slam",
                 "Hypnosis"
-            ]
+			  ],
+			  "index": 238
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -5347,7 +5390,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 12
         },
-        "Super Nerd 2 (Route 8 (W of Lavender))": {
+        "Super Nerd 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -5361,7 +5404,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+			  ],
+			  "index": 289
         },
         "Blue 5 (Pok\u00e9mon Tower)": {
             "level": 53,
@@ -5589,7 +5633,7 @@ var SETDEX_RBY = {
         }
     },
     "Graveler": {
-        "Hiker (Rock Tunnel)": {
+        "Hiker 4 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -5603,9 +5647,10 @@ var SETDEX_RBY = {
                 "Self-Destruct",
                 "Rock Slide",
                 "Explosion"
-            ]
+			 ],
+			 "index": 237
         },
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -5619,11 +5664,12 @@ var SETDEX_RBY = {
                 "Self-Destruct",
                 "Rock Slide",
                 "Explosion"
-            ]
+			  ],
+			  "index": 280
         }
     },
     "Grimer": {
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 1 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -5636,7 +5682,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Sludge",
                 "Explosion"
-            ]
+			 ],
+			 "index": 271
         }
     },
     "Growlithe": {
@@ -5693,7 +5740,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 191
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 4 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -5707,9 +5754,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 286
         },
-        "Lass (Celadon Gym)": {
+        "Lass 1 - Celadon Gym": {
             "level": 46,
             "dvs": {
                 "hp": 8,
@@ -5723,7 +5771,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 298
         },
         "Rocket (Rocket Hideout)": {
             "level": 48,
@@ -5967,7 +6016,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 77
         },
-        "Hiker 1 (Rock Tunnel)": {
+        "Hiker 5 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -5980,24 +6029,26 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
-        },
-        "Hiker (Rock Tunnel)": {
-            "level": 41,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hypnosis",
-                "Confuse Ray",
-                "Night Shade"
-            ]
-        },
-        "Hiker (Route 10 South (N of Lavender))": {
+			  ],
+			  "index": 244
+		 },
+		 "Hiker 6 - Rock Tunnel": {
+			 "level": 41,
+			 "dvs": {
+				 "hp": 8,
+				 "at": 9,
+				 "df": 8,
+				 "sl": 8,
+				 "sp": 8
+			 },
+			 "moves": [
+				 "Hypnosis",
+				 "Confuse Ray",
+				 "Night Shade"
+			 ],
+			 "index": 249
+		 },
+        "Hiker 1 - Route 10": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -6010,7 +6061,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+			  ],
+			  "index": 262
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -6169,7 +6221,7 @@ var SETDEX_RBY = {
         }
     },
     "Hitmonlee": {
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -6182,9 +6234,10 @@ var SETDEX_RBY = {
                 "High Jump Kick",
                 "Body Slam",
                 "Seismic Toss"
-            ]
+			 ],
+			 "index": 202
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 2 - Rock Tunnel": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -6197,7 +6250,8 @@ var SETDEX_RBY = {
                 "High Jump Kick",
                 "Body Slam",
                 "Seismic Toss"
-            ]
+			  ],
+			  "index": 231
         },
         "Blackbelt (Fighting Dojo)": {
             "level": 65,
@@ -6553,7 +6607,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 96
         },
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 2 - Route 9": {
             "level": 37,
             "dvs": {
                 "hp": 8,
@@ -6566,9 +6620,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Body Slam",
                 "Razor Leaf"
-            ]
+			  ],
+			  "index": 210
         },
-        "Jr. Trainer F (Celadon Gym)": {
+        "Jr. Trainer F 1 - Celadon Gym": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -6581,7 +6636,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Body Slam",
                 "Razor Leaf"
-            ]
+			  ],
+			  "index": 304
         }
     },
     "Jigglypuff": {
@@ -6671,7 +6727,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 195
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 5 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -6685,7 +6741,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 257
         },
         "Rocker (Route 12 (Silence Bridge))": {
             "level": 50,
@@ -7144,7 +7201,7 @@ var SETDEX_RBY = {
         }
     },
     "Kabutops": {
-        "Jr. Trainer F (Celadon Gym)": {
+        "Jr. Trainer F 1 - Celadon Gym": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -7158,7 +7215,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Slash",
                 "Dig"
-            ]
+			 ],
+			 "index": 305
         },
         "Scientist (Silph Co.)": {
             "level": 64,
@@ -7226,7 +7284,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 63
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 6 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -7240,7 +7298,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Recover",
                 "Psychic"
-            ]
+			  ],
+			  "index": 250
         },
         "Rocket (Rocket Hideout)": {
             "level": 46,
@@ -7451,7 +7510,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 6
         },
-        "Bug Catcher (Route 9 (E of Cerulean))": {
+        "Bug Catcher 1 - Route 9": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -7463,7 +7522,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Harden",
                 "Poison Sting"
-            ]
+			  ],
+			  "index": 206
         }
     },
     "Kangaskhan": {
@@ -7482,7 +7542,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 171
         },
-        "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
+        "Pok\u00e9Maniac 2 - Route 10": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -7495,7 +7555,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 266
         },
         "Rocket (Rocket Hideout)": {
             "level": 49,
@@ -7666,7 +7727,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 141
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -7679,7 +7740,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+			  ],
+			  "index": 292
         },
         "Biker (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -7795,7 +7857,7 @@ var SETDEX_RBY = {
         }
     },
     "Lapras": {
-        "CoolTrainer F (Celadon Gym)": {
+        "CoolTrainer F 1 - Celadon Gym": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -7809,7 +7871,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+			 ],
+			 "index": 312
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 47,
@@ -8086,7 +8149,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 142
         },
-        "Pok\u00e9Maniac (Route 10 South (N of Lavender))": {
+        "Pok\u00e9Maniac 2 - Route 10": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -8100,7 +8163,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 265
         },
         "Rocket (Celadon Game Corner)": {
             "level": 45,
@@ -8395,7 +8459,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 164
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -8409,7 +8473,8 @@ var SETDEX_RBY = {
                 "Low Kick",
                 "Submission",
                 "Seismic Toss"
-            ]
+			  ],
+			  "index": 234
         }
     },
     "Machop": {
@@ -8462,7 +8527,7 @@ var SETDEX_RBY = {
         }
     },
     "Magmar": {
-        "Jr. Trainer F (Route 10 South (N of Lavender))": {
+        "Jr. Trainer F 2 - Route 10": {
             "level": 40,
             "dvs": {
                 "hp": 8,
@@ -8476,7 +8541,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+			 ],
+			 "index": 260
         },
         "Rocket (Rocket Hideout)": {
             "level": 46,
@@ -8813,7 +8879,7 @@ var SETDEX_RBY = {
         }
     },
     "Marowak": {
-        "Pok\u00e9Maniac (Rock Tunnel)": {
+        "Pok\u00e9Maniac 4 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -8827,7 +8893,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 251
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 49,
@@ -8927,7 +8994,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 94
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 4 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -8940,7 +9007,8 @@ var SETDEX_RBY = {
                 "Bite",
                 "Pay Day",
                 "Slash"
-            ]
+			  ],
+			  "index": 287
         },
         "Biker (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -8974,7 +9042,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 25
         },
-        "Bug Catcher (Route 9 (E of Cerulean))": {
+        "Bug Catcher 1 - Route 9": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -8986,7 +9054,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Harden",
                 "Tackle"
-            ]
+			  ],
+			  "index": 207
         }
     },
     "Mew": {
@@ -9318,7 +9387,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 106
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 4 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -9332,7 +9401,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+			  ],
+			  "index": 239
         },
         "Rocket (Rocket Hideout)": {
             "level": 45,
@@ -9512,7 +9582,7 @@ var SETDEX_RBY = {
         }
     },
     "Muk": {
-        "Super Nerd (Route 8 (W of Lavender))": {
+        "Super Nerd 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -9526,7 +9596,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 281
         },
         "Rocket (Rocket Hideout)": {
             "level": 47,
@@ -9676,7 +9747,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 148
         },
-        "Pok\u00e9Maniac (Rock Tunnel)": {
+        "Pok\u00e9Maniac 2 - Rock Tunnel": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -9690,7 +9761,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 226
         },
         "Giovanni 1 (Rocket Hideout)": {
             "level": 55,
@@ -9856,7 +9928,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 124
         },
-        "Pok\u00e9Maniac (Rock Tunnel)": {
+        "Pok\u00e9Maniac 1 - Rock Tunnel": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -9870,9 +9942,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 225
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -9886,7 +9959,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+			  ],
+			  "index": 284
         },
         "Giovanni 1 (Rocket Hideout)": {
             "level": 55,
@@ -10104,7 +10178,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 74
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -10118,7 +10192,8 @@ var SETDEX_RBY = {
                 "Bite",
                 "Toxic",
                 "Dig"
-            ]
+			  ],
+			  "index": 283
         }
     },
     "Nidorino": {
@@ -10169,7 +10244,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 146
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 4 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -10180,9 +10255,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+			  ],
+			  "index": 253
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -10193,7 +10269,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+			  ],
+			  "index": 278
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -10283,7 +10360,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 14
         },
-        "Pok\u00e9Maniac (Route 10 North (N of Power Plant))": {
+        "Pok\u00e9Maniac 1 - Route 10": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -10297,9 +10374,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Horn Attack",
                 "Leer"
-            ]
+			  ],
+			  "index": 221
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -10313,11 +10391,12 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Horn Attack",
                 "Leer"
-            ]
+			  ],
+			  "index": 276
         }
     },
     "Omastar": {
-        "Beauty (Celadon Gym)": {
+        "Beauty 2 - Celadon Gym": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -10331,7 +10410,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 309
         },
         "Scientist (Silph Co.)": {
             "level": 64,
@@ -10431,7 +10511,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 91
         },
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 2 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -10444,9 +10524,10 @@ var SETDEX_RBY = {
                 "Bind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+			  ],
+			  "index": 212
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -10459,7 +10540,8 @@ var SETDEX_RBY = {
                 "Bind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+			  ],
+			  "index": 233
         },
         "Biker (Route 17 (Cycling Road))": {
             "level": 58,
@@ -10614,7 +10696,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 110
         },
-        "Lass (Celadon Gym)": {
+        "Lass 1 - Celadon Gym": {
             "level": 46,
             "dvs": {
                 "hp": 8,
@@ -10628,7 +10710,8 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Body Slam",
                 "Spore"
-            ]
+			  ],
+			  "index": 299
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -11078,7 +11161,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 132
         },
-        "Bug Catcher (Route 9 (E of Cerulean))": {
+        "Bug Catcher 2 - Route 9": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -11092,9 +11175,10 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+			  ],
+			  "index": 220
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -11108,7 +11192,8 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+			  ],
+			  "index": 294
         },
         "Biker (Route 14 (NE of Fuchsia))": {
             "level": 55,
@@ -11211,7 +11296,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 155
         },
-        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+        "Jr. Trainer F 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -11225,7 +11310,8 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Body Slam",
                 "Hydro Pump"
-            ]
+			  ],
+			  "index": 199
         }
     },
     "Poliwrath": {
@@ -11459,7 +11545,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 116
         },
-        "Jr. Trainer F (Route 9 (E of Cerulean))": {
+        "Jr. Trainer F 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -11473,7 +11559,8 @@ var SETDEX_RBY = {
                 "Flamethrower",
                 "Double-Edge",
                 "Hypnosis"
-            ]
+			  ],
+			  "index": 201
         }
     },
     "Porygon": {
@@ -11778,7 +11865,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 197
         },
-        "Jr. Trainer F (Route 10 North (N of Power Plant))": {
+        "Jr. Trainer F 1 - Route 10": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -11792,9 +11879,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+			  ],
+			  "index": 224
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 2 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -11808,9 +11896,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+			  ],
+			  "index": 240
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -11824,7 +11913,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+			  ],
+			  "index": 277
         },
         "Rocket (Rocket Hideout)": {
             "level": 49,
@@ -12002,7 +12092,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 126
         },
-        "Gambler (Route 8 (W of Lavender))": {
+        "Gambler 2 - Route 8": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -12013,7 +12103,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Horn Drill"
-            ]
+			  ],
+			  "index": 293
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -12139,7 +12230,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 129
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -12153,7 +12244,8 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+			  ],
+			  "index": 235
         },
         "Rocket (Rocket Hideout)": {
             "level": 49,
@@ -12373,7 +12465,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 81
         },
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 3 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -12385,9 +12477,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Double-Edge",
                 "Rock Slide"
-            ]
+			  ],
+			  "index": 215
         },
-        "Hiker (Route 10 South (N of Lavender))": {
+        "Hiker 1 - Route 10": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -12400,7 +12493,8 @@ var SETDEX_RBY = {
                 "Double-Edge",
                 "Rock Slide",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 261
         },
         "Bird Keeper (Route 18 (W of Fuchsia))": {
             "level": 57,
@@ -12468,7 +12562,7 @@ var SETDEX_RBY = {
         }
     },
     "Sandslash": {
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 1 - Route 9": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -12482,9 +12576,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Sand Attack",
                 "Rock Slide"
-            ]
+			 ],
+			 "index": 203
         },
-        "Hiker (Rock Tunnel)": {
+        "Hiker 2 - Rock Tunnel": {
             "level": 35,
             "dvs": {
                 "hp": 8,
@@ -12498,9 +12593,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Sand Attack",
                 "Rock Slide"
-            ]
+			  ],
+			  "index": 232
         },
-        "Hiker 1 (Rock Tunnel)": {
+        "Hiker 5 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -12514,9 +12610,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Rock Slide",
                 "Earthquake"
-            ]
+			  ],
+			  "index": 243
         },
-        "Beauty (Celadon Gym)": {
+        "Beauty 1 - Celadon Gym": {
             "level": 45,
             "dvs": {
                 "hp": 8,
@@ -12530,7 +12627,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 302
         },
         "Beauty (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -12647,7 +12745,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 66
         },
-        "Bug Catcher (Route 9 (E of Cerulean))": {
+        "Bug Catcher 2 - Route 9": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -12661,7 +12759,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Quick Attack",
                 "Wing Attack"
-            ]
+			  ],
+			  "index": 219
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -12696,7 +12795,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 101
         },
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 3 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -12709,7 +12808,8 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Toxic",
                 "Hydro Pump"
-            ]
+			  ],
+			  "index": 216
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -12994,7 +13094,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 149
         },
-        "Pok\u00e9Maniac (Rock Tunnel)": {
+        "Pok\u00e9Maniac 4 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -13008,7 +13108,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+			  ],
+			  "index": 252
         },
         "Rocket (Celadon Game Corner)": {
             "level": 45,
@@ -13797,7 +13898,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 187
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 1 - Rock Tunnel": {
             "level": 40,
             "dvs": {
                 "hp": 8,
@@ -13810,9 +13911,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+			  ],
+			  "index": 228
         },
-        "Lass (Celadon Gym)": {
+        "Lass 2 - Celadon Gym": {
             "level": 46,
             "dvs": {
                 "hp": 8,
@@ -13825,9 +13927,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+			  ],
+			  "index": 307
         },
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -13840,7 +13943,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Wrap"
-            ]
+			  ],
+			  "index": 316
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 63,
@@ -14090,7 +14194,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 168
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 4 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -14102,9 +14206,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Surf"
-            ]
+			  ],
+			  "index": 285
         },
-        "Lass (Celadon Gym)": {
+        "Lass 2 - Celadon Gym": {
             "level": 46,
             "dvs": {
                 "hp": 8,
@@ -14116,7 +14221,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Surf"
-            ]
+			  ],
+			  "index": 306
         },
         "Rocket (Rocket Hideout)": {
             "level": 49,
@@ -14411,7 +14517,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 183
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 5 - Rock Tunnel": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -14425,7 +14531,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Waterfall"
-            ]
+			  ],
+			  "index": 258
         },
         "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -14589,7 +14696,7 @@ var SETDEX_RBY = {
         }
     },
     "Venomoth": {
-        "Bug Catcher (Route 9 (E of Cerulean))": {
+        "Bug Catcher 2 - Route 9": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -14602,7 +14709,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+			 ],
+			 "index": 218
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 47,
@@ -14748,7 +14856,7 @@ var SETDEX_RBY = {
         }
     },
     "Venusaur": {
-        "Beauty (Celadon Gym)": {
+        "Beauty 3 - Celadon Gym": {
             "level": 48,
             "dvs": {
                 "hp": 8,
@@ -14762,9 +14870,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+			 ],
+			 "index": 310
         },
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -14778,7 +14887,8 @@ var SETDEX_RBY = {
                 "Razor Leaf",
                 "Double Team",
                 "Body Slam"
-            ]
+			  ],
+			  "index": 315
         },
         "Channeler (Pok\u00e9mon Tower)": {
             "level": 47,
@@ -14958,7 +15068,7 @@ var SETDEX_RBY = {
         }
     },
     "Victreebel": {
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -14972,7 +15082,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Razor Leaf",
                 "Body Slam"
-            ]
+			 ],
+			 "index": 317
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -15040,7 +15151,7 @@ var SETDEX_RBY = {
         }
     },
     "Vileplume": {
-        "Erika (Celadon Gym)": {
+        "Erika": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -15053,7 +15164,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Petal Dance"
-            ]
+			 ],
+			 "index": 313
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -15255,7 +15367,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 156
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 1 - Rock Tunnel": {
             "level": 40,
             "dvs": {
                 "hp": 8,
@@ -15269,7 +15381,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Dig"
-            ]
+			  ],
+			  "index": 227
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -15321,7 +15434,7 @@ var SETDEX_RBY = {
         }
     },
     "Weepinbell": {
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 1 - Route 9": {
             "level": 36,
             "dvs": {
                 "hp": 8,
@@ -15335,9 +15448,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Body Slam",
                 "Mega Drain"
-            ]
+			 ],
+			 "index": 204
         },
-        "Jr. Trainer F (Rock Tunnel)": {
+        "Jr. Trainer F 3 - Rock Tunnel": {
             "level": 41,
             "dvs": {
                 "hp": 8,
@@ -15351,9 +15465,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Mega Drain",
                 "Razor Leaf"
-            ]
+			  ],
+			  "index": 247
         },
-        "Beauty (Celadon Gym)": {
+        "Beauty 1 - Celadon Gym": {
             "level": 45,
             "dvs": {
                 "hp": 8,
@@ -15367,11 +15482,12 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Mega Drain",
                 "Razor Leaf"
-            ]
+			  ],
+			  "index": 303
         }
     },
     "Weezing": {
-        "Super Nerd 2 (Route 8 (W of Lavender))": {
+        "Super Nerd 3 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -15385,7 +15501,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Sludge",
                 "Fire Blast"
-            ]
+			 ],
+			 "index": 291
         },
         "Rocket (Rocket Hideout)": {
             "level": 45,
@@ -15503,7 +15620,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 113
         },
-        "Jr. Trainer M (Route 9 (E of Cerulean))": {
+        "Jr. Trainer M 2 - Route 9": {
             "level": 37,
             "dvs": {
                 "hp": 8,
@@ -15517,9 +15634,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 211
         },
-        "Hiker (Route 9 (E of Cerulean))": {
+        "Hiker 3 - Route 9": {
             "level": 38,
             "dvs": {
                 "hp": 8,
@@ -15533,9 +15651,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 217
         },
-        "Jr. Trainer F (Route 10 North (N of Power Plant))": {
+        "Jr. Trainer F 1 - Route 10": {
             "level": 39,
             "dvs": {
                 "hp": 8,
@@ -15549,9 +15668,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 223
         },
-        "Lass (Route 8 (W of Lavender))": {
+        "Lass 2 - Route 8": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -15565,7 +15685,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+			  ],
+			  "index": 275
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
