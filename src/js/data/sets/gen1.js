@@ -514,7 +514,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 295
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 2 - Pok\u00e9mon Tower": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -527,7 +527,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+            ],
+			 "index": 359
         },
         "Biker (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -825,7 +826,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 300
         },
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -839,9 +840,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 376
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -855,9 +857,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 384
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -871,7 +874,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 389
         },
         "Jr. Trainer F (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -1203,7 +1207,7 @@ var SETDEX_RBY = {
         }
     },
     "Charizard": {
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -1217,9 +1221,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 378
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -1233,9 +1238,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 383
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -1249,7 +1255,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 390
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -1715,7 +1722,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 333
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 3 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -1728,7 +1735,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 397
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -2941,7 +2949,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 230
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 3 - Pok\u00e9mon Tower": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -2955,7 +2963,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Toxic",
                 "Psychic"
-            ]
+            ],
+			 "index": 361
         },
         "Biker (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -4713,7 +4722,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 213
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 3 - Pok\u00e9mon Tower": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -4726,9 +4735,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+            ],
+			 "index": 360
         },
-        "Channeler 1 (Pok\u00e9mon Tower)": {
+        "Channeler 5 - Pok\u00e9mon Tower": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -4741,7 +4751,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+            ],
+			 "index": 364
         }
     },
     "Gengar": {
@@ -4762,7 +4773,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 351
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 13 - Pok\u00e9mon Tower": {
             "level": 48,
             "dvs": {
                 "hp": 8,
@@ -4776,9 +4787,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 373
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 2 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -4792,7 +4804,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 395
         },
         "Jr. Trainer F (Route 15 (E of Fuchsia))": {
             "level": 56,
@@ -5153,7 +5166,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 236
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 1 - Pok\u00e9mon Tower": {
             "level": 43,
             "dvs": {
                 "hp": 8,
@@ -5167,7 +5180,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 358
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 54,
@@ -5419,7 +5433,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 289
         },
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -5433,9 +5447,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
+            ],
+			 "index": 375
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -5449,9 +5464,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
+            ],
+			 "index": 380
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -5465,7 +5481,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
+            ],
+			 "index": 387
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -5803,7 +5820,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 340
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 1 - Pok\u00e9mon Tower": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -5817,7 +5834,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Blizzard"
-            ]
+            ],
+			 "index": 393
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -6109,7 +6127,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 346
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 3 - Pok\u00e9mon Tower": {
             "level": 44,
             "dvs": {
                 "hp": 8,
@@ -6122,9 +6140,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+            ],
+			 "index": 362
         },
-        "Channeler 2 (Pok\u00e9mon Tower)": {
+        "Channeler 8 - Pok\u00e9mon Tower": {
             "level": 49,
             "dvs": {
                 "hp": 8,
@@ -6137,9 +6156,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+            ],
+			 "index": 368
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 1 - Pok\u00e9mon Tower": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -6152,7 +6172,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Confuse Ray",
                 "Night Shade"
-            ]
+            ],
+			 "index": 391
         },
         "Biker (Route 16 (W of Celadon))": {
             "level": 59,
@@ -6351,7 +6372,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 350
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 3 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -6364,7 +6385,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 399
         },
         "Juggler (Fuchsia Gym)": {
             "level": 61,
@@ -7003,7 +7025,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 331
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 12 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -7016,7 +7038,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 372
         },
         "Jr. Trainer F (Route 15 (E of Fuchsia))": {
             "level": 54,
@@ -7353,7 +7376,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 349
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 7 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -7367,9 +7390,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 366
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 1 - Pok\u00e9mon Tower": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -7383,7 +7407,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 392
         },
         "Cue Ball (Route 17 (Cycling Road))": {
             "level": 57,
@@ -7895,7 +7920,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 312
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 10 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -7909,7 +7934,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 370
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -8584,7 +8610,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 330
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 9 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -8598,7 +8624,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 369
         },
         "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -8921,7 +8948,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 251
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 11 - Pok\u00e9mon Tower": {
             "level": 49,
             "dvs": {
                 "hp": 8,
@@ -8935,9 +8962,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 371
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 2 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -8951,7 +8979,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 394
         },
         "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -9183,7 +9212,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 185
         },
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -9197,9 +9226,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 379
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -9213,9 +9243,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 385
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -9229,7 +9260,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 391
         },
         "Blue 6 (Silph Co.)": {
             "level": 70,
@@ -9463,7 +9495,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 339
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 3 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -9477,7 +9509,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 396
         },
         "Biker (Route 16 (W of Celadon))": {
             "level": 59,
@@ -9643,7 +9676,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 338
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 4 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -9657,7 +9690,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 363
         },
         "Biker (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -10876,7 +10910,7 @@ var SETDEX_RBY = {
         }
     },
     "Pidgeot": {
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -10890,9 +10924,10 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Sand Attack",
                 "Quick Attack"
-            ]
+            ],
+			 "index": 374
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -10906,9 +10941,10 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Sand Attack",
                 "Quick Attack"
-            ]
+            ],
+			 "index": 381
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -10922,7 +10958,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Sand Attack",
                 "Quick Attack"
-            ]
+            ],
+			 "index": 386
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 53,
@@ -14276,7 +14313,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 342
         },
-        "Rocket (Pok\u00e9mon Tower)": {
+        "Rocket 3 - Pok\u00e9mon Tower": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -14289,7 +14326,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 398
         },
         "Fisherman (Route 12 (Silence Bridge))": {
             "level": 42,
@@ -14750,7 +14788,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 218
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 6 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -14763,7 +14801,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+            ],
+			 "index": 365
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 55,
@@ -14928,7 +14967,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 315
         },
-        "Channeler (Pok\u00e9mon Tower)": {
+        "Channeler 7 - Pok\u00e9mon Tower": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -14942,9 +14981,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 367
         },
-        "Blue 5 (Pok\u00e9mon Tower)": {
+        "Blue 1 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -14958,9 +14998,10 @@ var SETDEX_RBY = {
                 "Razor Leaf",
                 "Body Slam",
                 "Double Team"
-            ]
+            ],
+			 "index": 377
         },
-        "Blue 5 1 (Pok\u00e9mon Tower)": {
+        "Blue 2 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -14974,9 +15015,10 @@ var SETDEX_RBY = {
                 "Razor Leaf",
                 "Body Slam",
                 "Double Team"
-            ]
+            ],
+			 "index": 382
         },
-        "Blue 5 2 (Pok\u00e9mon Tower)": {
+        "Blue 3 - Pok\u00e9mon Tower": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -14990,7 +15032,8 @@ var SETDEX_RBY = {
                 "Razor Leaf",
                 "Body Slam",
                 "Double Team"
-            ]
+            ],
+			 "index": 388
         },
         "Bird Keeper (Route 13 (S of Silence Bridge))": {
             "level": 55,
