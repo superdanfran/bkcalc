@@ -530,7 +530,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 359
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -543,9 +543,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+            ],
+			 "index": 480
         },
-        "Tamer (Fuchsia Gym)": {
+        "Tamer 2 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -558,7 +559,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Glare",
                 "Fissure"
-            ]
+            ],
+			 "index": 554
         }
     },
     "Arcanine": {
@@ -578,7 +580,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 147
         },
-        "Biker (Route 13 (S of Silence Bridge))": {
+        "Biker 1 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -591,7 +593,8 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Body Slam",
                 "Dig"
-            ]
+            ],
+			 "index": 443
         },
         "Blue 6 (Silph Co.)": {
             "level": 70,
@@ -877,7 +880,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 389
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 3 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -891,7 +894,8 @@ var SETDEX_RBY = {
                 "Hydro Pump",
                 "Blizzard",
                 "Earthquake"
-            ]
+            ],
+			 "index": 499
         },
         "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -1074,7 +1078,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 254
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 4 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -1087,7 +1091,8 @@ var SETDEX_RBY = {
                 "Psybeam",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+            ],
+			 "index": 433
         }
     },
     "Caterpie": {
@@ -1258,7 +1263,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 390
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -1272,9 +1277,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 446
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 3 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -1288,9 +1294,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 501
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 1 - Route 16": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -1304,7 +1311,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 536
         },
         "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -1543,7 +1551,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 314
         },
-        "Beauty (Route 13 (S of Silence Bridge))": {
+        "Beauty 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -1557,9 +1565,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 429
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 7 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -1573,9 +1582,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 460
         },
-        "Beauty (Route 15 (E of Fuchsia))": {
+        "Beauty 2 - Route 15": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -1589,7 +1599,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 488
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -1738,7 +1749,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 397
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 2 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -1751,9 +1762,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 403
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 1 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -1766,7 +1778,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 511
         },
         "Rocket (Silph Co.)": {
             "level": 65,
@@ -2073,7 +2086,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 296
         },
-        "Beauty (Route 13 (S of Silence Bridge))": {
+        "Beauty 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -2087,9 +2100,10 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Hydro Pump",
                 "Rest"
-            ]
+            ],
+			 "index": 430
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 2 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -2103,7 +2117,8 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Hydro Pump",
                 "Rest"
-            ]
+            ],
+			 "index": 505
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 60,
@@ -2202,7 +2217,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 85
         },
-        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+        "Bird Keeper 2 - Route 14": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -2213,7 +2228,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 474
         },
         "Scientist (Silph Co.)": {
             "level": 67,
@@ -2298,7 +2314,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 326
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -2311,9 +2327,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 439
         },
-        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 4 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -2326,9 +2343,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 452
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -2341,9 +2359,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 492
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 1 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -2356,9 +2375,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 504
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 4 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -2371,7 +2391,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 545
         },
         "Rocket 1 (Silph Co.)": {
             "level": 64,
@@ -2614,7 +2635,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 341
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 1 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -2627,9 +2648,10 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 401
         },
-        "Fisherman 1 (Route 12 (Silence Bridge))": {
+        "Fisherman 4 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -2642,9 +2664,10 @@ var SETDEX_RBY = {
                 "Dragon Rage",
                 "Wrap",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 409
         },
-        "Fisherman 2 (Route 12 (Silence Bridge))": {
+        "Fisherman 5 - Route 12": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -2658,9 +2681,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Thunder Wave",
                 "Blizzard"
-            ]
+            ],
+			 "index": 412
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -2674,7 +2698,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Thunder Wave",
                 "Blizzard"
-            ]
+            ],
+			 "index": 447
         },
         "Fisherman (Sea Route 21 (N of Cinnabar))": {
             "level": 70,
@@ -2897,7 +2922,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 222
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 4 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -2911,7 +2936,8 @@ var SETDEX_RBY = {
                 "Headbutt",
                 "Double-Edge",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 407
         }
     },
     "Drowzee": {
@@ -2966,7 +2992,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 361
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -2980,9 +3006,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Toxic",
                 "Psychic"
-            ]
+            ],
+			 "index": 484
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 3 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -2996,7 +3023,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Toxic",
                 "Psychic"
-            ]
+            ],
+			 "index": 520
         }
     },
     "Dugtrio": {
@@ -3153,7 +3181,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 353
         },
-        "Beauty (Route 15 (E of Fuchsia))": {
+        "Beauty 1 - Route 15": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -3167,9 +3195,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 476
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -3183,7 +3212,8 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 495
         },
         "Rocket 3 (Silph Co.)": {
             "level": 65,
@@ -3416,7 +3446,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 329
         },
-        "Rocker (Route 12 (Silence Bridge))": {
+        "Rocker 1 - Route 12": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -3430,9 +3460,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+            ],
+			 "index": 411
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 4 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -3446,9 +3477,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+            ],
+			 "index": 469
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 2 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -3462,7 +3494,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+            ],
+			 "index": 519
         },
         "Rocket 5 (Silph Co.)": {
             "level": 66,
@@ -3642,7 +3675,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 332
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 4 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -3655,9 +3688,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 544
         },
-        "Juggler (Fuchsia Gym)": {
+        "Juggler 3 - Fuchsia Gym": {
             "level": 61,
             "dvs": {
                 "hp": 8,
@@ -3670,7 +3704,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 550
         },
         "Scientist (Silph Co.)": {
             "level": 66,
@@ -4338,7 +4373,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 200
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -4352,9 +4387,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Slash",
                 "Agility"
-            ]
+            ],
+			 "index": 437
         },
-        "Bird Keeper 2 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -4368,7 +4404,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Slash",
                 "Agility"
-            ]
+            ],
+			 "index": 448
         }
     },
     "Fearow": {
@@ -4404,7 +4441,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 242
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -4417,9 +4454,10 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+            ],
+			 "index": 419
         },
-        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 4 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -4432,9 +4470,10 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+            ],
+			 "index": 449
         },
-        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 6 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -4447,9 +4486,10 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+            ],
+			 "index": 456
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 3 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -4462,7 +4502,8 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Razor Wind"
-            ]
+            ],
+			 "index": 509
         }
     },
     "Flareon": {
@@ -4549,7 +4590,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 256
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 2 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -4562,9 +4603,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 424
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 4 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -4577,9 +4619,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 470
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 5 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -4592,7 +4635,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 532
         },
         "Rocket (Silph Co.)": {
             "level": 63,
@@ -4807,7 +4851,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 395
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 4 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -4821,9 +4865,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 502
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -4837,7 +4882,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Night Shade",
                 "Explosion"
-            ]
+            ],
+			 "index": 565
         },
         "Rocket (Silph Co.)": {
             "level": 65,
@@ -5183,7 +5229,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 358
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -5197,9 +5243,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 444
         },
-        "Tamer (Fuchsia Gym)": {
+        "Tamer 1 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -5213,7 +5260,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Mega Drain",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 552
         }
     },
     "Goldeen": {
@@ -5269,7 +5317,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 238
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -5283,9 +5331,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 438
         },
-        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 4 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -5299,9 +5348,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 451
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -5315,9 +5365,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 493
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 3 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -5331,7 +5382,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 508
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 60,
@@ -5484,7 +5536,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 387
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 4 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -5498,9 +5550,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 406
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 2 - Route 15": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -5514,9 +5567,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 489
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 1 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -5530,9 +5584,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 510
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 2 - Route 16": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -5546,7 +5601,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 538
         },
         "Bruno (Fighting Dojo)": {
             "level": 68,
@@ -5837,7 +5893,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 393
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 2 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -5851,9 +5907,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Blizzard"
-            ]
+            ],
+			 "index": 404
         },
-        "Fisherman 2 (Route 12 (Silence Bridge))": {
+        "Fisherman 5 - Route 12": {
             "level": 51,
             "dvs": {
                 "hp": 8,
@@ -5867,9 +5924,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Blizzard"
-            ]
+            ],
+			 "index": 413
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 5 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -5883,9 +5941,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 454
         },
-        "Cue Ball (Route 16 (W of Celadon))": {
+        "Cue Ball 2 - Route 16": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -5899,7 +5958,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 546
         },
         "Rocket 3 (Silph Co.)": {
             "level": 65,
@@ -6175,7 +6235,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 391
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 3 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -6189,9 +6249,10 @@ var SETDEX_RBY = {
                 "Confuse Ray",
                 "Night Shade",
                 "Psychic"
-            ]
+            ],
+			 "index": 542
         },
-        "Juggler 1 (Fuchsia Gym)": {
+        "Juggler 4 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -6205,7 +6266,8 @@ var SETDEX_RBY = {
                 "Confuse Ray",
                 "Night Shade",
                 "Psychic"
-            ]
+            ],
+			 "index": 559
         },
         "Channeler (Saffron Gym)": {
             "level": 72,
@@ -6225,7 +6287,7 @@ var SETDEX_RBY = {
         }
     },
     "Hitmonchan": {
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -6238,7 +6300,8 @@ var SETDEX_RBY = {
                 "Submission",
                 "Body Slam",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 496
         },
         "Blackbelt (Fighting Dojo)": {
             "level": 65,
@@ -6388,7 +6451,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 399
         },
-        "Juggler (Fuchsia Gym)": {
+        "Juggler 1 - Fuchsia Gym": {
             "level": 61,
             "dvs": {
                 "hp": 8,
@@ -6401,9 +6464,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 547
         },
-        "Juggler 1 (Fuchsia Gym)": {
+        "Juggler 4 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -6416,7 +6480,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 560
         },
         "Juggler (Silph Co.)": {
             "level": 65,
@@ -6783,7 +6848,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 257
         },
-        "Rocker (Route 12 (Silence Bridge))": {
+        "Rocker 1 - Route 12": {
             "level": 50,
             "dvs": {
                 "hp": 8,
@@ -6797,9 +6862,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 410
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 2 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -6813,7 +6879,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 465
         },
         "Rocket (Silph Co.)": {
             "level": 63,
@@ -7041,7 +7108,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 372
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 2 - Route 15": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -7054,7 +7121,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 490
         },
         "Rocket (Silph Co.)": {
             "level": 66,
@@ -7410,7 +7478,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 392
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 2 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -7424,9 +7492,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 512
         },
-        "Juggler (Fuchsia Gym)": {
+        "Juggler 2 - Fuchsia Gym": {
             "level": 61,
             "dvs": {
                 "hp": 8,
@@ -7440,9 +7509,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 548
         },
-        "Juggler 1 (Fuchsia Gym)": {
+        "Juggler 4 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -7456,7 +7526,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 558
         },
         "Scientist (Silph Co.)": {
             "level": 65,
@@ -7619,7 +7690,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 343
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -7632,9 +7703,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 486
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 3 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -7647,7 +7719,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 515
         },
         "Rocket 5 (Silph Co.)": {
             "level": 66,
@@ -7789,7 +7862,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 292
         },
-        "Biker (Route 13 (S of Silence Bridge))": {
+        "Biker 1 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -7802,9 +7875,10 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+            ],
+			 "index": 442
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 3 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -7817,7 +7891,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+            ],
+			 "index": 522
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -7937,7 +8012,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 370
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 3 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -7951,7 +8026,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 405
         },
         "Rocket (Silph Co.)": {
             "level": 66,
@@ -8230,7 +8306,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 319
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -8244,9 +8320,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 483
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 2 - Route 15": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -8260,7 +8337,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 491
         }
     },
     "Machamp": {
@@ -8298,7 +8376,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 347
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 4 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -8312,9 +8390,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 518
         },
-        "Cue Ball 1 (Route 17 (Cycling Road))": {
+        "Cue Ball 5 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -8328,9 +8407,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 529
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 3 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -8344,7 +8424,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 541
         },
         "Bruno (Fighting Dojo)": {
             "level": 68,
@@ -8627,7 +8708,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 369
         },
-        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 6 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -8641,9 +8722,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 458
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 2 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -8657,9 +8739,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 464
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -8673,9 +8756,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 494
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 4 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -8689,7 +8773,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Body Slam",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 526
         },
         "Blaine (Cinnabar Gym)": {
             "level": 84,
@@ -8812,7 +8897,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 325
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -8826,7 +8911,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+            ],
+			 "index": 445
         },
         "Scientist (Silph Co.)": {
             "level": 66,
@@ -8982,7 +9068,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 394
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -8996,9 +9082,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 417
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 4 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -9012,9 +9099,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 472
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 3 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -9028,7 +9116,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 507
         }
     },
     "Meowth": {
@@ -9064,7 +9153,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 287
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -9077,7 +9166,8 @@ var SETDEX_RBY = {
                 "Bite",
                 "Pay Day",
                 "Slash"
-            ]
+            ],
+			 "index": 479
         }
     },
     "Metapod": {
@@ -9512,7 +9602,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 396
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 3 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -9526,9 +9616,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 543
         },
-        "Juggler (Fuchsia Gym)": {
+        "Juggler 3 - Fuchsia Gym": {
             "level": 61,
             "dvs": {
                 "hp": 8,
@@ -9542,9 +9633,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 551
         },
-        "Juggler 1 (Fuchsia Gym)": {
+        "Juggler 4 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -9558,9 +9650,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 557
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -9574,7 +9667,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 563
         },
         "Juggler (Silph Co.)": {
             "level": 65,
@@ -9693,7 +9787,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 363
         },
-        "Biker (Route 13 (S of Silence Bridge))": {
+        "Biker 1 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -9707,9 +9801,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 441
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 4 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -9723,9 +9818,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 471
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 5 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -9739,9 +9835,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 531
         },
-        "Juggler (Fuchsia Gym)": {
+        "Juggler 2 - Fuchsia Gym": {
             "level": 61,
             "dvs": {
                 "hp": 8,
@@ -9755,7 +9852,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 549
         },
         "Bruno (Fighting Dojo)": {
             "level": 68,
@@ -9843,7 +9941,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 355
         },
-        "Jr. Trainer M (Route 12 (Silence Bridge))": {
+        "Jr. Trainer M 1 - Route 12": {
             "level": 52,
             "dvs": {
                 "hp": 8,
@@ -9857,9 +9955,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 415
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 1 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -9873,9 +9972,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 462
         },
-        "Cue Ball 1 (Route 17 (Cycling Road))": {
+        "Cue Ball 5 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -9889,9 +9989,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 530
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 1 - Route 16": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -9905,9 +10006,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 535
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -9921,7 +10023,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 564
         },
         "Blackbelt (Viridian Gym)": {
             "level": 84,
@@ -10042,7 +10145,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 354
         },
-        "Jr. Trainer M (Route 12 (Silence Bridge))": {
+        "Jr. Trainer M 1 - Route 12": {
             "level": 52,
             "dvs": {
                 "hp": 8,
@@ -10056,9 +10159,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 414
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 2 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -10072,9 +10176,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 466
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 5 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -10088,9 +10193,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 533
         },
-        "Tamer (Fuchsia Gym)": {
+        "Tamer 2 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -10104,7 +10210,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 556
         },
         "Giovanni 2 (Silph Co.)": {
             "level": 72,
@@ -10336,7 +10443,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 278
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -10347,7 +10454,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+            ],
+			 "index": 432
         },
         "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
             "level": 67,
@@ -10607,7 +10715,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 233
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 3 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -10620,7 +10728,8 @@ var SETDEX_RBY = {
                 "Bind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 521
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -10777,7 +10886,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 299
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -10791,7 +10900,8 @@ var SETDEX_RBY = {
                 "Mega Drain",
                 "Body Slam",
                 "Spore"
-            ]
+            ],
+			 "index": 418
         }
     },
     "Persian": {
@@ -10961,7 +11071,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 386
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -10975,9 +11085,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 420
         },
-        "Bird Keeper 1 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 2 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -10991,9 +11102,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 440
         },
-        "Bird Keeper 3 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 4 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -11007,9 +11119,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 450
         },
-        "Bird Keeper 4 (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 6 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -11023,9 +11136,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 457
         },
-        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+        "Bird Keeper 2 - Route 14": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -11039,9 +11153,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 473
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -11055,9 +11170,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 498
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 3 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -11071,7 +11187,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 506
         },
         "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -11263,7 +11380,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 294
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 3 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -11277,9 +11394,10 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+            ],
+			 "index": 468
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 3 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -11293,9 +11411,10 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+            ],
+			 "index": 524
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 1 - Route 16": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -11309,7 +11428,8 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+            ],
+			 "index": 534
         },
         "Tamer (Victory Road)": {
             "level": 89,
@@ -11417,7 +11537,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 189
         },
-        "Beauty (Route 13 (S of Silence Bridge))": {
+        "Beauty 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -11431,9 +11551,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 426
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 3 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -11447,9 +11568,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 467
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 4 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -11463,7 +11585,8 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 525
         },
         "Blackbelt (Fighting Dojo)": {
             "level": 65,
@@ -11717,7 +11840,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 337
         },
-        "Bird Keeper (Route 14 (NE of Fuchsia))": {
+        "Bird Keeper 1 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -11731,7 +11854,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 463
         },
         "Scientist (Silph Co.)": {
             "level": 66,
@@ -11816,7 +11940,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 162
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -11830,9 +11954,10 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Rock Slide",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 485
         },
-        "Biker (Route 16 (W of Celadon))": {
+        "Biker 1 - Route 16": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -11846,7 +11971,8 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Rock Slide",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 537
         },
         "Blackbelt (Fighting Dojo)": {
             "level": 65,
@@ -12002,7 +12128,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 345
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 2 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -12016,9 +12142,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 422
         },
-        "Beauty (Route 13 (S of Silence Bridge))": {
+        "Beauty 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -12032,9 +12159,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 427
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -12048,9 +12176,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 477
         },
-        "Cue Ball (Route 16 (W of Celadon))": {
+        "Cue Ball 1 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -12064,7 +12193,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 539
         },
         "Rocket (Silph Co.)": {
             "level": 67,
@@ -12176,7 +12306,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 293
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 4 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -12187,7 +12317,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Horn Drill"
-            ]
+            ],
+			 "index": 434
         },
         "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
             "level": 67,
@@ -12334,7 +12465,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 344
         },
-        "Biker (Route 14 (NE of Fuchsia))": {
+        "Biker 1 - Route 14": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -12348,7 +12479,8 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 461
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 60,
@@ -12568,7 +12700,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 261
         },
-        "Bird Keeper (Route 18 (W of Fuchsia))": {
+        "Bird Keeper 1 - Route 18": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -12581,7 +12713,8 @@ var SETDEX_RBY = {
                 "Double-Edge",
                 "Rock Slide",
                 "Earthquake"
-            ]
+            ],
+			 "index": 503
         }
     },
     "Sandshrew": {
@@ -12702,7 +12835,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 302
         },
-        "Beauty (Route 13 (S of Silence Bridge))": {
+        "Beauty 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -12716,9 +12849,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 428
         },
-        "Cue Ball (Route 16 (W of Celadon))": {
+        "Cue Ball 1 - Route 16": {
             "level": 59,
             "dvs": {
                 "hp": 8,
@@ -12732,7 +12866,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 540
         },
         "Blue 6 (Silph Co.)": {
             "level": 70,
@@ -12834,7 +12969,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 219
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 7 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -12848,7 +12983,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Quick Attack",
                 "Wing Attack"
-            ]
+            ],
+			 "index": 459
         }
     },
     "Seadra": {
@@ -12883,7 +13019,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 216
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 2 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -12897,9 +13033,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Hydro Pump",
                 "SmokeScreen"
-            ]
+            ],
+			 "index": 425
         },
-        "Bird Keeper (Route 15 (E of Fuchsia))": {
+        "Bird Keeper 2 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -12913,7 +13050,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Hydro Pump",
                 "SmokeScreen"
-            ]
+            ],
+			 "index": 497
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 60,
@@ -12995,7 +13133,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 128
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 1 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -13008,9 +13146,10 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Bubble Beam",
                 "Waterfall"
-            ]
+            ],
+			 "index": 416
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -13024,7 +13163,8 @@ var SETDEX_RBY = {
                 "Bubble Beam",
                 "Waterfall",
                 "Agility"
-            ]
+            ],
+			 "index": 478
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 60,
@@ -13200,7 +13340,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 320
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 1 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -13214,9 +13354,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 400
         },
-        "Beauty (Route 15 (E of Fuchsia))": {
+        "Beauty 2 - Route 15": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -13230,9 +13371,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 487
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 4 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -13246,9 +13388,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 517
         },
-        "Cue Ball 1 (Route 17 (Cycling Road))": {
+        "Cue Ball 5 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -13262,7 +13405,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 527
         },
         "Rocket (Silph Co.)": {
             "level": 66,
@@ -13412,7 +13556,7 @@ var SETDEX_RBY = {
         }
     },
     "Snorlax": {
-        "Cue Ball 1 (Route 17 (Cycling Road))": {
+        "Cue Ball 5 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -13426,7 +13570,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 528
         },
         "Rocket 1 (Silph Co.)": {
             "level": 64,
@@ -13677,7 +13822,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 105
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 4 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -13691,7 +13836,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 408
         },
         "Scientist (Silph Co.)": {
             "level": 65,
@@ -14329,7 +14475,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 398
         },
-        "Fisherman (Route 12 (Silence Bridge))": {
+        "Fisherman 1 - Route 12": {
             "level": 42,
             "dvs": {
                 "hp": 8,
@@ -14341,9 +14487,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Wrap",
                 "Surf"
-            ]
+            ],
+			 "index": 402
         },
-        "Cue Ball (Route 17 (Cycling Road))": {
+        "Cue Ball 3 - Route 17": {
             "level": 57,
             "dvs": {
                 "hp": 8,
@@ -14356,9 +14503,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 516
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -14371,7 +14519,8 @@ var SETDEX_RBY = {
                 "Surf",
                 "Blizzard",
                 "Wrap"
-            ]
+            ],
+			 "index": 566
         },
         "Rocket (Silph Co.)": {
             "level": 65,
@@ -14610,7 +14759,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 258
         },
-        "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 4 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -14624,7 +14773,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 436
         },
         "Rocket (Silph Co.)": {
             "level": 63,
@@ -14804,7 +14954,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 365
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 5 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -14817,9 +14967,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+            ],
+			 "index": 453
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -14832,7 +14983,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+            ],
+			 "index": 561
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -15035,7 +15187,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 388
         },
-        "Bird Keeper (Route 13 (S of Silence Bridge))": {
+        "Bird Keeper 5 - Route 13": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -15049,9 +15201,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 455
         },
-        "Jr. Trainer F (Route 15 (E of Fuchsia))": {
+        "Jr. Trainer F 3 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -15065,9 +15218,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 500
         },
-        "Tamer (Fuchsia Gym)": {
+        "Tamer 2 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -15081,7 +15235,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 555
         },
         "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -15166,7 +15321,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 317
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 3 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -15180,9 +15335,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Body Slam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 431
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -15196,9 +15352,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Body Slam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 482
         },
-        "Tamer (Fuchsia Gym)": {
+        "Tamer 1 - Fuchsia Gym": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -15212,7 +15369,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Body Slam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 553
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -15248,7 +15406,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 313
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 2 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -15261,9 +15419,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Petal Dance"
-            ]
+            ],
+			 "index": 423
         },
-        "Beauty (Route 15 (E of Fuchsia))": {
+        "Beauty 1 - Route 15": {
             "level": 55,
             "dvs": {
                 "hp": 8,
@@ -15276,7 +15435,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Petal Dance"
-            ]
+            ],
+			 "index": 475
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 63,
@@ -15344,7 +15504,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 137
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 1 - Route 17 (1)": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -15358,9 +15518,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunder Wave",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 513
         },
-        "Biker 1 (Route 17 (Cycling Road))": {
+        "Biker 1 - Route 17 (2)": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -15374,7 +15535,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunder Wave",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 514
         }
     },
     "Vulpix": {
@@ -15602,7 +15764,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 321
         },
-        "Biker (Route 15 (E of Fuchsia))": {
+        "Biker 1 - Route 15": {
             "level": 56,
             "dvs": {
                 "hp": 8,
@@ -15616,9 +15778,10 @@ var SETDEX_RBY = {
                 "Sludge",
                 "Fire Blast",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 481
         },
-        "Biker (Route 17 (Cycling Road))": {
+        "Biker 3 - Route 17": {
             "level": 58,
             "dvs": {
                 "hp": 8,
@@ -15632,9 +15795,10 @@ var SETDEX_RBY = {
                 "Sludge",
                 "Fire Blast",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 523
         },
-        "Koga (Fuchsia Gym)": {
+        "Koga": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -15648,7 +15812,8 @@ var SETDEX_RBY = {
                 "Sludge",
                 "Fire Blast",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 562
         },
         "Rocket (Silph Co.)": {
             "level": 67,
@@ -15770,7 +15935,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 275
         },
-        "Jr. Trainer F (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 2 - Route 13": {
             "level": 53,
             "dvs": {
                 "hp": 8,
@@ -15784,9 +15949,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 421
         },
-        "Jr. Trainer F 1 (Route 13 (S of Silence Bridge))": {
+        "Jr. Trainer F 4 - Route 13": {
             "level": 54,
             "dvs": {
                 "hp": 8,
@@ -15800,7 +15966,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 435
         },
         "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
             "level": 67,
