@@ -294,7 +294,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 680
         },
-        "Psychic (South room)": {
+        "Psychic 2 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -307,9 +307,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 691
         },
-        "Psychic 1 (South room)": {
+        "Psychic 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -322,9 +323,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 696
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -337,7 +339,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Thunder Wave",
                 "Recover"
-            ]
+            ],
+			 "index": 705
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 65,
@@ -4154,7 +4157,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 676
         },
-        "Psychic (South room)": {
+        "Psychic 1 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -4167,9 +4170,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 688
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -4182,7 +4186,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+            ],
+			 "index": 703
         },
         "Super Nerd (Cinnabar Gym)": {
             "level": 76,
@@ -5013,7 +5018,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 681
         },
-        "Channeler (South room)": {
+        "Channeler 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -5027,7 +5032,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 698
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 73,
@@ -6324,7 +6330,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 559
         },
-        "Channeler (Saffron Gym)": {
+        "Channeler 1 - Saffron Gym": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -6338,7 +6344,8 @@ var SETDEX_RBY = {
                 "Confuse Ray",
                 "Night Shade",
                 "Psychic"
-            ]
+            ],
+			 "index": 684
         }
     },
     "Hitmonchan": {
@@ -6604,7 +6611,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 641
         },
-        "Psychic (South room)": {
+        "Psychic 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -6617,9 +6624,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 695
         },
-        "Channeler (South room)": {
+        "Channeler 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -6632,9 +6640,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 699
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -6647,7 +6656,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Thunder Wave",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 702
         },
         "Burglar (Pok\u00e9mon Mansion)": {
             "level": 75,
@@ -7203,7 +7213,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 644
         },
-        "Psychic (South room)": {
+        "Psychic 1 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -7216,9 +7226,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 690
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -7231,7 +7242,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 700
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 63,
@@ -7645,7 +7657,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 633
         },
-        "Channeler (Saffron Gym)": {
+        "Channeler 1 - Saffron Gym": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -7659,9 +7671,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 685
         },
-        "Psychic (South room)": {
+        "Psychic 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -7675,7 +7688,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 693
         }
     },
     "Kakuna": {
@@ -8184,7 +8198,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 649
         },
-        "Channeler (South room)": {
+        "Channeler 2 - Saffron Gym": {
             "level": 73,
             "dvs": {
                 "hp": 8,
@@ -8198,7 +8212,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 687
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 73,
@@ -9768,7 +9783,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 591
         },
-        "Channeler (Saffron Gym)": {
+        "Channeler 1 - Saffron Gym": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -9782,9 +9797,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 686
         },
-        "Psychic (South room)": {
+        "Psychic 3 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -9798,9 +9814,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 694
         },
-        "Psychic 2 (South room)": {
+        "Psychic 4 - Saffron Gym": {
             "level": 73,
             "dvs": {
                 "hp": 8,
@@ -9814,7 +9831,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 697
         }
     },
     "Muk": {
@@ -13527,7 +13545,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 646
         },
-        "Psychic (South room)": {
+        "Psychic 1 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -13541,9 +13559,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 689
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -13557,7 +13576,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 701
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -13996,7 +14016,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 625
         },
-        "Psychic (South room)": {
+        "Psychic 2 - Saffron Gym": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -14010,9 +14030,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 692
         },
-        "Sabrina (Center room)": {
+        "Sabrina": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -14026,7 +14047,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 704
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 71,
