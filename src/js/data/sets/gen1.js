@@ -31,7 +31,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 15
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 1 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -45,9 +45,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 578
         },
-        "Scientist 1 (Silph Co.)": {
+        "Scientist 3 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -61,9 +62,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 590
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 11 - Silph Co.": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -77,9 +79,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 610
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -93,9 +96,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 621
         },
-        "Scientist 6 (Silph Co.)": {
+        "Scientist 9 - Silph Co.": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -109,7 +113,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 643
         },
         "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -209,7 +214,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 348
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 13 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -222,9 +227,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 617
         },
-        "Scientist 4 (Silph Co.)": {
+        "Scientist 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -237,9 +243,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 636
         },
-        "Scientist 7 (Silph Co.)": {
+        "Scientist 10 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -252,9 +259,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 651
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -267,9 +275,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 672
         },
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -282,7 +291,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 680
         },
         "Psychic (South room)": {
             "level": 69,
@@ -596,7 +606,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 443
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -610,9 +620,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Dig",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 654
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -626,9 +637,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Dig",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 662
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -642,7 +654,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Dig",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 668
         },
         "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
             "level": 68,
@@ -1130,7 +1143,7 @@ var SETDEX_RBY = {
         }
     },
     "Chansey": {
-        "Rocket (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -1144,7 +1157,8 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Thunderbolt",
                 "Ice Beam"
-            ]
+            ],
+			 "index": 645
         },
         "Blaine (Cinnabar Gym)": {
             "level": 84,
@@ -1781,7 +1795,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 511
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -1794,9 +1808,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 603
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -1809,7 +1824,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 674
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -2231,7 +2247,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 474
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 4 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -2242,9 +2258,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 593
         },
-        "Scientist 5 (Silph Co.)": {
+        "Scientist 8 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -2255,7 +2272,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 637
         },
         "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -2394,7 +2412,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 545
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -2407,9 +2425,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 599
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2422,9 +2441,10 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Body Slam"
-            ]
+            ],
+			 "index": 653
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2437,9 +2457,10 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Body Slam"
-            ]
+            ],
+			 "index": 658
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2452,7 +2473,8 @@ var SETDEX_RBY = {
                 "Drill Peck",
                 "Hyper Beam",
                 "Body Slam"
-            ]
+            ],
+			 "index": 665
         },
         "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -2719,7 +2741,7 @@ var SETDEX_RBY = {
         }
     },
     "Dragonite": {
-        "Rocket (Silph Co.)": {
+        "Rocket 4 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -2732,9 +2754,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 587
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -2747,9 +2770,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 595
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -2762,7 +2786,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 626
         },
         "Fisherman (Sea Route 21 (N of Cinnabar))": {
             "level": 71,
@@ -3215,7 +3240,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 495
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -3229,7 +3254,8 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 614
         },
         "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -3497,7 +3523,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 519
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -3511,7 +3537,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+            ],
+			 "index": 629
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -3659,7 +3686,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 288
         },
-        "Rocket 4 - Rocket Hideout": {
+        "Rocket 5 - Rocket Hideout": {
             "level": 47,
             "dvs": {
                 "hp": 8,
@@ -3707,7 +3734,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 550
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 3 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -3720,9 +3747,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 588
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -3735,9 +3763,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 596
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -3750,9 +3779,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 602
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -3765,9 +3795,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 619
         },
-        "Scientist 5 (Silph Co.)": {
+        "Scientist 8 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -3780,9 +3811,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 638
         },
-        "Scientist 7 (Silph Co.)": {
+        "Scientist 10 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -3795,7 +3827,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 650
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 65,
@@ -3977,7 +4010,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 318
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -3990,9 +4023,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 601
         },
-        "Rocket 2 (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -4005,9 +4039,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 606
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -4020,9 +4055,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 613
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -4035,9 +4071,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 624
         },
-        "Rocket 7 (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -4050,9 +4087,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 647
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -4065,9 +4103,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 655
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -4080,9 +4119,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 660
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -4095,9 +4135,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 666
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -4110,7 +4151,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 676
         },
         "Psychic (South room)": {
             "level": 69,
@@ -4638,7 +4680,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 532
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 1 - Silph Co.": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -4651,7 +4693,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 581
         },
         "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -4885,7 +4928,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 565
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -4899,9 +4942,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 605
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -4915,9 +4959,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 616
         },
-        "Rocket 4 (Silph Co.)": {
+        "Rocket 14 - Silph Co.": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -4931,9 +4976,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 618
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -4947,9 +4993,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 675
         },
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -4963,7 +5010,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Explosion",
                 "Night Shade"
-            ]
+            ],
+			 "index": 681
         },
         "Channeler (South room)": {
             "level": 69,
@@ -5604,7 +5652,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 538
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -5618,9 +5666,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 571
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -5634,9 +5683,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 604
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -5650,7 +5700,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 628
         },
         "Fisherman (Sea Route 21 (N of Cinnabar))": {
             "level": 70,
@@ -5745,7 +5796,7 @@ var SETDEX_RBY = {
                 "sp": 8
             },
             "moves": [
-                "Dig",
+                "Earthquake",
                 "Self-Destruct",
                 "Rock Slide",
                 "Explosion"
@@ -5961,7 +6012,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 546
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -5975,9 +6026,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 612
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -5991,9 +6043,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Blizzard",
                 "Body Slam"
-            ]
+            ],
+			 "index": 656
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -6007,9 +6060,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Blizzard",
                 "Body Slam"
-            ]
+            ],
+			 "index": 661
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -6023,7 +6077,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Blizzard",
                 "Body Slam"
-            ]
+            ],
+			 "index": 667
         },
         "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -6303,7 +6358,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 496
         },
-        "Blackbelt (Fighting Dojo)": {
+        "Blackbelt 1 - Fighting Dojo": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -6316,7 +6371,8 @@ var SETDEX_RBY = {
                 "Submission",
                 "Body Slam",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 567
         }
     },
     "Hitmonlee": {
@@ -6352,7 +6408,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 231
         },
-        "Blackbelt (Fighting Dojo)": {
+        "Blackbelt 4 - Fighting Dojo": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -6365,7 +6421,8 @@ var SETDEX_RBY = {
                 "High Jump Kick",
                 "Body Slam",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 570
         }
     },
     "Horsea": {
@@ -6483,7 +6540,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 560
         },
-        "Juggler (Silph Co.)": {
+        "Juggler 1 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -6496,9 +6553,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 592
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 9 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -6511,9 +6569,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 608
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -6526,9 +6585,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 615
         },
-        "Rocket 6 (Silph Co.)": {
+        "Rocket 16 - Silph Co.": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -6541,7 +6601,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 641
         },
         "Psychic (South room)": {
             "level": 69,
@@ -6882,7 +6943,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 465
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 1 - Silph Co.": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -6896,9 +6957,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 580
         },
-        "Rocket 3 (Silph Co.)": {
+        "Rocket 12 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -6912,7 +6974,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 611
         },
         "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -7124,7 +7187,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 490
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -7137,7 +7200,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 644
         },
         "Psychic (South room)": {
             "level": 69,
@@ -7327,7 +7391,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 305
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 1 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -7341,7 +7405,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Slash",
                 "Dig"
-            ]
+            ],
+			 "index": 577
         },
         "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -7529,7 +7594,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 558
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 2 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -7543,9 +7608,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 585
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -7559,9 +7625,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 622
         },
-        "Scientist 4 (Silph Co.)": {
+        "Scientist 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -7575,7 +7642,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Psychic",
                 "Seismic Toss"
-            ]
+            ],
+			 "index": 633
         },
         "Channeler (Saffron Gym)": {
             "level": 72,
@@ -7722,7 +7790,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 515
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -7735,9 +7803,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 627
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 18 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -7750,7 +7819,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 671
         },
         "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 64,
@@ -8029,7 +8099,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 405
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 2 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8043,9 +8113,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 583
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -8059,9 +8130,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 600
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8075,9 +8147,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 623
         },
-        "Scientist 4 (Silph Co.)": {
+        "Scientist 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8091,9 +8164,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 635
         },
-        "Rocket 7 (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8107,7 +8181,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 649
         },
         "Channeler (South room)": {
             "level": 73,
@@ -8427,7 +8502,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 541
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -8441,9 +8516,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 576
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8457,7 +8533,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 630
         },
         "Cue Ball (Sea Route 21 (N of Cinnabar))": {
             "level": 71,
@@ -8914,7 +8991,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 445
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -8928,7 +9005,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+            ],
+			 "index": 632
         },
         "Scientist (Pok\u00e9mon Mansion)": {
             "level": 71,
@@ -9353,7 +9431,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 391
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -9367,9 +9445,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 657
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -9383,9 +9462,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 663
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -9399,7 +9479,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Softboiled",
                 "Body Slam"
-            ]
+            ],
+			 "index": 669
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -9670,7 +9751,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 563
         },
-        "Juggler (Silph Co.)": {
+        "Juggler 1 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -9684,7 +9765,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Thunderbolt",
                 "Psychic"
-            ]
+            ],
+			 "index": 591
         },
         "Channeler (Saffron Gym)": {
             "level": 72,
@@ -9855,7 +9937,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 549
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -9869,7 +9951,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Toxic",
                 "Body Slam"
-            ]
+            ],
+			 "index": 575
         }
     },
     "Nidoking": {
@@ -10213,7 +10296,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 556
         },
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -10227,7 +10310,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Blizzard",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 679
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 63,
@@ -10585,7 +10669,7 @@ var SETDEX_RBY = {
 			 ],
 			 "index": 309
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 1 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -10599,9 +10683,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+            ],
+			 "index": 579
         },
-        "Scientist 5 (Silph Co.)": {
+        "Scientist 8 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -10615,7 +10700,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+            ],
+			 "index": 640
         },
         "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -10920,7 +11006,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 352
         },
-        "Rocket 7 (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -10932,9 +11018,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 648
         },
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -10946,7 +11033,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 678
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -11588,7 +11676,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 525
         },
-        "Blackbelt (Fighting Dojo)": {
+        "Blackbelt 3 - Fighting Dojo": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -11602,9 +11690,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 569
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -11618,7 +11707,8 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 574
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -11857,7 +11947,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 463
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 3 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -11871,9 +11961,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 589
         },
-        "Scientist 4 (Silph Co.)": {
+        "Scientist 7 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -11887,9 +11978,10 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 634
         },
-        "Scientist 5 (Silph Co.)": {
+        "Scientist 8 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -11903,7 +11995,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 639
         },
         "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
             "level": 65,
@@ -11974,7 +12067,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 537
         },
-        "Blackbelt (Fighting Dojo)": {
+        "Blackbelt 2 - Fighting Dojo": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -11988,9 +12081,10 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Rock Slide",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 568
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -12004,7 +12098,8 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Rock Slide",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 572
         },
         "Blackbelt (Viridian Gym)": {
             "level": 83,
@@ -12196,7 +12291,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 539
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 10 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -12210,7 +12305,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 609
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 63,
@@ -12533,7 +12629,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 356
         },
-        "Bruno (Fighting Dojo)": {
+        "Bruno": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -12546,9 +12642,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 573
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -12561,9 +12658,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 598
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 18 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -12576,7 +12674,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 670
         },
         "Beauty (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -12869,7 +12968,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 540
         },
-        "Blue 6 (Silph Co.)": {
+        "Blue 1 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -12883,9 +12982,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 652
         },
-        "Blue 6 1 (Silph Co.)": {
+        "Blue 2 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -12899,9 +12999,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 659
         },
-        "Blue 6 2 (Silph Co.)": {
+        "Blue 3 - Silph Co.": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -12915,7 +13016,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 664
         },
         "Tamer (Viridian Gym)": {
             "level": 81,
@@ -13408,7 +13510,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 527
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 17 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -13422,7 +13524,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 646
         },
         "Psychic (South room)": {
             "level": 69,
@@ -13573,7 +13676,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 528
         },
-        "Rocket 1 (Silph Co.)": {
+        "Rocket 6 - Silph Co.": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -13587,9 +13690,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 597
         },
-        "Rocket 2 (Silph Co.)": {
+        "Rocket 8 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -13603,9 +13707,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 607
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -13619,7 +13724,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 673
         },
         "Super Nerd 1 (Cinnabar Gym)": {
             "level": 77,
@@ -13839,7 +13945,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 408
         },
-        "Scientist (Silph Co.)": {
+        "Scientist 2 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -13853,9 +13959,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 586
         },
-        "Scientist 2 (Silph Co.)": {
+        "Scientist 5 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -13869,9 +13976,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 620
         },
-        "Scientist 3 (Silph Co.)": {
+        "Scientist 6 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -13885,7 +13993,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 625
         },
         "Psychic (South room)": {
             "level": 69,
@@ -14228,7 +14337,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 357
         },
-        "Rocket 8 (Silph Co.)": {
+        "Rocket 19 - Silph Co.": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -14241,9 +14350,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 677
         },
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -14256,7 +14366,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 682
         },
         "CoolTrainer M (Viridian Gym)": {
             "level": 84,
@@ -14522,7 +14633,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 566
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 3 - Silph Co.": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -14535,9 +14646,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 584
         },
-        "Rocket 5 (Silph Co.)": {
+        "Rocket 15 - Silph Co.": {
             "level": 66,
             "dvs": {
                 "hp": 8,
@@ -14550,7 +14662,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 631
         },
         "Swimmer (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -14776,7 +14889,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 436
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 1 - Silph Co.": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -14790,9 +14903,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 582
         },
-        "Rocket 6 (Silph Co.)": {
+        "Rocket 16 - Silph Co.": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -14806,7 +14920,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 642
         },
         "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
             "level": 62,
@@ -15815,7 +15930,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 562
         },
-        "Rocket (Silph Co.)": {
+        "Rocket 5 - Silph Co.": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -15829,7 +15944,8 @@ var SETDEX_RBY = {
                 "Sludge",
                 "Fire Blast",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 594
         }
     },
     "Wigglytuff": {
@@ -15987,7 +16103,7 @@ var SETDEX_RBY = {
         }
     },
     "Zapdos": {
-        "Giovanni 2 (Silph Co.)": {
+        "Giovanni - Silph Co.": {
             "level": 72,
             "dvs": {
                 "hp": 8,
@@ -16000,7 +16116,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 683
         },
         "Giovanni 3 (Viridian Gym)": {
             "level": 90,
