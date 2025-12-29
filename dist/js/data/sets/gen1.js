@@ -116,7 +116,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 643
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -130,9 +130,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 754
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 1 - Pok\u00e9mon Mansion": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -146,7 +147,8 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 768
         },
         "CoolTrainer M (Victory Road)": {
             "level": 88,
@@ -342,7 +344,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 705
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 2 - Pok\u00e9mon Mansion": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -355,9 +357,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 770
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -370,7 +373,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 798
         },
         "CoolTrainer M (Viridian Gym)": {
             "level": 82,
@@ -660,7 +664,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 668
         },
-        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+        "Beauty 4 - Route 20": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -673,9 +677,10 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Body Slam",
                 "Dig"
-            ]
+            ],
+			 "index": 762
         },
-        "Burglar 1 (Cinnabar Gym)": {
+        "Burglar 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -688,9 +693,10 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Body Slam",
                 "Dig"
-            ]
+            ],
+			 "index": 813
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 3 - Cinnabar Gym": {
             "level": 78,
             "dvs": {
                 "hp": 8,
@@ -703,7 +709,8 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Body Slam",
                 "Dig"
-            ]
+            ],
+			 "index": 816
         }
     },
     "Articuno": {
@@ -913,7 +920,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 499
         },
-        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 7 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -927,9 +934,10 @@ var SETDEX_RBY = {
                 "Hydro Pump",
                 "Blizzard",
                 "Earthquake"
-            ]
+            ],
+			 "index": 723
         },
-        "Swimmer (Sea Route 20 West (W of Seafoam Islands))": {
+        "Swimmer 3 - Route 20": {
             "level": 69,
             "dvs": {
                 "hp": 8,
@@ -943,9 +951,10 @@ var SETDEX_RBY = {
                 "Hydro Pump",
                 "Blizzard",
                 "Earthquake"
-            ]
+            ],
+			 "index": 758
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -959,7 +968,8 @@ var SETDEX_RBY = {
                 "Hydro Pump",
                 "Blizzard",
                 "Earthquake"
-            ]
+            ],
+			 "index": 788
         },
         "Prof. Oak (Indigo Plateau)": {
             "level": 115,
@@ -1163,7 +1173,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 645
         },
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -1177,7 +1187,8 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Thunderbolt",
                 "Ice Beam"
-            ]
+            ],
+			 "index": 823
         },
         "CoolTrainer F 1 (Victory Road)": {
             "level": 90,
@@ -1331,7 +1342,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 536
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -1345,9 +1356,10 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 752
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 3 - Cinnabar Gym": {
             "level": 78,
             "dvs": {
                 "hp": 8,
@@ -1361,9 +1373,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 818
         },
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -1377,7 +1390,8 @@ var SETDEX_RBY = {
                 "Slash",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 822
         },
         "Prof. Oak (Indigo Plateau)": {
             "level": 115,
@@ -1619,7 +1633,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 488
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 2 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -1633,7 +1647,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 729
         },
         "Juggler (Victory Road)": {
             "level": 90,
@@ -1830,7 +1845,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 674
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 4 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -1843,9 +1858,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 713
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -1858,9 +1874,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 740
         },
-        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+        "Beauty 3 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -1873,9 +1890,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 759
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -1888,9 +1906,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 778
         },
-        "Super Nerd (Cinnabar Gym)": {
+        "Super Nerd 1 - Cinnabar Gym": {
             "level": 76,
             "dvs": {
                 "hp": 8,
@@ -1903,9 +1922,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 800
         },
-        "Super Nerd 1 (Cinnabar Gym)": {
+        "Super Nerd 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -1918,7 +1938,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 807
         },
         "CoolTrainer M (Victory Road)": {
             "level": 87,
@@ -2139,7 +2160,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 505
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 2 - Route 19": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -2153,9 +2174,10 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Hydro Pump",
                 "Rest"
-            ]
+            ],
+			 "index": 710
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 2 - Route 20": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -2169,9 +2191,10 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Hydro Pump",
                 "Rest"
-            ]
+            ],
+			 "index": 742
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 1 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2185,7 +2208,8 @@ var SETDEX_RBY = {
                 "Horn Drill",
                 "Hydro Pump",
                 "Rest"
-            ]
+            ],
+			 "index": 774
         }
     },
     "Diglett": {
@@ -2278,7 +2302,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 637
         },
-        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+        "Beauty 2 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -2289,9 +2313,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 748
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -2302,7 +2327,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 810
         },
         "Juggler (Victory Road)": {
             "level": 100,
@@ -2479,7 +2505,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 665
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -2492,7 +2518,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 751
         },
         "Blackbelt (Victory Road)": {
             "level": 90,
@@ -2726,7 +2753,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 447
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2740,7 +2767,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Blizzard",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 793
         }
     },
     "Dragonite": {
@@ -2792,7 +2820,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 626
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 1 - Route 21": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -2805,9 +2833,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 776
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -2820,7 +2849,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 777
         },
         "CoolTrainer M (Viridian Gym)": {
             "level": 82,
@@ -3260,7 +3290,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 614
         },
-        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+        "Beauty 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -3274,7 +3304,8 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 738
         },
         "Tamer (Viridian Gym)": {
             "level": 83,
@@ -3833,7 +3864,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 650
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 2 - Pok\u00e9mon Mansion": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -3846,9 +3877,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 769
         },
-        "Super Nerd (Cinnabar Gym)": {
+        "Super Nerd 1 - Cinnabar Gym": {
             "level": 76,
             "dvs": {
                 "hp": 8,
@@ -3861,9 +3893,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 799
         },
-        "Super Nerd 1 (Cinnabar Gym)": {
+        "Super Nerd 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -3876,7 +3909,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 805
         },
         "CoolTrainer M (Victory Road)": {
             "level": 87,
@@ -4189,7 +4223,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 703
         },
-        "Super Nerd (Cinnabar Gym)": {
+        "Super Nerd 1 - Cinnabar Gym": {
             "level": 76,
             "dvs": {
                 "hp": 8,
@@ -4202,9 +4236,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+            ],
+			 "index": 801
         },
-        "Super Nerd 2 (Cinnabar Gym)": {
+        "Super Nerd 4 - Cinnabar Gym": {
             "level": 79,
             "dvs": {
                 "hp": 8,
@@ -4217,7 +4252,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+            ],
+			 "index": 821
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -4701,7 +4737,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 581
         },
-        "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
+        "Jr. Trainer F 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -4714,9 +4750,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Sand Attack",
                 "Fire Blast"
-            ]
+            ],
+			 "index": 747
         },
-        "Burglar (Pok\u00e9mon Mansion)": {
+        "Burglar 1 - Pok\u00e9mon Mansion": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -4730,9 +4767,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Fire Blast",
                 "Solar Beam"
-            ]
+            ],
+			 "index": 764
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 1 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -4746,9 +4784,10 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Fire Blast",
                 "Solar Beam"
-            ]
+            ],
+			 "index": 804
         },
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -4762,7 +4801,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Solar Beam",
                 "Sand Attack"
-            ]
+            ],
+			 "index": 825
         },
         "Blackbelt (Victory Road)": {
             "level": 90,
@@ -5035,7 +5075,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 698
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 3 - Pok\u00e9mon Mansion": {
             "level": 73,
             "dvs": {
                 "hp": 8,
@@ -5049,7 +5089,8 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 771
         },
         "Giovanni 3 (Viridian Gym)": {
             "level": 90,
@@ -5439,7 +5480,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 508
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 2 - Route 19": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -5453,9 +5494,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 709
         },
-        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 7 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -5469,9 +5511,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 724
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -5485,9 +5528,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 753
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -5501,7 +5545,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hypnosis",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 783
         }
     },
     "Golem": {
@@ -5709,7 +5754,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 628
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -5723,9 +5768,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 796
         },
-        "Super Nerd 1 (Cinnabar Gym)": {
+        "Super Nerd 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -5739,7 +5785,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 806
         },
         "Blackbelt (Viridian Gym)": {
             "level": 83,
@@ -6086,7 +6133,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 667
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -6100,9 +6147,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 741
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -6116,9 +6164,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 779
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 3 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -6132,9 +6181,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 784
         },
-        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+        "Cue Ball 1 - Route 21": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -6148,7 +6198,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 791
         }
     },
     "Haunter": {
@@ -6659,7 +6710,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 702
         },
-        "Burglar (Pok\u00e9mon Mansion)": {
+        "Burglar 3 - Pok\u00e9mon Mansion": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -6672,9 +6723,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Thunder Wave",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 773
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 3 - Cinnabar Gym": {
             "level": 78,
             "dvs": {
                 "hp": 8,
@@ -6687,7 +6739,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Thunder Wave",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 819
         },
         "Juggler (Victory Road)": {
             "level": 90,
@@ -6987,7 +7040,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 611
         },
-        "Jr. Trainer F (Sea Route 20 East (E of Seafoam Islands))": {
+        "Jr. Trainer F 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -7001,9 +7054,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 746
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 1 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -7017,9 +7071,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 802
         },
-        "Burglar 1 (Cinnabar Gym)": {
+        "Burglar 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -7033,7 +7088,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 812
         },
         "Blackbelt (Viridian Gym)": {
             "level": 84,
@@ -7245,7 +7301,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 700
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 1 - Route 19": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -7258,7 +7314,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 728
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -7420,7 +7477,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 577
         },
-        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 6 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -7434,7 +7491,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Slash",
                 "Dig"
-            ]
+            ],
+			 "index": 719
         }
     },
     "Kadabra": {
@@ -7836,7 +7894,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 671
         },
-        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+        "Beauty 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -7849,9 +7907,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 739
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -7864,7 +7923,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 795
         },
         "Lance (Indigo Plateau)": {
             "level": 115,
@@ -7978,7 +8038,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 522
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 3 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -7991,9 +8051,10 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+            ],
+			 "index": 712
         },
-        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 7 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -8006,7 +8067,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+            ],
+			 "index": 725
         },
         "Tamer (Victory Road)": {
             "level": 89,
@@ -8215,7 +8277,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 687
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 3 - Pok\u00e9mon Mansion": {
             "level": 73,
             "dvs": {
                 "hp": 8,
@@ -8229,9 +8291,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 772
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -8245,7 +8308,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 782
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -8551,7 +8615,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 630
         },
-        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+        "Cue Ball 1 - Route 21": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -8565,9 +8629,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 790
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -8581,7 +8646,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 794
         },
         "Blackbelt (Viridian Gym)": {
             "level": 84,
@@ -8732,7 +8798,7 @@ var SETDEX_RBY = {
         }
     },
     "Magikarp": {
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 3 - Route 21": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -8745,7 +8811,8 @@ var SETDEX_RBY = {
                 "Splash",
                 "Bubble",
                 "Tackle"
-            ]
+            ],
+			 "index": 787
         }
     },
     "Magmar": {
@@ -8868,7 +8935,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 526
         },
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -8882,7 +8949,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Solar Beam",
                 "Thunderbolt"
-            ]
+            ],
+			 "index": 826
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -9023,7 +9091,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 632
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 1 - Pok\u00e9mon Mansion": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -9037,9 +9105,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+            ],
+			 "index": 766
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 3 - Cinnabar Gym": {
             "level": 78,
             "dvs": {
                 "hp": 8,
@@ -9053,7 +9122,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Double Team",
                 "Double-Edge"
-            ]
+            ],
+			 "index": 817
         }
     },
     "Mankey": {
@@ -9597,7 +9667,7 @@ var SETDEX_RBY = {
         }
     },
     "Moltres": {
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -9610,7 +9680,8 @@ var SETDEX_RBY = {
                 "Fire Blast",
                 "Sky Attack",
                 "Solar Beam"
-            ]
+            ],
+			 "index": 827
         }
     },
     "Mr. Mime": {
@@ -10331,7 +10402,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 679
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 3 - Route 19": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -10345,7 +10416,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 734
         },
         "Blackbelt (Viridian Gym)": {
             "level": 84,
@@ -10559,7 +10631,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 432
         },
-        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+        "Jr. Trainer F 2 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -10570,9 +10642,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+            ],
+			 "index": 755
         },
-        "Burglar (Pok\u00e9mon Mansion)": {
+        "Burglar 2 - Pok\u00e9mon Mansion": {
             "level": 75,
             "dvs": {
                 "hp": 8,
@@ -10583,9 +10656,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+            ],
+			 "index": 765
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -10596,7 +10670,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Fire Spin"
-            ]
+            ],
+			 "index": 809
         }
     },
     "Oddish": {
@@ -10721,7 +10796,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 640
         },
-        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 6 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -10735,9 +10810,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+            ],
+			 "index": 721
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 3 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -10751,9 +10827,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+            ],
+			 "index": 786
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 3 - Cinnabar Gym": {
             "level": 78,
             "dvs": {
                 "hp": 8,
@@ -10767,7 +10844,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Seismic Toss",
                 "Body Slam"
-            ]
+            ],
+			 "index": 815
         }
     },
     "Onix": {
@@ -10835,7 +10913,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 521
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 5 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -10848,7 +10926,8 @@ var SETDEX_RBY = {
                 "Bind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 716
         }
     },
     "Paras": {
@@ -11054,7 +11133,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 678
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 2 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -11066,7 +11145,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 732
         },
         "Tamer (Viridian Gym)": {
             "level": 81,
@@ -11296,7 +11376,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 506
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -11310,7 +11390,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Quick Attack",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 749
         }
     },
     "Pidgeotto": {
@@ -11728,7 +11809,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 574
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 3 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -11742,9 +11823,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 711
         },
-        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 7 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -11758,9 +11840,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 722
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 2 - Route 20": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -11774,9 +11857,10 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 744
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 1 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -11790,7 +11874,8 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 775
         },
         "Blackbelt (Viridian Gym)": {
             "level": 83,
@@ -12016,7 +12101,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 639
         },
-        "Bird Keeper (Sea Route 20 East (E of Seafoam Islands))": {
+        "Bird Keeper 1 - Route 20": {
             "level": 65,
             "dvs": {
                 "hp": 8,
@@ -12030,7 +12115,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 750
         }
     },
     "Primeape": {
@@ -12326,7 +12412,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 609
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 3 - Route 19": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -12340,7 +12426,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 736
         },
         "Pok\u00e9Maniac (Victory Road)": {
             "level": 87,
@@ -12434,7 +12521,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 434
         },
-        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+        "Beauty 3 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -12445,9 +12532,10 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Horn Drill"
-            ]
+            ],
+			 "index": 760
         },
-        "Blaine (Cinnabar Gym)": {
+        "Blaine": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -12459,7 +12547,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Horn Drill",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 824
         },
         "Tamer (Victory Road)": {
             "level": 89,
@@ -12596,7 +12685,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 461
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 1 - Route 19": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -12610,7 +12699,8 @@ var SETDEX_RBY = {
                 "Super Fang",
                 "Dig",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 707
         }
     },
     "Rattata": {
@@ -12695,7 +12785,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 670
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 2 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -12708,7 +12798,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 731
         },
         "Blackbelt (Viridian Gym)": {
             "level": 84,
@@ -13173,7 +13264,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 497
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 1 - Route 19": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -13187,9 +13278,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Hydro Pump",
                 "SmokeScreen"
-            ]
+            ],
+			 "index": 706
         },
-        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 6 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -13203,9 +13295,10 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Hydro Pump",
                 "SmokeScreen"
-            ]
+            ],
+			 "index": 720
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 2 - Route 20": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -13219,7 +13312,8 @@ var SETDEX_RBY = {
                 "Toxic",
                 "Hydro Pump",
                 "SmokeScreen"
-            ]
+            ],
+			 "index": 745
         }
     },
     "Seaking": {
@@ -13286,7 +13380,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 478
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 1 - Route 19": {
             "level": 60,
             "dvs": {
                 "hp": 8,
@@ -13300,9 +13394,10 @@ var SETDEX_RBY = {
                 "Bubble Beam",
                 "Waterfall",
                 "Agility"
-            ]
+            ],
+			 "index": 708
         },
-        "Swimmer 1 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 6 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -13316,7 +13411,8 @@ var SETDEX_RBY = {
                 "Bubble Beam",
                 "Waterfall",
                 "Agility"
-            ]
+            ],
+			 "index": 718
         }
     },
     "Seel": {
@@ -13579,7 +13675,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 701
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 4 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -13593,9 +13689,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 714
         },
-        "Swimmer (Sea Route 20 East (E of Seafoam Islands))": {
+        "Swimmer 2 - Route 20": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -13609,9 +13706,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 743
         },
-        "Super Nerd (Cinnabar Gym)": {
+        "Super Nerd 3 - Cinnabar Gym": {
             "level": 80,
             "dvs": {
                 "hp": 8,
@@ -13625,7 +13723,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 814
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -13747,7 +13846,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 673
         },
-        "Super Nerd 1 (Cinnabar Gym)": {
+        "Super Nerd 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -13761,9 +13860,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 808
         },
-        "Super Nerd (Cinnabar Gym)": {
+        "Super Nerd 4 - Cinnabar Gym": {
             "level": 79,
             "dvs": {
                 "hp": 8,
@@ -13777,7 +13877,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 820
         },
         "CoolTrainer M (Viridian Gym)": {
             "level": 83,
@@ -14050,7 +14151,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 704
         },
-        "Scientist (Pok\u00e9mon Mansion)": {
+        "Scientist 1 - Pok\u00e9mon Mansion": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -14064,9 +14165,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 767
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -14080,9 +14182,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 781
         },
-        "Fisherman (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -14096,7 +14199,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 797
         },
         "CoolTrainer M (Viridian Gym)": {
             "level": 83,
@@ -14296,7 +14400,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 316
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 3 - Route 19": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -14309,9 +14413,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+            ],
+			 "index": 735
         },
-        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+        "Beauty 4 - Route 20": {
             "level": 68,
             "dvs": {
                 "hp": 8,
@@ -14324,7 +14429,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+            ],
+			 "index": 763
         },
         "Tamer (Victory Road)": {
             "level": 89,
@@ -14687,7 +14793,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 631
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 5 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -14700,9 +14806,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 717
         },
-        "Fisherman 1 (Sea Route 21 (N of Cinnabar))": {
+        "Fisherman 2 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -14715,9 +14822,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 780
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 3 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -14730,9 +14838,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 785
         },
-        "Cue Ball (Sea Route 21 (N of Cinnabar))": {
+        "Cue Ball 1 - Route 21": {
             "level": 71,
             "dvs": {
                 "hp": 8,
@@ -14745,9 +14854,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 792
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 2 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -14760,7 +14870,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 811
         },
         "CoolTrainer M (Victory Road)": {
             "level": 88,
@@ -14945,7 +15056,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 642
         },
-        "Swimmer 2 (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 7 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -14959,9 +15070,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 726
         },
-        "Swimmer (Sea Route 21 (N of Cinnabar))": {
+        "Swimmer 4 - Route 21": {
             "level": 70,
             "dvs": {
                 "hp": 8,
@@ -14975,9 +15087,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 789
         },
-        "Burglar (Cinnabar Gym)": {
+        "Burglar 1 - Cinnabar Gym": {
             "level": 77,
             "dvs": {
                 "hp": 8,
@@ -14991,7 +15104,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 803
         },
         "Blackbelt (Victory Road)": {
             "level": 90,
@@ -15123,7 +15237,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 561
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 2 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -15136,7 +15250,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Stun Spore",
                 "Sleep Powder"
-            ]
+            ],
+			 "index": 733
         }
     },
     "Venonat": {
@@ -15375,7 +15490,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 555
         },
-        "Beauty (Sea Route 20 East (E of Seafoam Islands))": {
+        "Beauty 1 - Route 20": {
             "level": 64,
             "dvs": {
                 "hp": 8,
@@ -15389,9 +15504,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 737
         },
-        "Beauty (Sea Route 20 West (W of Seafoam Islands))": {
+        "Beauty 3 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -15405,7 +15521,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Razor Leaf",
                 "Double Team"
-            ]
+            ],
+			 "index": 761
         },
         "Prof. Oak (Indigo Plateau)": {
             "level": 115,
@@ -15509,7 +15626,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 553
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 2 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -15523,7 +15640,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Body Slam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 730
         }
     },
     "Vileplume": {
@@ -15575,7 +15693,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 475
         },
-        "Beauty (Sea Route 19 (S of Fuchsia))": {
+        "Beauty 1 - Route 19": {
             "level": 63,
             "dvs": {
                 "hp": 8,
@@ -15588,9 +15706,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Petal Dance"
-            ]
+            ],
+			 "index": 727
         },
-        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+        "Jr. Trainer F 2 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -15603,7 +15722,8 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Petal Dance"
-            ]
+            ],
+			 "index": 756
         }
     },
     "Voltorb": {
@@ -15764,7 +15884,7 @@ var SETDEX_RBY = {
 			  ],
 			  "index": 227
         },
-        "Swimmer (Sea Route 19 (S of Fuchsia))": {
+        "Swimmer 5 - Route 19": {
             "level": 62,
             "dvs": {
                 "hp": 8,
@@ -15778,7 +15898,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Dig",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 715
         }
     },
     "Weedle": {
@@ -16107,7 +16228,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 435
         },
-        "Jr. Trainer F (Sea Route 20 West (W of Seafoam Islands))": {
+        "Jr. Trainer F 2 - Route 20": {
             "level": 67,
             "dvs": {
                 "hp": 8,
@@ -16121,7 +16242,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Double-Edge",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 757
         }
     },
     "Zapdos": {
