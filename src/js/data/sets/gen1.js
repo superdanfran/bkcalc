@@ -376,7 +376,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 798
         },
-        "CoolTrainer M (Viridian Gym)": {
+        "CoolTrainer M 1 - Viridian Gym": {
             "level": 82,
             "dvs": {
                 "hp": 8,
@@ -389,7 +389,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 832
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -2852,7 +2853,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 777
         },
-        "CoolTrainer M (Viridian Gym)": {
+        "CoolTrainer M 1 - Viridian Gym": {
             "level": 82,
             "dvs": {
                 "hp": 8,
@@ -2865,7 +2866,8 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 831
         },
         "Pok\u00e9Maniac (Victory Road)": {
             "level": 87,
@@ -3307,7 +3309,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 738
         },
-        "Tamer (Viridian Gym)": {
+        "Tamer 2 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -3321,9 +3323,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 833
         },
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -3337,7 +3340,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Slash"
-            ]
+            ],
+			 "index": 845
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -5092,7 +5096,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 771
         },
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -5106,7 +5110,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Night Shade",
                 "Explosion"
-            ]
+            ],
+			 "index": 847
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -5788,7 +5793,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 806
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 2 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -5802,7 +5807,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 834
         },
         "CoolTrainer M (Victory Road)": {
             "level": 87,
@@ -7091,7 +7097,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 812
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -7105,7 +7111,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 840
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -8649,7 +8656,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 794
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -8663,7 +8670,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 843
         },
         "Pok\u00e9Maniac (Victory Road)": {
             "level": 87,
@@ -9617,7 +9625,7 @@ var SETDEX_RBY = {
         }
     },
     "Mewtwo": {
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -9631,7 +9639,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Body Slam",
                 "Recover"
-            ]
+            ],
+			 "index": 849
         },
         "Blue 8 (Indigo Plateau)": {
             "level": 115,
@@ -10198,7 +10207,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 564
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -10212,7 +10221,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 841
         },
         "Blackbelt (Victory Road)": {
             "level": 90,
@@ -10419,7 +10429,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 734
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -10433,7 +10443,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Thunderbolt",
                 "Blizzard"
-            ]
+            ],
+			 "index": 842
         },
         "Lorelei (Indigo Plateau)": {
             "level": 115,
@@ -11148,7 +11159,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 732
         },
-        "Tamer (Viridian Gym)": {
+        "Tamer 1 - Viridian Gym": {
             "level": 81,
             "dvs": {
                 "hp": 8,
@@ -11160,9 +11171,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 828
         },
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -11174,7 +11186,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 844
         },
         "CoolTrainer F (Victory Road)": {
             "level": 90,
@@ -11877,7 +11890,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 775
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 1 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -11891,7 +11904,8 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 830
         }
     },
     "Ponyta": {
@@ -12205,7 +12219,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 572
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 2 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -12219,7 +12233,8 @@ var SETDEX_RBY = {
                 "Seismic Toss",
                 "Rock Slide",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 835
         }
     },
     "Psyduck": {
@@ -12801,7 +12816,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 731
         },
-        "Blackbelt (Viridian Gym)": {
+        "Blackbelt 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -12814,7 +12829,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 839
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -13128,7 +13144,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 664
         },
-        "Tamer (Viridian Gym)": {
+        "Tamer 1 - Viridian Gym": {
             "level": 81,
             "dvs": {
                 "hp": 8,
@@ -13142,7 +13158,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Body Slam"
-            ]
+            ],
+			 "index": 829
         }
     },
     "Scyther": {
@@ -13880,7 +13897,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 820
         },
-        "CoolTrainer M (Viridian Gym)": {
+        "CoolTrainer M 2 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -13894,7 +13911,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 836
         },
         "CoolTrainer M (Victory Road)": {
             "level": 87,
@@ -14202,7 +14220,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 797
         },
-        "CoolTrainer M (Viridian Gym)": {
+        "CoolTrainer M 2 - Viridian Gym": {
             "level": 83,
             "dvs": {
                 "hp": 8,
@@ -14216,7 +14234,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 837
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -14497,7 +14516,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 682
         },
-        "CoolTrainer M (Viridian Gym)": {
+        "CoolTrainer M 3 - Viridian Gym": {
             "level": 84,
             "dvs": {
                 "hp": 8,
@@ -14510,9 +14529,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 838
         },
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -14525,7 +14545,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 848
         },
         "Blue 7 (Route 22 (W of Viridian))": {
             "level": 85,
@@ -16263,7 +16284,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 683
         },
-        "Giovanni 3 (Viridian Gym)": {
+        "Giovanni - Viridian Gym": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -16276,7 +16297,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 846
         }
     },
     "Zubat": {
