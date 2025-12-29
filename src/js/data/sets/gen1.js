@@ -150,7 +150,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 768
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -164,9 +164,10 @@ var SETDEX_RBY = {
                 "Razor Wind",
                 "Earthquake",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 899
         },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -180,23 +181,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Razor Wind"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Sky Attack",
-                "Rock Slide",
-                "Earthquake",
-                "Razor Wind"
-            ]
+            ],
+			 "index": 939
         }
     },
     "Alakazam": {
@@ -392,7 +378,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 832
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -405,9 +391,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 858
         },
-        "Juggler (Victory Road)": {
+        "Juggler 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -420,9 +407,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 890
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -435,9 +423,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
+            ],
+			 "index": 907
         },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -450,22 +439,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Psychic",
                 "Recover"
-            ]
-        },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunder Wave",
-                "Psychic",
-                "Recover"
-            ]
+            ],
+			 "index": 933
         }
     },
     "Arbok": {
@@ -715,7 +690,7 @@ var SETDEX_RBY = {
         }
     },
     "Articuno": {
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -727,21 +702,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Blizzard",
                 "Sky Attack"
-            ]
-        },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Blizzard",
-                "Sky Attack"
-            ]
+            ],
+			 "index": 921
         }
     },
     "Beedrill": {
@@ -972,7 +934,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 788
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -986,23 +948,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Earthquake",
                 "Body Slam"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hydro Pump",
-                "Blizzard",
-                "Earthquake",
-                "Body Slam"
-            ]
+            ],
+			 "index": 927
         }
     },
     "Bulbasaur": {
@@ -1191,7 +1138,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 823
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -1205,9 +1152,10 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Thunderbolt",
                 "Ice Beam"
-            ]
+            ],
+			 "index": 908
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -1221,23 +1169,8 @@ var SETDEX_RBY = {
                 "Ice Beam",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Softboiled",
-                "Ice Beam",
-                "Thunderbolt",
-                "Thunder Wave"
-            ]
+            ],
+			 "index": 924
         }
     },
     "Charizard": {
@@ -1394,7 +1327,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 822
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -1408,23 +1341,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Slash",
                 "Body Slam"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Fire Blast",
-                "Earthquake",
-                "Slash",
-                "Body Slam"
-            ]
+            ],
+			 "index": 925
         }
     },
     "Charmander": {
@@ -1651,7 +1569,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 729
         },
-        "Juggler (Victory Road)": {
+        "Juggler 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -1665,7 +1583,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Psychic",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 887
         }
     },
     "Clefairy": {
@@ -1942,7 +1861,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 807
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -1955,9 +1874,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Blizzard",
                 "Clamp"
-            ]
+            ],
+			 "index": 864
         },
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -1970,22 +1890,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Explosion",
                 "Clamp"
-            ]
-        },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Blizzard",
-                "Explosion",
-                "Clamp"
-            ]
+            ],
+			 "index": 916
         }
     },
     "Cubone": {
@@ -2331,7 +2237,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 810
         },
-        "Juggler (Victory Road)": {
+        "Juggler 2 - Victory Road": {
             "level": 100,
             "dvs": {
                 "hp": 8,
@@ -2342,7 +2248,8 @@ var SETDEX_RBY = {
             },
             "moves": [
                 "Transform"
-            ]
+            ],
+			 "index": 891
         }
     },
     "Dodrio": {
@@ -2522,7 +2429,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 751
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -2535,7 +2442,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Hyper Beam",
                 "Drill Peck"
-            ]
+            ],
+			 "index": 884
         }
     },
     "Doduo": {
@@ -2869,7 +2777,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 831
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -2882,9 +2790,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 878
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -2897,9 +2806,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Blizzard",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 901
         },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -2911,25 +2821,9 @@ var SETDEX_RBY = {
             "moves": [
                 "Thunder Wave",
                 "Blizzard",
-                "Wrap",
-                "Thunderbolt"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunder Wave",
-                "Blizzard",
-                "Wrap",
-                "Thunderbolt"
-            ]
+                "Wrap"
+            ],
+			 "index": 937
         }
     },
     "Dratini": {
@@ -3343,7 +3237,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 845
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -3357,9 +3251,10 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 857
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -3373,11 +3268,12 @@ var SETDEX_RBY = {
                 "Fissure",
                 "Slash",
                 "Earthquake"
-            ]
+            ],
+			 "index": 868
         }
     },
     "Eevee": {
-        "Blue - Route 22": {
+        "Blue 1 - Route 22": {
             "level": 9,
             "dvs": {
                 "hp": 8,
@@ -3578,7 +3474,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 629
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -3592,9 +3488,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Ice Punch",
                 "Psychic"
-            ]
+            ],
+			 "index": 892
         },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -3608,23 +3505,8 @@ var SETDEX_RBY = {
                 "Ice Punch",
                 "Psychic",
                 "Thunder Wave"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunderbolt",
-                "Ice Punch",
-                "Psychic",
-                "Thunder Wave"
-            ]
+            ],
+			 "index": 936
         }
     },
     "Electrode": {
@@ -3916,7 +3798,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 805
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -3929,9 +3811,10 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 862
         },
-        "Juggler (Victory Road)": {
+        "Juggler 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -3944,7 +3827,8 @@ var SETDEX_RBY = {
                 "Explosion",
                 "Thunderbolt",
                 "Thunder Wave"
-            ]
+            ],
+			 "index": 889
         }
     },
     "Exeggcute": {
@@ -4259,7 +4143,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 821
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -4272,9 +4156,10 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
+            ],
+			 "index": 853
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -4287,9 +4172,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 856
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -4302,9 +4188,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 867
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -4317,9 +4204,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 905
         },
-        "CoolTrainer M 2 (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -4332,9 +4220,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 914
         },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -4347,24 +4236,10 @@ var SETDEX_RBY = {
                 "Sleep Powder",
                 "Stun Spore",
                 "Psychic"
-            ]
+            ],
+			 "index": 929
         },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Sleep Powder",
-                "Stun Spore",
-                "Psychic"
-            ]
-        },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -4377,22 +4252,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Psychic"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Stun Spore",
-                "Sleep Powder",
-                "Psychic"
-            ]
+            ],
+			 "index": 942
         }
     },
     "Farfetch\u2019d": {
@@ -4808,7 +4669,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 825
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -4822,7 +4683,8 @@ var SETDEX_RBY = {
                 "Sand Attack",
                 "Fire Blast",
                 "Solar Beam"
-            ]
+            ],
+			 "index": 881
         }
     },
     "Gastly": {
@@ -5113,7 +4975,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 847
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -5127,9 +4989,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 859
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -5143,9 +5006,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 866
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -5159,9 +5023,10 @@ var SETDEX_RBY = {
                 "Hypnosis",
                 "Psychic",
                 "Night Shade"
-            ]
+            ],
+			 "index": 877
         },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -5175,23 +5040,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Seismic Toss",
                 "Night Shade"
-            ]
-        },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hypnosis",
-                "Psychic",
-                "Seismic Toss",
-                "Night Shade"
-            ]
+            ],
+			 "index": 932
         }
     },
     "Geodude": {
@@ -5810,7 +5660,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 834
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -5824,7 +5674,8 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "Explosion"
-            ]
+            ],
+			 "index": 863
         }
     },
     "Graveler": {
@@ -6748,7 +6599,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 819
         },
-        "Juggler (Victory Road)": {
+        "Juggler 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -6761,9 +6612,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 886
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -6776,9 +6628,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 894
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -6791,9 +6644,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
+            ],
+			 "index": 910
         },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -6806,22 +6660,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Hypnosis",
                 "Psychic"
-            ]
-        },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunder Wave",
-                "Hypnosis",
-                "Psychic"
-            ]
+            ],
+			 "index": 928
         }
     },
     "Ivysaur": {
@@ -7114,7 +6954,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 840
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -7128,9 +6968,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Body Slam",
                 "Sand Attack"
-            ]
+            ],
+			 "index": 850
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -7144,9 +6985,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 880
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -7160,9 +7002,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 898
         },
-        "CoolTrainer M 2 (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -7176,9 +7019,10 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Thunderbolt",
                 "Body Slam"
-            ]
+            ],
+			 "index": 911
         },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -7192,23 +7036,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Body Slam",
                 "Sand Attack"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunderbolt",
-                "Thunder Wave",
-                "Body Slam",
-                "Sand Attack"
-            ]
+            ],
+			 "index": 941
         }
     },
     "Jynx": {
@@ -7324,7 +7153,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 728
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -7337,9 +7166,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 893
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -7352,9 +7182,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Lovely Kiss",
                 "Blizzard"
-            ]
+            ],
+			 "index": 904
         },
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -7367,24 +7198,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Lovely Kiss",
                 "Psychic"
-            ]
+            ],
+			 "index": 919
         },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Blizzard",
-                "Lovely Kiss",
-                "Psychic"
-            ]
-        },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -7397,22 +7214,8 @@ var SETDEX_RBY = {
                 "Lovely Kiss",
                 "Blizzard",
                 "Psychic"
-            ]
-        },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Lovely Kiss",
-                "Blizzard",
-                "Psychic"
-            ]
+            ],
+			 "index": 931
         }
     },
     "Kabuto": {
@@ -7933,7 +7736,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 795
         },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -7946,22 +7749,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hyper Beam",
-                "Body Slam",
-                "Earthquake"
-            ]
+            ],
+			 "index": 934
         }
     },
     "Kingler": {
@@ -8077,7 +7866,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 725
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -8090,7 +7879,8 @@ var SETDEX_RBY = {
                 "Crabhammer",
                 "Body Slam",
                 "Guillotine"
-            ]
+            ],
+			 "index": 871
         }
     },
     "Koffing": {
@@ -8318,7 +8108,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 782
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -8332,9 +8122,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Blizzard",
                 "Surf"
-            ]
+            ],
+			 "index": 896
         },
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -8348,25 +8139,10 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Surf",
                 "Body Slam"
-            ]
+            ],
+			 "index": 920
         },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Blizzard",
-                "Thunderbolt",
-                "Surf",
-                "Body Slam"
-            ]
-        },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -8380,23 +8156,8 @@ var SETDEX_RBY = {
                 "Surf",
                 "Thunderbolt",
                 "Body Slam"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Blizzard",
-                "Surf",
-                "Thunderbolt",
-                "Body Slam"
-            ]
+            ],
+			 "index": 935
         }
     },
     "Lickitung": {
@@ -8673,7 +8434,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 843
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -8687,9 +8448,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 875
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -8703,9 +8465,10 @@ var SETDEX_RBY = {
                 "Rock Slide",
                 "Earthquake",
                 "High Jump Kick"
-            ]
+            ],
+			 "index": 885
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -8719,23 +8482,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "High Jump Kick",
-                "Earthquake",
-                "Rock Slide",
-                "Body Slam"
-            ]
+            ],
+			 "index": 923
         }
     },
     "Machoke": {
@@ -8960,7 +8708,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 826
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -8974,7 +8722,8 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Fire Blast",
                 "Solar Beam"
-            ]
+            ],
+			 "index": 897
         }
     },
     "Magnemite": {
@@ -9389,7 +9138,7 @@ var SETDEX_RBY = {
             ],
             "index": 1
         },
-        "Blue - Route 22": {
+        "Blue 1 - Route 22": {
             "level": 8,
             "dvs": {
                 "hp": 8,
@@ -9575,7 +9324,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 669
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -9589,9 +9338,10 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Thunder Wave",
                 "Body Slam"
-            ]
+            ],
+			 "index": 855
         },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -9605,23 +9355,8 @@ var SETDEX_RBY = {
                 "Softboiled",
                 "Thunder Wave",
                 "Body Slam"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Psychic",
-                "Softboiled",
-                "Thunder Wave",
-                "Body Slam"
-            ]
+            ],
+			 "index": 940
         }
     },
     "Mewtwo": {
@@ -9642,7 +9377,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 849
         },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -9656,23 +9391,8 @@ var SETDEX_RBY = {
                 "Recover",
                 "Thunder Wave",
                 "Body Slam"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Psychic",
-                "Recover",
-                "Thunder Wave",
-                "Body Slam"
-            ]
+            ],
+			 "index": 945
         }
     },
     "Moltres": {
@@ -10224,7 +9944,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 841
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -10238,7 +9958,8 @@ var SETDEX_RBY = {
                 "Thunderbolt",
                 "Lovely Kiss",
                 "Earthquake"
-            ]
+            ],
+			 "index": 883
         }
     },
     "Nidoqueen": {
@@ -10446,7 +10167,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 842
         },
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -10460,23 +10181,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Lovely Kiss",
                 "Thunderbolt"
-            ]
-        },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Earthquake",
-                "Blizzard",
-                "Lovely Kiss",
-                "Thunderbolt"
-            ]
+            ],
+			 "index": 917
         }
     },
     "Nidoran-F": {
@@ -11189,7 +10895,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 844
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -11201,9 +10907,10 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 860
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -11215,7 +10922,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Hypnosis",
                 "Slash"
-            ]
+            ],
+			 "index": 873
         }
     },
     "Pidgeot": {
@@ -11631,7 +11339,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 534
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -11645,7 +11353,8 @@ var SETDEX_RBY = {
                 "Guillotine",
                 "Body Slam",
                 "Slash"
-            ]
+            ],
+			 "index": 872
         }
     },
     "Poliwag": {
@@ -12444,7 +12153,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 736
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -12458,9 +12167,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Thunder Wave",
                 "Surf"
-            ]
+            ],
+			 "index": 874
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -12474,23 +12184,8 @@ var SETDEX_RBY = {
                 "Thunder Wave",
                 "Surf",
                 "Body Slam"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunderbolt",
-                "Thunder Wave",
-                "Surf",
-                "Body Slam"
-            ]
+            ],
+			 "index": 922
         }
     },
     "Rapidash": {
@@ -12565,7 +12260,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 824
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -12577,7 +12272,8 @@ var SETDEX_RBY = {
             "moves": [
                 "Horn Drill",
                 "Hypnosis"
-            ]
+            ],
+			 "index": 870
         }
     },
     "Raticate": {
@@ -12832,7 +12528,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 839
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -12845,9 +12541,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Rock Slide",
                 "Body Slam"
-            ]
+            ],
+			 "index": 851
         },
-        "CoolTrainer M 2 (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -12860,7 +12557,8 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Body Slam",
                 "Rock Slide"
-            ]
+            ],
+			 "index": 913
         }
     },
     "Rhyhorn": {
@@ -13743,7 +13441,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 814
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -13757,9 +13455,10 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 861
         },
-        "Juggler (Victory Road)": {
+        "Juggler 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -13773,7 +13472,8 @@ var SETDEX_RBY = {
                 "Psychic",
                 "Surf",
                 "Amnesia"
-            ]
+            ],
+			 "index": 888
         }
     },
     "Slowpoke": {
@@ -13914,7 +13614,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 836
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -13928,9 +13628,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 865
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -13944,9 +13645,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 879
         },
-        "CoolTrainer F (Victory Road)": {
+        "CoolTrainer F 2 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -13960,9 +13662,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Hyper Beam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 895
         },
-        "CoolTrainer M 1 (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -13976,9 +13679,10 @@ var SETDEX_RBY = {
                 "Earthquake",
                 "Hyper Beam",
                 "Lovely Kiss"
-            ]
+            ],
+			 "index": 903
         },
-        "Lance (Indigo Plateau)": {
+        "Lance": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -13992,23 +13696,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
-        },
-        "Lance 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Lovely Kiss",
-                "Hyper Beam",
-                "Body Slam",
-                "Earthquake"
-            ]
+            ],
+			 "index": 938
         }
     },
     "Spearow": {
@@ -14237,7 +13926,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 837
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -14251,9 +13940,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 854
         },
-        "Pok\u00e9Maniac (Victory Road)": {
+        "Pok\u00e9Maniac 1 - Victory Road": {
             "level": 87,
             "dvs": {
                 "hp": 8,
@@ -14267,9 +13957,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 876
         },
-        "CoolTrainer M 2 (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -14283,9 +13974,10 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
+            ],
+			 "index": 912
         },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -14299,23 +13991,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Thunderbolt",
                 "Recover"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Thunder Wave",
-                "Blizzard",
-                "Thunderbolt",
-                "Recover"
-            ]
+            ],
+			 "index": 943
         }
     },
     "Staryu": {
@@ -14451,7 +14128,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 763
         },
-        "Tamer (Victory Road)": {
+        "Tamer 1 - Victory Road": {
             "level": 89,
             "dvs": {
                 "hp": 8,
@@ -14464,7 +14141,8 @@ var SETDEX_RBY = {
                 "Stun Spore",
                 "Sleep Powder",
                 "Wrap"
-            ]
+            ],
+			 "index": 869
         }
     },
     "Tauros": {
@@ -14548,7 +14226,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 848
         },
-        "Blue 7 (Route 22 (W of Viridian))": {
+        "Blue 2 - Route 22": {
             "level": 85,
             "dvs": {
                 "hp": 8,
@@ -14561,9 +14239,10 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
+            ],
+			 "index": 852
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -14576,9 +14255,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 900
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -14591,9 +14271,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 906
         },
-        "CoolTrainer M 2 (Victory Road)": {
+        "CoolTrainer M 3 - Victory Road": {
             "level": 92,
             "dvs": {
                 "hp": 8,
@@ -14606,9 +14287,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Earthquake",
                 "Hyper Beam"
-            ]
+            ],
+			 "index": 915
         },
-        "Blue 8 (Indigo Plateau)": {
+        "Champion Blue": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -14621,22 +14303,8 @@ var SETDEX_RBY = {
                 "Hyper Beam",
                 "Body Slam",
                 "Earthquake"
-            ]
-        },
-        "Blue 8 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hyper Beam",
-                "Body Slam",
-                "Earthquake"
-            ]
+            ],
+			 "index": 944
         }
     },
     "Tentacool": {
@@ -14894,7 +14562,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 811
         },
-        "CoolTrainer M (Victory Road)": {
+        "CoolTrainer M 2 - Victory Road": {
             "level": 88,
             "dvs": {
                 "hp": 8,
@@ -14907,9 +14575,10 @@ var SETDEX_RBY = {
                 "Wrap",
                 "Surf",
                 "Blizzard"
-            ]
+            ],
+			 "index": 902
         },
-        "Agatha (Indigo Plateau)": {
+        "Agatha": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -14922,22 +14591,8 @@ var SETDEX_RBY = {
                 "Surf",
                 "Blizzard",
                 "Wrap"
-            ]
-        },
-        "Agatha 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Surf",
-                "Blizzard",
-                "Wrap"
-            ]
+            ],
+			 "index": 930
         }
     },
     "Vaporeon": {
@@ -15128,7 +14783,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 803
         },
-        "Blackbelt (Victory Road)": {
+        "Blackbelt 1 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -15142,9 +14797,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 882
         },
-        "CoolTrainer F 1 (Victory Road)": {
+        "CoolTrainer F 3 - Victory Road": {
             "level": 90,
             "dvs": {
                 "hp": 8,
@@ -15158,9 +14814,10 @@ var SETDEX_RBY = {
                 "Body Slam",
                 "Blizzard",
                 "Hydro Pump"
-            ]
+            ],
+			 "index": 909
         },
-        "Lorelei (Indigo Plateau)": {
+        "Lorelei": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -15174,23 +14831,8 @@ var SETDEX_RBY = {
                 "Blizzard",
                 "Body Slam",
                 "Sand Attack"
-            ]
-        },
-        "Lorelei 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Hydro Pump",
-                "Blizzard",
-                "Body Slam",
-                "Sand Attack"
-            ]
+            ],
+			 "index": 918
         }
     },
     "Venomoth": {
@@ -15545,7 +15187,7 @@ var SETDEX_RBY = {
             ],
 			 "index": 761
         },
-        "Prof. Oak (Indigo Plateau)": {
+        "Prof. Oak": {
             "level": 115,
             "dvs": {
                 "hp": 8,
@@ -15559,23 +15201,8 @@ var SETDEX_RBY = {
                 "Razor Leaf",
                 "Body Slam",
                 "Double Team"
-            ]
-        },
-        "Prof. Oak 101 (Indigo Plateau)": {
-            "level": 101,
-            "dvs": {
-                "hp": 8,
-                "at": 9,
-                "df": 8,
-                "sl": 8,
-                "sp": 8
-            },
-            "moves": [
-                "Sleep Powder",
-                "Razor Leaf",
-                "Body Slam",
-                "Double Team"
-            ]
+            ],
+			 "index": 926
         }
     },
     "Victreebel": {
