@@ -155,33 +155,37 @@
                     <input type="checkbox" id="importedSets"> Only show imported sets</input> 
                 </span>
                 <div class="info-group top i-f-type">
-                    <div>
-                        <label>Type</label>
-                        <select aria-label="type1" class="type1 terrain-trigger calc-trigger"></select>
-                        <select aria-label="type2" class="type2 terrain-trigger calc-trigger"></select>
-                        <small class="right">(<a class="analysis links-lighten" target="_blank" href="">Smogon&nbsp;analysis</a>)</small>
-                    </div>
-                    <div class="gen-specific g9">
-                        <label>Tera Type</label>
-                        <select class="teraType terrain-trigger calc-trigger"></select>
-                        <input type="checkbox" title= "Has this Pok&eacute;mon terastalized?" class="teraToggle terrain-trigger calc-trigger">
-                    </div>
-                    <div class="hide">
-                        <label>Forme</label>
-                        <select class="forme calc-trigger"></select>
-                    </div>
-                    <div class="hide">
-                        <label>Gender</label>
-                        <select class="gender calc-trigger"><option></option><option selected="selected">Male</option><option>Female</option></select>
-                    </div>
-                    <div>
-                        <label for="levelL1">Level</label>
-                        <input class="level calc-trigger" id="levelL1" value="100" />
-                    </div>
-                    <div class="hide">
-                        <label for="weightL1">Weight (kg)</label>
-                        <input class="weight calc-trigger" id="weightL1" value="10.0" />
-                    </div>
+                   <div>
+                      <label>Type</label>
+                      <select aria-label="type1" class="type1 terrain-trigger calc-trigger"></select>
+                      <select aria-label="type2" class="type2 terrain-trigger calc-trigger"></select>
+                      <small class="right">(<a class="analysis links-lighten" target="_blank" href="">Smogon&nbsp;analysis</a>)</small>
+                   </div>
+                   <div class="gen-specific g9">
+                      <label>Tera Type</label>
+                      <select class="teraType terrain-trigger calc-trigger"></select>
+                      <input type="checkbox" title="Has this Pok&eacute;mon terastalized?" class="teraToggle terrain-trigger calc-trigger">
+                   </div>
+                   <div class="hide">
+                      <label>Forme</label>
+                      <select class="forme calc-trigger"></select>
+                   </div>
+                   <div class="hide">
+                      <label>Gender</label>
+                      <select class="gender calc-trigger"><option></option><option selected="selected">Male</option><option>Female</option></select>
+                   </div>
+                   <div>
+                      <label for="levelL1">Level</label>
+                      <input class="level calc-trigger" id="levelL1" value="100" />
+                   </div>
+                   <div class="gen-specific g1">
+                      <label>Crit %</label>
+                      <span class="crit-chance calc-trigger" id="critChanceL1" value="0.1">0.1</span>
+                   </div>
+                   <div class="hide">
+                      <label for="weightL1">Weight (kg)</label>
+                      <input class="weight calc-trigger" id="weightL1" value="10.0" />
+                   </div>
                 </div>
                 <div class="info-group i-f-stats">
                     <table>
@@ -1241,33 +1245,37 @@
                     <input type="checkbox" id="importedSets"> Only show imported sets</input>
                 </span>
                 <div class="info-group top i-f-o-type">
-                    <div>
-                        <label>Type</label>
-                        <select aria-label="Type 1" class="type1 terrain-trigger calc-trigger"></select>
-                        <select aria-label="Type 2" class="type2 terrain-trigger calc-trigger"></select>
-                        <small class="right">(<a class="analysis links-lighten" target="_blank" href="">Smogon&nbsp;analysis</a>)</small>
-                    </div>
-                    <div class="gen-specific g9">
-                        <label>Tera Type</label>
-                        <select class="teraType terrain-trigger calc-trigger"></select>
-                        <input type="checkbox" title= "Has this Pok&eacute;mon terastalized?" class="teraToggle terrain-trigger calc-trigger">
-                    </div>
-                    <div class="hide">
-                        <label>Forme</label>
-                        <select class="forme calc-trigger"></select>
-                    </div>
-                    <div class="hide">
-                        <label>Gender</label>
-                        <select class="gender calc-trigger"><option></option><option selected="selected">Male</option><option>Female</option></select>
-                    </div>
-                    <div>
-                        <label for="levelR1">Level</label>
-                        <input class="level calc-trigger" id="levelR1" value="100" />
-                    </div>
-                    <div class="hide">
-                        <label for="weightR1">Weight (kg)</label>
-                        <input class="weight calc-trigger" id="weightR1" value="10.0" />
-                    </div>
+                   <div>
+                      <label>Type</label>
+                      <select aria-label="Type 1" class="type1 terrain-trigger calc-trigger"></select>
+                      <select aria-label="Type 2" class="type2 terrain-trigger calc-trigger"></select>
+                      <small class="right">(<a class="analysis links-lighten" target="_blank" href="">Smogon&nbsp;analysis</a>)</small>
+                   </div>
+                   <div class="gen-specific g9">
+                      <label>Tera Type</label>
+                      <select class="teraType terrain-trigger calc-trigger"></select>
+                      <input type="checkbox" title="Has this Pok&eacute;mon terastalized?" class="teraToggle terrain-trigger calc-trigger">
+                   </div>
+                   <div class="hide">
+                      <label>Forme</label>
+                      <select class="forme calc-trigger"></select>
+                   </div>
+                   <div class="hide">
+                      <label>Gender</label>
+                      <select class="gender calc-trigger"><option></option><option selected="selected">Male</option><option>Female</option></select>
+                   </div>
+                   <div>
+                      <label for="levelR1">Level</label>
+                      <input class="level calc-trigger" id="levelR1" value="100" />
+                   </div>
+                   <div class="gen-specific g1">
+                      <label>Crit %</label>
+                      <span class="crit-chance calc-trigger" id="critChanceR1" value="0.1">0.1</span>
+                   </div>
+                   <div class="hide">
+                      <label for="weightR1">Weight (kg)</label>
+                      <input class="weight calc-trigger" id="weightR1" value="10.0" />
+                   </div>
                 </div>
                 <div class="info-group i-f-o-stats">
                     <table>

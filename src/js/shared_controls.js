@@ -86,6 +86,15 @@ function validate(obj, min, max) {
 	obj.val(Math.max(min, Math.min(max, ~~obj.val())));
 }
 
+function calcCritChance(poke) {
+	var speed = poke.find(".sp .base").val();
+	var critChance = (speed / 2) / 256;
+	critChance = critChance * 100;
+	critChance = critChance.toFixed(2);
+	poke.find(".crit-chance").text(critChance);
+	return critChance;
+}
+
 $("input:radio[name='format']").change(function () {
 	var gameType = $("input:radio[name='format']:checked").val();
 	if (gameType === 'Singles') {
@@ -219,6 +228,11 @@ $(".percent-hp").keyup(function () {
 	validate($(this), 0, 100);
 	var percent = $(this).val();
 	calcCurrentHP($(this).parent(), max, percent);
+});
+
+$(".crit-chance").keyup(function () {
+	var poke = $(this).closest(".poke-info");
+	calcCritChance(poke);
 });
 
 $(".ability").bind("keyup change", function () {
@@ -667,6 +681,7 @@ $(".set-selector").change(function () {
 		}
 		calcHP(pokeObj);
 		calcStats(pokeObj);
+		calcCritChance(pokeObj);
 		abilityObj.change();
 		itemObj.change();
 		if (pokemon.gender === "N") {
@@ -891,6 +906,7 @@ function createPokemon(pokeInfo) {
 		var teraType = pokeInfo.find(".teraToggle").is(":checked") ? pokeInfo.find(".teraType").val() : undefined;
 		pokeInfo.isDynamaxed = isDynamaxed;
 		calcHP(pokeInfo);
+		calcCritChance(pokeInfo);
 		var curHP = ~~pokeInfo.find(".current-hp").val();
 		// FIXME the Pokemon constructor expects non-dynamaxed HP
 		if (isDynamaxed) curHP = Math.floor(curHP / 2);
@@ -1092,7 +1108,7 @@ var RANDDEX = [
 	typeof GEN8RANDOMBATTLE === 'undefined' ? {} : GEN8RANDOMBATTLE,
 	typeof GEN9RANDOMBATTLE === 'undefined' ? {} : GEN9RANDOMBATTLE,
 ];
-var gen, genWasChanged, notation, pokedex, setdex, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
+var gen, genWasChanged, notation, pokedex, setdex, randdex, typeChart, moves, abilities, items, calcHP, calcCritChance, calcStat, GENERATION;
 
 TR_NAMES = get_trainer_names()
 
